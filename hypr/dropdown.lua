@@ -1,4 +1,3 @@
-local hl = require("hyprland")
 
 local M = {}
 
