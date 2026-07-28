@@ -1,0 +1,35 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "{9efc0280-b125-400e-b53d-2d09d7effab4}"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "content-scripts/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self';",
+      "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval'; child-src 'self';"
+   },
+   "description": "A browser extension for searching IP, domain, URL, hash, etc. via the context menu.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyQexwhmWkhAmMbkib4ecvTxlXD/WnrBaPhGtRT00HccEJHzRr5r97LTRtDB8L1YUibqaReNDKUUUoXswl7Z+PBtVeIcmPIISvw0Qv1c7b5b0hm/H56L8VHyF4mhVDUfI99k+TLFuIqX9+OX/3+p3Sztg7l3Ai1DpyGOD8QAA70RVmFT1ESoIlz7Hy326o89CF8o1bBtKbXwsGHM9lxOIcvitAhMQTWjBLVZyW0QePUHTFsVdwBLNJUsZEGbb3dFJOYSHSSkvHXgv/ToFBpF6zTqy41RwbFBXFL7LqIGakQOWhXO3S28jlszGNStkM1GuZFB77vHydGrsCQC1I4hmiQIDAQAB",
+   "manifest_version": 3,
+   "name": "Mitaka",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "contextMenus", "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.9.0"
+}

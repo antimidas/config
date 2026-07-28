@@ -1,0 +1,37 @@
+{
+  "oTs1zA5Hy2oL2431YZZ6ds": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "enableWineWayland": true,
+    "enableHDR": false,
+    "enableWoW64": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "useSteamRuntime": true,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": true,
+    "advertiseAvxForRosetta": false,
+    "enableQuickSavesMenu": false,
+    "wineVersion": {
+      "bin": "/home/anti/.config/heroic/tools/proton/GE-Proton-latest/proton",
+      "name": "GE-Proton-latest",
+      "type": "proton"
+    },
+    "winePrefix": "/home/anti/Games/Heroic/Prefixes/sideload",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ws-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chrome": "^0.0.271",
+    "@types/jquery": "^3.5.30"
+  }
+}

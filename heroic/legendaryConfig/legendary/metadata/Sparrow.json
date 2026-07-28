@@ -1,0 +1,5432 @@
+{
+  "app_name": "Sparrow",
+  "app_title": "Zombie Army 4 Dead War",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Sparrow",
+      "asset_id": "Sparrow",
+      "build_version": "0.1.1061147",
+      "catalog_item_id": "aae5da6920b4493ab0ae78ea2889a9a6",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "00232ad7bf0145f381e618ace8e66958"
+      },
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-07T02:18:16.454Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ZombieArmy4"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "dfd2530e80e4425d801913b0879be444"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Zombie Army 4 Dead War",
+    "developer": "Rebellion",
+    "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-24T20:50:57.131Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Bloodsoaked Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "bbe7793516cc482392a71cf5c03e5147",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bbe7793516cc482392a71cf5c03e5147",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:39:18.943Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00017Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Bloodsoaked Weapon Skins Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:05:09.670Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Toxic Hazard Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "d04d787a25324f298a093d11a3cd24bc",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d04d787a25324f298a093d11a3cd24bc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Toxic Hazard Weapon Skins Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Toxic Hazard Weapon Skins Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T19:46:04.785Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Paratrooper Zombie Character Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "f351e7a41008402e8e2bc2941e6c8fb3",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f351e7a41008402e8e2bc2941e6c8fb3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "Paratrooper Zombie Character Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Paratrooper Zombie Character Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-27T16:48:59.491Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Sparrow S4 Pass  audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "facd7731a843493481d537b9edb6b2ff",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "facd7731a843493481d537b9edb6b2ff",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "Sparrow S4 Pass  audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sparrow S4 Pass  audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-29T17:48:53.581Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Crossbow Rifle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "206e7b72a18a4203ab0d6d3b1212e124",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "206e7b72a18a4203ab0d6d3b1212e124",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Crossbow Rifle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Crossbow Rifle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-24T20:50:49.687Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Renegade Officer Character Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "4a9885ded051495b93e273e59ca3f096",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a9885ded051495b93e273e59ca3f096",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:47:27.247Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "DLC00013Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Renegade Officer Character Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-29T17:49:00.807Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Lone Wolf Jun Outfit Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "2f910e6e39114fb1bda284e6822dd31e",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f910e6e39114fb1bda284e6822dd31e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Lone Wolf Jun Outfit Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Lone Wolf Jun Outfit Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:00:39.813Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Classic Sports Headgear Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "c27d74d04b62484993978451914e1d42",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c27d74d04b62484993978451914e1d42",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Classic Sports Headgear Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Classic Sports Headgear Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-22T18:16:18.349Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DeadZeppelin"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dfd2530e80e4425d801913b0879be444"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "Zombie Army 4: Mission 6 - Dead Zeppelin",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "59ca4eac67f4426a914711e2f63aeacb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "59ca4eac67f4426a914711e2f63aeacb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 450,
+            "md5": "013262447600176336c1f752a7b4b253",
+            "size": 299089,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-01-06T19:51:46.254Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DeadZeppelin_Mission-900x450-013262447600176336c1f752a7b4b253.jpg",
+            "width": 900
+          },
+          {
+            "height": 1180,
+            "md5": "45e52f60f91fa306ba8f37797ef41690",
+            "size": 410069,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-01-06T19:51:57.706Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DeadZeppelin_Mission_REDEMPTIONIMAGE-860x1180-45e52f60f91fa306ba8f37797ef41690.jpg",
+            "width": 860
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "4b3ba4daf4f4425b97dbe2b476d7a0fd",
+            "dateAdded": "2019-06-25T00:00:00.000Z",
+            "id": "fa5947622d9045a9a5162f733ceaf971",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 6 - Dead Zeppelin",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-24T20:50:34.527Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Blood Count",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "b59aa34734f64c839e7a392aabfc50be",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b59aa34734f64c839e7a392aabfc50be",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00012Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Blood Count Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-24T20:48:59.784Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Gas Mask Headgear Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a74c24bc244146d69a7a5bfe2c6d57e2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a74c24bc244146d69a7a5bfe2c6d57e2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:48:05.365Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00029Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Gas Mask Headgear Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-01T13:17:36.226Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Sparrow Season Pass Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "24d4a16cb3a94723904f816f79c0e1f0",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "24d4a16cb3a94723904f816f79c0e1f0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:43:57.326Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Sparrow Season Pass Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-29T17:49:08.873Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Flags Charm Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "5e87c7dd8bed461f9b5630ac196a411f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5e87c7dd8bed461f9b5630ac196a411f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Flags Charm Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Flags Charm Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:01:34.902Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Sports Charm Pack Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "74ab864e544d4fe488f61653b75d433f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "74ab864e544d4fe488f61653b75d433f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Sports Charm Pack Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sports Charm Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-16T21:35:41.359Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Nagant M1895 Pistol Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "ad80b9122a6d473aa0fb70cf349cb9c2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ad80b9122a6d473aa0fb70cf349cb9c2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Nagant M1895 Pistol Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Nagant M1895 Pistol Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "developer"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-09-04T13:51:14.771Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ZA4Mission8"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Zombie Army 4: Mission 8 - Abaddon Asylum",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "892452ffb3714414985feaae07a0cc06",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "892452ffb3714414985feaae07a0cc06",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ada7d99b780af08c95f04d4968763550",
+            "size": 423449,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-06-22T05:53:16.507Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Abaddon_Asylum_S1_2560x1440_2560x1440-ada7d99b780af08c95f04d4968763550",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "adb4a0825f48499337bc81b8f26124a8",
+            "size": 495945,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-06-22T05:53:24.146Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Abaddon_Asylum_S2_1200x1600_1200x1600-adb4a0825f48499337bc81b8f26124a8",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "c46fde5964a946c4aab9f7b124fa7554",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-22T00:00:00.000Z",
+            "id": "00a77455cf51434792e0e4b0616e273b",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 8 - Abaddon Asylum",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-30T13:51:51.900Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Holiday Weapon Skins",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "46d292c6ec7b4716814fcc41251f0247",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "46d292c6ec7b4716814fcc41251f0247",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Holiday Weapon Skins",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Holiday Weapon Skins",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-17T22:05:47.033Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Josiah Detective audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "1f10d960309344f6b1c342ae304590a5",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f10d960309344f6b1c342ae304590a5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Josiah Detective audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Josiah Detective audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-24T20:50:44.950Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Mortar Shotgun Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "6a25a6ff27f944f2b21b02de6bb04ca5",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6a25a6ff27f944f2b21b02de6bb04ca5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:38:49.631Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00015Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Mortar Shotgun Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-16T21:36:27.286Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Horror Charm Pack Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "0c98afaae33c4abfb1428986af9498b7",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0c98afaae33c4abfb1428986af9498b7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Horror Charm Pack Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horror Charm Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-16T18:21:08.756Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ZA4Mission9"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SparrowMission11\n",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "9e5219e2a2c04ac4b811e2f46fab5bf8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9e5219e2a2c04ac4b811e2f46fab5bf8",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-27T15:33:01.705Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "af3536f8a0474ba08eae36c578305d89",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-22T00:00:00.000Z",
+            "id": "b905fa77518d49abbc461c79e671d1d4",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SparrowMission11",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-03T20:18:19.098Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Undead Airman Character",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "2f7da578cff346468d301bf4cb58a605",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f7da578cff346468d301bf4cb58a605",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:49:34.057Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Undead Airman Character",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:25:06.580Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00088",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "7d654aaab3bb42ea92f19f5939da86f8",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7d654aaab3bb42ea92f19f5939da86f8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00088",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00088",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:23:05.820Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00084",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "4436898942e64988a8040d809c83f0c3",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4436898942e64988a8040d809c83f0c3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "DLC00084",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00084",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:05:03.930Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "SVT-38 Rifle Bundle",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "cdef0c15709b4d549ce2bd488801478f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cdef0c15709b4d549ce2bd488801478f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "SVT-38 Rifle Bundle",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "SVT-38 Rifle Bundle",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-16T18:20:24.747Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ZA4Mission9"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Ragnar\u00f6k \u2013 Parts I & 2\n",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "3ff7e6df712548078738dd26a536678e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ff7e6df712548078738dd26a536678e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6c6b7fce9859a2e5cbc8eb0d2413ca9c",
+            "size": 477609,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-04T21:22:24.993Z",
+            "url": "https://cdn1.epicgames.com/item/dfd2530e80e4425d801913b0879be444/EN_Rebellion_ZombieArmy4_Ragnar\u00f6k-PtI_S1_2560x1440-6c6b7fce9859a2e5cbc8eb0d2413ca9c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "289945dcf946a7e7b4cc6a0c7bb63da8",
+            "size": 508754,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-04T21:22:28.219Z",
+            "url": "https://cdn1.epicgames.com/item/dfd2530e80e4425d801913b0879be444/EN_Rebellion_ZombieArmy4_Ragnar\u00f6k-PtI_S2_1200x1600-289945dcf946a7e7b4cc6a0c7bb63da8",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "3570286a42d749408a6014248c9bb3ea",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-22T00:00:00.000Z",
+            "id": "c04c74aa29c74ce1934392c587109b0f",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ragnar\u00f6k \u2013 Parts I & 2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-22T18:08:35.662Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ZA4DeeperThanHell"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dfd2530e80e4425d801913b0879be444"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "Zombie Army 4: Mission 3 - Deeper than Hell",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "0558bb99ec3045a08ac212b243b1409d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0558bb99ec3045a08ac212b243b1409d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 450,
+            "md5": "5864255fcc2ae152012af49fc667f18c",
+            "size": 791091,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-15T18:11:05.207Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DeeperThanHell-900x450-5864255fcc2ae152012af49fc667f18c.png",
+            "width": 900
+          },
+          {
+            "height": 1600,
+            "md5": "8b84cb60762566399f8abaefc985818e",
+            "size": 2903582,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-15T18:11:16.671Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZA4_DLC_DeeperThanHell_1200x1600-1200x1600-8b84cb60762566399f8abaefc985818e.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "593a8568277e421ea1ea345040cacc09",
+            "dateAdded": "2019-06-25T00:00:00.000Z",
+            "id": "fa5947622d9045a9a5162f733ceaf971",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 3 - Deeper than Hell",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T18:45:10.499Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Mission 3 - Deeper than Hell Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "72fa75baa55e479f96b3436d95909ad4",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72fa75baa55e479f96b3436d95909ad4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Mission 3 - Deeper than Hell Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Mission 3 - Deeper than Hell Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:44.637Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Zombie Gentleman Dress Uniform Character Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "0bf2a17f1cc042348d68f81c3da563f9",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0bf2a17f1cc042348d68f81c3da563f9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "DLC00024 Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Zombie Gentleman Dress Uniform Character Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:02:11.337Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Bomb Lance Shotgun Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "f2ca2cf452de4c6cbd9d24d83ee691a7",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f2ca2cf452de4c6cbd9d24d83ee691a7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "Bomb Lance Shotgun Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bomb Lance Shotgun Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T17:33:55.868Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00069",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "5b8e0b10a8cc491683911b04a94a2e24",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5b8e0b10a8cc491683911b04a94a2e24",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "DLC00069",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00069",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:41.011Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Sparrow Season Pass 2 Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a6c2cac69064455580c55f9848a56e7f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a6c2cac69064455580c55f9848a56e7f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Sparrow Season Pass 2 Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Sparrow Season Pass 2 Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:13:48.960Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00078",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "e9e618cfbda24438a95f3c5260e0dd1a",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e9e618cfbda24438a95f3c5260e0dd1a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "DLC00078",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00078",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-03T20:19:15.316Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Solid Gold Weapon Skins",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "79d206ed52224466ade4ca3289f86326",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "79d206ed52224466ade4ca3289f86326",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:42:09.108Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Solid Gold Weapon Skins",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-16T21:36:05.928Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Black Ice Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "736b641f3f6f4f1f8d96861a4674082d",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "736b641f3f6f4f1f8d96861a4674082d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Black Ice Weapon Skins Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Black Ice Weapon Skins Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-03T20:25:02.778Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Undercover Karl Outfit",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a537439bb3694303a40fb87f56a38d73",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a537439bb3694303a40fb87f56a38d73",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:35:43.254Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Undercover Karl Outfit",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "developer"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-09-04T13:49:07.056Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TerminalError"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Zombie Army 4: Mission 7 - Terminal Error",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "67105022de4e47ed9c86260487d378fb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "67105022de4e47ed9c86260487d378fb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "157151832751c3226060ea99f9800920",
+            "size": 580063,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-05-04T13:08:15.801Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Terminal-Error_S1_2560x1440_2560x1440-157151832751c3226060ea99f9800920",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b4fa7be888fe6dad9ee430e0588559ce",
+            "size": 544526,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-05-04T13:08:37.122Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Terminal-Error_S2_1200x1600_1200x1600-b4fa7be888fe6dad9ee430e0588559ce",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "c38f55b517344da2af4e2c3cd18bd3e9",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-22T00:00:00.000Z",
+            "id": "00a77455cf51434792e0e4b0616e273b",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 7 - Terminal Error",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-17T22:04:16.217Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Future Karl audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "7d96ab52695e4fffb149739aaa9dbb41",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7d96ab52695e4fffb149739aaa9dbb41",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Future Karl audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Future Karl audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:24:37.014Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00087",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "ffa1b7c53b7e49c1b13051d5f0e0ddba",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ffa1b7c53b7e49c1b13051d5f0e0ddba",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "DLC00087",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00087",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:05:07.300Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Sten MK2 SMG Bundle",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "e4b7daf061a54c579810f15ba0b49c0e",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e4b7daf061a54c579810f15ba0b49c0e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "Sten MK2 SMG Bundle",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Sten MK2 SMG Bundle",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T22:50:51.773Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Afrika Karl Outfit Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "c0925609ca9440869f3ae2d337822e3b",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c0925609ca9440869f3ae2d337822e3b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Afrika Karl Outfit Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Afrika Karl Outfit Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:24:07.324Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00086",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "21aa4b944d654569b19643f07c286ceb",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "21aa4b944d654569b19643f07c286ceb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "DLC00086",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00086",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-03T20:20:35.296Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "FG-42 Automatic Rifle Bundle",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "2819da8eb4504075bcb6e017f647aabf",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2819da8eb4504075bcb6e017f647aabf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:35:12.012Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "FG-42 Automatic Rifle Bundle",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-20T18:15:08.845Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Molten Lava Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a28dc2b8d8d447d2b55c2392cd752582",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a28dc2b8d8d447d2b55c2392cd752582",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:38:05.787Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Zombie Army 4: Molten Lava Weapon Skins Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Molten Lava Weapon Skins Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:23:37.099Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00085",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "ddcfaef2c36141b49bfe7a31364f8a50",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ddcfaef2c36141b49bfe7a31364f8a50",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "DLC00085",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00085",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-20T18:15:04.821Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Classic Boris Outfit Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "332a22940eab4db289dce3bcd9821519",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "332a22940eab4db289dce3bcd9821519",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:51:10.757Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Classic Boris Outfit Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Classic Boris Outfit Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-20T18:15:00.681Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "M1 Semi-auto Carbine Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "4bb922e9dbff4c9b8d7ee2fd10fe40f2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4bb922e9dbff4c9b8d7ee2fd10fe40f2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:46:57.786Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "M1 Semi-auto Carbine Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-30T13:51:47.616Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Holiday Season Charm Pack",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "d230d2fb56b94a528c96e9bc7335aea6",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d230d2fb56b94a528c96e9bc7335aea6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Holiday Season Charm Pack",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Holiday Season Charm Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:05:05.517Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00076",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a5c9193b39314dcca240da1452ff77aa",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a5c9193b39314dcca240da1452ff77aa",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00076",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00076",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-20T18:14:52.645Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "PPSH Submachine Gun Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "abd1aadd3e5d44599beb663c157f6ad5",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "abd1aadd3e5d44599beb663c157f6ad5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:46:08.441Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "PPSH Submachine Gun Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "PPSH Submachine Gun Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-29T17:49:12.444Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Crossbow Pistol Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "39d2893fbebc42c88d9aa27aed5edf39",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "39d2893fbebc42c88d9aa27aed5edf39",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          },
+          {
+            "height": 1440,
+            "md5": "8ccfeafbf2d3455af5a5e423c07e4e62",
+            "size": 1017651,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-08-12T18:09:01.602Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_WISHLIST-LANDSCAPE_CrossbowPistolBundle-2560x1440-8ccfeafbf2d3455af5a5e423c07e4e62.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1180,
+            "md5": "7294e2ad5bf714a4f078a39ffc95d43c",
+            "size": 895022,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-08-12T18:18:09.915Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
+            "width": 860
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Crossbow Pistol Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Crossbow Pistol Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-30T17:13:09.117Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BloodCount"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dfd2530e80e4425d801913b0879be444"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "Zombie Army 4: Mission 2 - Blood Count",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a9f9e1438e3943038c5cae780c25f46c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a9f9e1438e3943038c5cae780c25f46c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 440,
+            "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+            "size": 85825,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-02-03T19:15:03.788Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+            "width": 330
+          },
+          {
+            "height": 450,
+            "md5": "70c915063a125a074c0106a0a96f2b10",
+            "size": 706168,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-23T14:07:23.779Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_BloodCount-900x450-70c915063a125a074c0106a0a96f2b10-900x450-70c915063a125a074c0106a0a96f2b10.png",
+            "width": 900
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "20c26385bd7048f8acf608bfdae4d790",
+            "dateAdded": "2019-06-25T00:00:00.000Z",
+            "id": "fa5947622d9045a9a5162f733ceaf971",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 2 - Blood Count",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-29T17:49:04.714Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Carbon Weapon Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "c23ee331fd9e45f7af5bc36404d4f7d5",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c23ee331fd9e45f7af5bc36404d4f7d5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Carbon Weapon Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Carbon Weapon Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T18:45:20.001Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Blood Count",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "b72c3ecd7fc24ce4845dae61c257f785",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b72c3ecd7fc24ce4845dae61c257f785",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "DLC00012Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Blood Count Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "developer"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-09-04T13:52:08.153Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ZA4Mission9"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Zombie Army 4: Mission 9 - Return to Hell",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "6f8dd102d90b4df197c1f19c49402d68",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6f8dd102d90b4df197c1f19c49402d68",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "a1d38dc3c51c99c165a88e8918046edf",
+            "size": 500812,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-27T02:30:11.093Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Return-To-Hell_S1_2560x1440_2560x1440-a1d38dc3c51c99c165a88e8918046edf",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "5afccc56b69cd99e4b3ef21d3e6b7a59",
+            "size": 506855,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-27T02:30:16.134Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Return-To-Hell_S2_1200x1600_1200x1600-5afccc56b69cd99e4b3ef21d3e6b7a59",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "3ee81dd110314e0f908cda94522930cc",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-22T00:00:00.000Z",
+            "id": "00a77455cf51434792e0e4b0616e273b",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 9 - Return to Hell",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:00:19.284Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Desert Damaged Weapon Skins",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "e765ec7cd39740e1aa5eaf5b6c11bfa0",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e765ec7cd39740e1aa5eaf5b6c11bfa0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "Desert Damaged Weapon Skins",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Desert Damaged Weapon Skins",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-22T18:16:04.026Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DamnationValley"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dfd2530e80e4425d801913b0879be444"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "Zombie Army 4: Mission 4 - Damnation Valley",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "590ff62274ab46db99071672ebd78e05",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "590ff62274ab46db99071672ebd78e05",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 450,
+            "md5": "ab8dc9e8d539b179869e0169286f1a4a",
+            "size": 731184,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-05T18:29:29.250Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DamnationValley-900x450-ab8dc9e8d539b179869e0169286f1a4a.png",
+            "width": 900
+          },
+          {
+            "height": 1180,
+            "md5": "591456d46e1dee9676dcb97fd4cb0dcf",
+            "size": 1516175,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-05T18:29:42.486Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DamnationValley_REDEMPTIONIMAGE-860x1180-591456d46e1dee9676dcb97fd4cb0dcf.png",
+            "width": 860
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "81d8bd1216124e6192d40e1faa31f1d5",
+            "dateAdded": "2019-06-25T00:00:00.000Z",
+            "id": "fa5947622d9045a9a5162f733ceaf971",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 4 - Damnation Valley",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:01:02.727Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Grease Gun SMG Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "9fba1c66fbca4a2cacdb7cbdd541f3be",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9fba1c66fbca4a2cacdb7cbdd541f3be",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Grease Gun SMG Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Grease Gun SMG Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:58.704Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Zombie Army 4: Berserker Boris Outfit",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "bb4abc5cd7614a1f9529a1f2af377842",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bb4abc5cd7614a1f9529a1f2af377842",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Zombie Army 4: Berserker Boris Outfit",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Berserker Boris Outfit",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:56.527Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Halloween Charm Pack Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "50fb6e041f8b4aaf90d5c61263803ff9",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "50fb6e041f8b4aaf90d5c61263803ff9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Halloween Charm Pack Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Halloween Charm Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:01:52.697Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "M1903 Springfield Rifle Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "928a7049985f421995d0e8b4fe930d11",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "928a7049985f421995d0e8b4fe930d11",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "M1903 Springfield Rifle Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "M1903 Springfield Rifle Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T19:45:57.903Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Luger Pistol Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "38c3377b0dbc4372a57d70ded663b5b0",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "38c3377b0dbc4372a57d70ded663b5b0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Luger Pistol Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Luger Pistol Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T19:45:52.361Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "French Resistance Fighter Character Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "c0893fd30e7048c3abbedcd3c8f1a11c",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c0893fd30e7048c3abbedcd3c8f1a11c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "French Resistance Fighter Character Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "French Resistance Fighter Character Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T22:49:57.141Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Armour Plated Shola Outfit Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "72809fbbc6224479aa30f62da2df234a",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72809fbbc6224479aa30f62da2df234a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Armour Plated Shola Outfit Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Armour Plated Shola Outfit Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-19T23:01:19.087Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Armoured Giant Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a5f8e2b6a0264369bb8fbd17d9f30f8e",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a5f8e2b6a0264369bb8fbd17d9f30f8e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Armoured Giant Weapon Skins Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Armoured Giant Weapon Skins Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:03:32.873Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00075",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "2da2724f43354eaaa62eaf844078c733",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2da2724f43354eaaa62eaf844078c733",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "DLC00075",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00075",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-17T22:05:29.257Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Marie Lounge Singer audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "31ba916570dc4eb0a9d9dba2429458eb",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "31ba916570dc4eb0a9d9dba2429458eb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Marie Lounge Singer audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Marie Lounge Singer audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-03T20:23:49.422Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "M1895 Rifle Bundle",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "da10ee84da454dc5aefdeb59ec66bd7d",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "da10ee84da454dc5aefdeb59ec66bd7d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:42:44.040Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "M1895 Rifle Bundle",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:06:24.587Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "DLC00077",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "eebe26124d5442748435386d2f0c580a",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eebe26124d5442748435386d2f0c580a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "DLC00077",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC00077",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-30T13:51:43.802Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Holiday Season Headgear Bundle",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "aed0ff5c8e6f41cd8085aa5c768a45af",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aed0ff5c8e6f41cd8085aa5c768a45af",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Holiday Season Headgear Bundle",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Holiday Season Headgear Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T19:46:01.498Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Shotgun Pistol Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "1f9480f11dc54c7f8ebe9bb8bccb93f2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f9480f11dc54c7f8ebe9bb8bccb93f2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Shotgun Pistol Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Shotgun Pistol Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:50.730Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Lee Enfield Rifle Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "e7cfddd06e084a0f94cdfcf79c04740e",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7cfddd06e084a0f94cdfcf79c04740e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.813Z",
+        "longDescription": "Lee Enfield Rifle Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Lee Enfield Rifle Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "developer"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-10-24T19:34:05.113Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ZA4Mission"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Zombie Army 4: Mission 1 - Terror Lab",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "9d161ced711e4d118bed5c40dcce5dbf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9d161ced711e4d118bed5c40dcce5dbf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1eeb98e89dc65ca3ba6ef989ab602b41",
+            "size": 4222389,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-10T01:09:57.362Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_WISHLIST-LANDSCAPE_TERRORLAB-2560x1440-1eeb98e89dc65ca3ba6ef989ab602b41.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1148,
+            "md5": "c3835a37389a4d89905b6c42e164351a",
+            "size": 1022061,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-03-10T01:10:18.974Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_WISHLIST-PORTRAIT_TERRORLAB-860x1148-c3835a37389a4d89905b6c42e164351a.jpg",
+            "width": 860
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "SparrowMission",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-22T00:00:00.000Z",
+            "id": "00a77455cf51434792e0e4b0616e273b",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 1 - Terror Lab",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-20T18:14:45.252Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "American Sea Captain Character Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "566e957fc95e46fd82a85927b78d5821",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "566e957fc95e46fd82a85927b78d5821",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Zombie Army 4: American Sea Captain Character Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "American Sea Captain Character Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T13:43:20.329Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "SparrowMission9 Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "3720cdf9f49b4a2882c4fe01b813025d",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3720cdf9f49b4a2882c4fe01b813025d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "SparrowMission9 Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SparrowMission9 Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-16T21:35:09.790Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Night Ops Jun Outfit  Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "80a129d6e25c4eaaafc34f250eb7060f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "80a129d6e25c4eaaafc34f250eb7060f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Night Ops Jun Outfit  Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Night Ops Jun Outfit  Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:05:01.066Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Bucket Headgear Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "42eca4905b604fa58bf6e7c42c9ade7c",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "42eca4905b604fa58bf6e7c42c9ade7c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Bucket Headgear Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Bucket Headgear Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:53.744Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Occult Ritual Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "2f14d809e6164ff0a6c00e1e7d2c80a8",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f14d809e6164ff0a6c00e1e7d2c80a8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "Occult Ritual Weapon Skins Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Occult Ritual Weapon Skins Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-05-22T18:16:12.266Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AlpineBlitz"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "dfd2530e80e4425d801913b0879be444"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "Zombie Army 4: Mission 5 \u2013 Alpine Blitz",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "631cd1a97550415fa1a4d1b60e49ca40",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "631cd1a97550415fa1a4d1b60e49ca40",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1180,
+            "md5": "bac11e80702bd088ac83d62c17f5133d",
+            "size": 1495629,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-12-08T18:41:08.467Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-bac11e80702bd088ac83d62c17f5133d.png",
+            "width": 860
+          },
+          {
+            "height": 450,
+            "md5": "724f4df30e491c61dd22b637f0807da9",
+            "size": 721640,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-01-06T19:54:21.706Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Alpine_BLitz-900x450-724f4df30e491c61dd22b637f0807da9.png",
+            "width": 900
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "releaseInfo": [
+          {
+            "appId": "17312e44fd454fb2b039293fa36c2150",
+            "dateAdded": "2019-06-25T00:00:00.000Z",
+            "id": "fa5947622d9045a9a5162f733ceaf971",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Zombie Army 4: Mission 5 \u2013 Alpine Blitz",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-22T19:46:19.071Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Wrapping Paper Weapon Skins Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "a924e74006164a3db8934255db7b0c2b",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a924e74006164a3db8934255db7b0c2b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:34:37.380Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Wrapping Paper Weapon Skins Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Wrapping Paper Weapon Skins Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-04T12:04:47.893Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Halloween Headgear Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "9106aa60df7b44f5816a8e9fac7aa416",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9106aa60df7b44f5816a8e9fac7aa416",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+        "longDescription": "Halloween Headgear Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "status": "ACTIVE",
+        "title": "Halloween Headgear Bundle Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-16T21:36:50.946Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "7.65mm Polizeipistole Pistol Bundle Audience",
+        "developer": "Rebellion",
+        "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+        "endOfSupport": false,
+        "entitlementName": "37df6393e75a4ae29a54c6172ab5d9da",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "37df6393e75a4ae29a54c6172ab5d9da",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+            "size": 109719,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-05T14:37:11.413Z",
+            "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-11T13:37:19.808Z",
+        "longDescription": "7.65mm Polizeipistole Pistol Bundle Audience",
+        "mainGameItem": {
+          "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+          "namespace": "dfd2530e80e4425d801913b0879be444",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+            "namespace": "dfd2530e80e4425d801913b0879be444",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "dfd2530e80e4425d801913b0879be444",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "7.65mm Polizeipistole Pistol Bundle Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "aae5da6920b4493ab0ae78ea2889a9a6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "aae5da6920b4493ab0ae78ea2889a9a6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 450,
+        "md5": "3228a9f6390e741fc297097869bf1cec",
+        "size": 207086,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-02-03T19:14:39.467Z",
+        "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_STANDARDEDITION-900x450-d9c7708b9ce7262d605151d696ae85a1ca513d20-900x450-3228a9f6390e741fc297097869bf1cec.png",
+        "width": 900
+      },
+      {
+        "height": 440,
+        "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+        "size": 85825,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-02-03T19:15:03.788Z",
+        "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+        "width": 330
+      }
+    ],
+    "lastModifiedDate": "2025-11-11T13:37:19.812Z",
+    "mainGameItemList": [],
+    "namespace": "dfd2530e80e4425d801913b0879be444",
+    "releaseInfo": [
+      {
+        "appId": "Sparrow",
+        "dateAdded": "2019-06-25T00:00:00.000Z",
+        "id": "b885829c59d6476e84d5804663792174",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Zombie Army 4 Dead War",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,2430 @@
+{
+  "app_name": "Boxfish",
+  "app_title": "Predator: Hunting Grounds Standard Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Boxfish",
+      "asset_id": "Boxfish",
+      "build_version": "rel_3.7.0_B42326_CL495982_Shipping_Client",
+      "catalog_item_id": "9b9be8717867427c8f9b2e2f691549af",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-11-12T21:56:02.629Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "PredatorHuntingGrounds"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5a82d5954a1943d79dc6b49cde2fe972"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "Predator: Hunting Grounds Standard Edition",
+    "developer": "IllFonic",
+    "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-09T00:55:51.965Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC02 Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "37679c2fc06542d7bdf12f71a26e5876",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "37679c2fc06542d7bdf12f71a26e5876",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "DLC02 Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-01T01:35:26.091Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC10 Bundle Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "5e74539a0f6e4d2185adeb962b032fa1",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5e74539a0f6e4d2185adeb962b032fa1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC10 Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-09T00:57:15.061Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "City Hunter Predator Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "f08f9fb34c1241e2b537dea5125dd301",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f08f9fb34c1241e2b537dea5125dd301",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "City Hunter Predator Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-24T22:14:06.915Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Valkyrie Predator Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "beab441035434e84a093cb401edc8791",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "beab441035434e84a093cb401edc8791",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Valkyrie Predator Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-30T07:07:14.691Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC Add-on Bundle Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "04aadd1e4ef24f589849e2758337a454",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "04aadd1e4ef24f589849e2758337a454",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC Add-on Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-09T01:00:22.345Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC06 Pack Audience",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "01e25cbc1e02448cbb9ffbd1911f0173",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "01e25cbc1e02448cbb9ffbd1911f0173",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "status": "ACTIVE",
+        "title": "DLC06 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-24T22:14:06.922Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC15 Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "d1139040baf14cb888a7c152d0abb770",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1139040baf14cb888a7c152d0abb770",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC15 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-04-09T17:54:01.070Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Exiled Predator Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "6a8f3e183a224b258c7243cdf18a6dab",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6a8f3e183a224b258c7243cdf18a6dab",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:21.313Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Exiled Predator Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-09T01:01:13.285Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC07 Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "f8b726f9d6294b238caca82ce45101d7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f8b726f9d6294b238caca82ce45101d7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.253Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "status": "ACTIVE",
+        "title": "DLC07 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-24T22:14:06.917Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Bionic Predator Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "c9631de5e6ce4154972d318e1749b393",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9631de5e6ce4154972d318e1749b393",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:21.313Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bionic Predator Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-09T00:59:08.253Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC04 Pack Audience",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "16b0e3a622e54944b0aaa17e72830206",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "16b0e3a622e54944b0aaa17e72830206",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-09-30T16:34:42.889Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "status": "ACTIVE",
+        "title": "DLC04 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-24T22:14:06.894Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC16 Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "4ab606ebb02f46bdbd1fff16b8e69edc",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4ab606ebb02f46bdbd1fff16b8e69edc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:17.789Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC16 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-10T00:42:13.159Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Wolf Predator Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "cb680065e4974a5d8069b0926a479689",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cb680065e4974a5d8069b0926a479689",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-08-01T21:45:10.205Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wolf Predator Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-09T00:59:49.095Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC05 Pack Audience",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "75f2efc0a74c4fb5a2513c6b73e6508d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75f2efc0a74c4fb5a2513c6b73e6508d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-02T07:00:39.202Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "status": "ACTIVE",
+        "title": "DLC05 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-07T00:43:24.838Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dutch 2025 DLC Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "c40256f046cd4897bcff76d95df68a11",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c40256f046cd4897bcff76d95df68a11",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.256Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "status": "ACTIVE",
+        "title": "Dutch 2025 DLC Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-01T01:33:07.815Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC09 Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "d09379f224c64e27a0bf654cb57c73ec",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d09379f224c64e27a0bf654cb57c73ec",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2024-10-15T18:28:42.261Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC09 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-10T00:50:01.986Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Amazon and Pirate Predator",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "861e04d3258941aaa2a40cb4c22a3ccb",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "861e04d3258941aaa2a40cb4c22a3ccb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:21.313Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Amazon and Pirate Predator",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-10T17:45:15.891Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Hunting Party DLC Bundle 3 Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "75ec4f9849f04534a2bcf36695191179",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75ec4f9849f04534a2bcf36695191179",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-08-01T21:46:44.992Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hunting Party DLC Bundle 3 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-23T19:10:06.804Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BoxFish Cert Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "c873dd038f9f4a6b9eb41b132c4e62ff",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c873dd038f9f4a6b9eb41b132c4e62ff",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.270Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BoxFish Cert Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-23T19:10:23.678Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BoxFish RC Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "82fcd35695434781a1967b28e4af14b2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "82fcd35695434781a1967b28e4af14b2",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.260Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BoxFish RC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-23T19:12:55.359Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BoxFish Partners Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "5daba6b6f2dd48d5ae9eb6f2e15a6295",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5daba6b6f2dd48d5ae9eb6f2e15a6295",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.257Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BoxFish Partners Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-23T19:13:54.403Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BoxFish Production Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "d273f243448d4710912daba4dd83f176",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d273f243448d4710912daba4dd83f176",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.260Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BoxFish Production Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-23T19:10:54.473Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BoxFish Testing Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "d6f5e221690143d89e5b4aa1cfc3a322",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6f5e221690143d89e5b4aa1cfc3a322",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.257Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BoxFish Testing Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-23T19:10:39.601Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BoxFish Shipping Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "44b3f2e693ec462a8eac2bf615226f8d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "44b3f2e693ec462a8eac2bf615226f8d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-10-15T18:28:42.269Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BoxFish Shipping Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-06T21:56:38.859Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "PHG Feral Pred DLC Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "008a9d9624f14a2cad91df631a391dfa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "008a9d9624f14a2cad91df631a391dfa",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:21.313Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PHG Feral Pred DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-25T15:52:41.548Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Anubis Predator Pack audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "48f786d6985542599c8fa72b725e31b4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48f786d6985542599c8fa72b725e31b4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-14T13:33:20.215Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Anubis Predator Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-25T15:53:02.314Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Boxfish DLC 3 audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "10e4b58f2970462d8d626d13dc6eeef8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "10e4b58f2970462d8d626d13dc6eeef8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-03-25T21:06:51.319Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Boxfish DLC 3 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-25T15:50:48.201Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Boxfish DLC 1 audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "cf1014be86a94448806098c92f50184f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cf1014be86a94448806098c92f50184f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-03-25T21:43:27.701Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Boxfish DLC 1 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-10T00:43:52.758Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Emissary Predator Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "7908dfd8e75b40dda75c3eea77d47a9a",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7908dfd8e75b40dda75c3eea77d47a9a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:21.313Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Emissary Predator Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-04-09T17:47:51.201Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC12 Pack Audience",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "f60a8951d5d14ed2b979cd11b5068d8b",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f60a8951d5d14ed2b979cd11b5068d8b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 351,
+            "md5": "a9daf67157ca27a17a95af8558b212ff",
+            "size": 54004,
+            "type": "ESRB",
+            "uploadedDate": "2020-06-26T20:39:27.346Z",
+            "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+            "width": 601
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:21.313Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC12 Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.649Z",
+        "customAttributes": {},
+        "description": "Emissary Predator DLC Pack",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "0e33d51b5ab6446a802717f4fd95c11d",
+        "entitlementType": "EXECUTABLE",
+        "id": "0e33d51b5ab6446a802717f4fd95c11d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Emissary Predator DLC Pack-697479",
+            "height": 1440,
+            "md5": "2f01464a98a1261ef59b5b219e5b4e8b",
+            "size": 313896,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-15T22:55:48.762Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_EmissaryPredatorPack_Illfonic_DLC_S1_2560x1440-2f01464a98a1261ef59b5b219e5b4e8b",
+            "width": 2560
+          },
+          {
+            "alt": "Emissary Predator DLC Pack-237143",
+            "height": 1600,
+            "md5": "8e2e0964a9dfb0aa60dd239ee305066e",
+            "size": 238743,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-04-15T22:55:52.658Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_EmissaryPredatorPack_Illfonic_DLC_S2_1200x1600-8e2e0964a9dfb0aa60dd239ee305066e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:20.649Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Emissary Predator DLC Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.662Z",
+        "customAttributes": {},
+        "description": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 3",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "53b2f7ff82924ee89d8344675e00d842",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "53b2f7ff82924ee89d8344675e00d842",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 3-786045",
+            "height": 1440,
+            "md5": "3eeb44cf01597e297a1018cf7867e4e0",
+            "size": 985658,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-08T21:18:41.180Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_HuntingPartyDLCBundle3_IllFonic_DLC_S1_2560x1440-3eeb44cf01597e297a1018cf7867e4e0",
+            "width": 2560
+          },
+          {
+            "alt": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 3-26024",
+            "height": 1600,
+            "md5": "0138068e3ad23bbd6008322a43fc00ec",
+            "size": 312106,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-12-08T21:18:37.569Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_HuntingPartyDLCBundle3_IllFonic_DLC_S2_1200x1600-0138068e3ad23bbd6008322a43fc00ec",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-01T21:46:44.956Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 3",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.648Z",
+        "customAttributes": {},
+        "description": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 2",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "09b1bdea7e074a81895e0b0cf4cdc47d",
+        "entitlementType": "EXECUTABLE",
+        "id": "09b1bdea7e074a81895e0b0cf4cdc47d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 2-908337",
+            "height": 1440,
+            "md5": "255843734302413bfc17984e0e44feea",
+            "size": 424118,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-15T19:05:34.116Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_HuntingPartyDLCBundle2_Illfonic_DLC_S1_2560x1440-255843734302413bfc17984e0e44feea",
+            "width": 2560
+          },
+          {
+            "alt": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 2-114881",
+            "height": 1600,
+            "md5": "cde412a153b2003e0f30f79013945d0a",
+            "size": 250905,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-15T19:05:30.383Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_HuntingPartyDLCBundle2_Illfonic_DLC_S2_1200x1600-cde412a153b2003e0f30f79013945d0a",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:20.648Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator: Hunting Grounds \u2013 Hunting Party DLC Bundle 2",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.673Z",
+        "customAttributes": {},
+        "description": "Cleopatra Predator Pack",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "9f2ed6f7821a45a9beab7cb14dd7995e",
+        "entitlementType": "EXECUTABLE",
+        "id": "9f2ed6f7821a45a9beab7cb14dd7995e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Cleopatra Predator Pack-317601",
+            "height": 1440,
+            "md5": "86ed7a3721e405af2d38a4b6e2589adf",
+            "size": 938923,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-08-30T18:55:26.307Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CleopatraPredatorPack_Illfonic_DLC_S1_2560x1440-86ed7a3721e405af2d38a4b6e2589adf",
+            "width": 2560
+          },
+          {
+            "alt": "Cleopatra Predator Pack-221251",
+            "height": 1600,
+            "md5": "d1ff7b74e5eb9076da3531a504008b5d",
+            "size": 789822,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-08-30T18:55:21.726Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CleopatraPredatorPack_Illfonic_DLC_S2_1200x1600-d1ff7b74e5eb9076da3531a504008b5d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:20.673Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cleopatra Predator Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.654Z",
+        "customAttributes": {},
+        "description": "Wolf Predator Pack",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "239bc837969d4848801a2982013d71ea",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "239bc837969d4848801a2982013d71ea",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Wolf Predator Pack-936200",
+            "height": 1440,
+            "md5": "1771636c067ec61cb75643bd309c31b6",
+            "size": 307005,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-03-02T22:30:40.666Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_WolfPredatorPack_Illfonic_DLC_S1_2560x1440-1771636c067ec61cb75643bd309c31b6_2560x1440-1771636c067ec61cb75643bd309c31b6_2560x1440-1771636c067ec61cb75643bd309c31b6",
+            "width": 2560
+          },
+          {
+            "alt": "Wolf Predator Pack-649910",
+            "height": 1600,
+            "md5": "489b13ba2f9e9a3bb514d567f4af9b84",
+            "size": 491349,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-03-02T22:30:36.006Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_WolfPredatorPack_Illfonic_DLC_S2_1200x1600-489b13ba2f9e9a3bb514d567f4af9b84_1200x1600-489b13ba2f9e9a3bb514d567f4af9b84_1200x1600-489b13ba2f9e9a3bb514d567f4af9b84",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-01T21:45:10.176Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wolf Predator Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.677Z",
+        "customAttributes": {},
+        "description": "Exiled Predator Pack",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "d74f76a69050412bbbb1bb10542f5f43",
+        "entitlementType": "EXECUTABLE",
+        "id": "d74f76a69050412bbbb1bb10542f5f43",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Exiled Predator Pack-530756",
+            "height": 1440,
+            "md5": "247934321418ff82cfeb25b92dc3c13c",
+            "size": 969801,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-21T01:46:59.554Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExiledPredatorPack_Illfonic_DLC_S1_2560x1440-247934321418ff82cfeb25b92dc3c13c",
+            "width": 2560
+          },
+          {
+            "alt": "Exiled Predator Pack-854775",
+            "height": 1600,
+            "md5": "9113c324b2c2da30bddf1dc887d6e9e6",
+            "size": 785378,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-21T01:46:56.368Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExiledPredatorPack_Illfonic_DLC_S2_1200x1600-9113c324b2c2da30bddf1dc887d6e9e6",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:20.677Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Exiled Predator Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.671Z",
+        "description": "Bionic Predator DLC Pack",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "9e3c16f57c1d446d93f9999b684a8f23",
+        "entitlementType": "EXECUTABLE",
+        "id": "9e3c16f57c1d446d93f9999b684a8f23",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Bionic Predator DLC Pack-472135",
+            "height": 1440,
+            "md5": "1e3100947b2cadd10773f8d7cedfe53f",
+            "size": 331057,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-08-18T20:28:18.151Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_BionicPredatorDLCPack_Illfonic_DLC_S1_2560x1440-1e3100947b2cadd10773f8d7cedfe53f_2560x1440-1e3100947b2cadd10773f8d7cedfe53f",
+            "width": 2560
+          },
+          {
+            "alt": "Bionic Predator DLC Pack-627765",
+            "height": 1600,
+            "md5": "f734c04f705c89cb5837a0e7b08a98aa",
+            "size": 229563,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-08-18T20:28:14.281Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_BionicPredatorDLCPack_Illfonic_DLC_S2_1200x1600-f734c04f705c89cb5837a0e7b08a98aa_1200x1600-f734c04f705c89cb5837a0e7b08a98aa",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:20.671Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bionic Predator DLC Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-07-29T17:17:20.660Z",
+        "customAttributes": {},
+        "description": "Predator: Hunting Grounds - Feral Predator",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "4c7dc4ada2cc4f099d0e4a2a0289c522",
+        "entitlementType": "EXECUTABLE",
+        "id": "4c7dc4ada2cc4f099d0e4a2a0289c522",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Predator: Hunting Grounds - Feral Predator-197106",
+            "height": 1440,
+            "md5": "99f90a23fee0a27d426b75ffb843eb42",
+            "size": 1005502,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-24T01:47:56.656Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_PredatorHuntingGroundsFeralPredator_IllFonic_DLC_S1_2560x1440-99f90a23fee0a27d426b75ffb843eb42",
+            "width": 2560
+          },
+          {
+            "alt": "Predator: Hunting Grounds - Feral Predator-543084",
+            "height": 1600,
+            "md5": "c5e77f55b88e01e6a5c665fc5fd4339a",
+            "size": 982191,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-24T01:47:52.312Z",
+            "url": "https://cdn1.epicgames.com/offer/5a82d5954a1943d79dc6b49cde2fe972/EGS_PredatorHuntingGroundsFeralPredator_IllFonic_DLC_S2_1200x1600-c5e77f55b88e01e6a5c665fc5fd4339a",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-29T17:17:20.660Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator: Hunting Grounds - Feral Predator",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-15T19:18:21.502Z",
+        "customAttributes": {},
+        "description": "As a Yautja specializing in stealth, the Oni Predator dedicates all his resources to improving the technology, allowing him to engage his prey from the shadows. He is a warrior who prioritized speed and ranged combat, making him an extremely formidable foe.",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "56b12294fab342ebbeed4489310b6ed5",
+        "entitlementType": "EXECUTABLE",
+        "id": "56b12294fab342ebbeed4489310b6ed5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Predator: Hunting Grounds Predator: Hunting Grounds - Oni Predator Offer",
+            "height": 1440,
+            "md5": "98fe23602954b5100cccc1d9e7226185",
+            "size": 939332,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-05T04:38:31.235Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2cc1592b5e6c4024b21d6d80a2a30587/predator-hunting-grounds-1tttq.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Predator: Hunting Grounds Predator: Hunting Grounds - Oni Predator Offer",
+            "height": 1600,
+            "md5": "b4cd646f78ead7131d7c20339f15676d",
+            "size": 928962,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-05T04:38:30.182Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2cc1592b5e6c4024b21d6d80a2a30587/predator-hunting-grounds-1ojuv.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-01-08T22:04:29.107Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator: Hunting Grounds - Oni Predator",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-10-29T22:25:13.501Z",
+        "customAttributes": {},
+        "description": "Viewed by his own clan as a bloodthirsty aberration, the Jotun Predator lives for the sheer thrill of the kill rather than the honor of the hunt. He is defined by his brutality and savagery.",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "321c83d11d6c4e61be47b5bba729c252",
+        "entitlementType": "EXECUTABLE",
+        "id": "321c83d11d6c4e61be47b5bba729c252",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Predator: Hunting Grounds Predator: Hunting Grounds - Jotun Predator Offer",
+            "height": 1440,
+            "md5": "8b687e029f1173db8640a057b4aab981",
+            "size": 1131179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-12-18T22:05:00.236Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2cc1592b5e6c4024b21d6d80a2a30587/predator-hunting-grounds-48p0n.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Predator: Hunting Grounds Predator: Hunting Grounds - Jotun Predator Offer",
+            "height": 1600,
+            "md5": "d7a0fe5bc050f4f823d1e3ff337303e6",
+            "size": 1058328,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-12-18T22:04:58.701Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2cc1592b5e6c4024b21d6d80a2a30587/predator-hunting-grounds-1dl23.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-01-14T18:40:51.174Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator: Hunting Grounds - Jotun Predator",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-28T18:16:35.635Z",
+        "customAttributes": {},
+        "description": "The Father Predator is an Elder Yautja clan leader who lives by a single, unwavering truth: strict adherence to the Yautja Codex.",
+        "developer": "IllFonic",
+        "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+        "endOfSupport": false,
+        "entitlementName": "2f4ab1e1a8c64cfdbb5d2714f726647b",
+        "entitlementType": "EXECUTABLE",
+        "id": "2f4ab1e1a8c64cfdbb5d2714f726647b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Predator: Hunting Grounds Predator: Hunting Grounds - Father Predator Offer",
+            "height": 1440,
+            "md5": "781afa050ff075c274f53f9667659326",
+            "size": 846914,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-21T17:35:01.218Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2cc1592b5e6c4024b21d6d80a2a30587/predator-hunting-grounds-h723q.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Predator: Hunting Grounds Predator: Hunting Grounds - Father Predator Offer",
+            "height": 1600,
+            "md5": "aac1de44317490e75211e82e340fc81d",
+            "size": 850108,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-21T17:35:00.331Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2cc1592b5e6c4024b21d6d80a2a30587/predator-hunting-grounds-1upse.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-28T18:16:35.635Z",
+        "mainGameItem": {
+          "id": "9b9be8717867427c8f9b2e2f691549af",
+          "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9b9be8717867427c8f9b2e2f691549af",
+            "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator: Hunting Grounds - Father Predator",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9b9be8717867427c8f9b2e2f691549af",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9b9be8717867427c8f9b2e2f691549af",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "d2921f9b50dad7960d2b9fad22ae8d84",
+        "size": 2488692,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-09T18:52:33.529Z",
+        "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "md5": "21060c43debce23ca17d694f67298b03",
+        "size": 483818,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-09T18:52:47.487Z",
+        "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2026-04-28T18:16:35.835Z",
+    "mainGameItemList": [],
+    "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+    "releaseInfo": [
+      {
+        "appId": "Boxfish",
+        "id": "687588d0be4f4f76afd6be0a965c28c8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Predator: Hunting Grounds Standard Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

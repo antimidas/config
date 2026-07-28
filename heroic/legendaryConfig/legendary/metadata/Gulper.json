@@ -1,0 +1,426 @@
+{
+  "app_name": "Gulper",
+  "app_title": "Anno 2205",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Gulper",
+      "asset_id": "Gulper",
+      "build_version": "1.8.2",
+      "catalog_item_id": "aa437f93c62944fc9b3d5233628f76a8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-13T15:48:51.366Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Anno2205"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "1253"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "Anno2205.exe"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1253"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "5911ba0c4b9d4a258df2130d56e18573"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Anno 2205",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-01-24T19:44:21.907Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "5911ba0c4b9d4a258df2130d56e18573"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "cdd432758d1840c6a4f8576b0a0daf50"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Frontiers DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "5bca8169774f447b875824e1da3aeee3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5bca8169774f447b875824e1da3aeee3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+        "mainGameItem": {
+          "id": "aa437f93c62944fc9b3d5233628f76a8",
+          "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aa437f93c62944fc9b3d5233628f76a8",
+            "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+        "releaseInfo": [
+          {
+            "appId": "GulperDLC3",
+            "dateAdded": "2020-01-24T00:00:00.000Z",
+            "id": "cdae9d1d526246188adb979f57e526ae",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Frontiers DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-01-24T19:44:25.197Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "5911ba0c4b9d4a258df2130d56e18573"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "de262830d13a41bab393507372d7f0fe"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Gulper Season Pass",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "8419ed53b3734a3f8e84925afab3591f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8419ed53b3734a3f8e84925afab3591f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+        "mainGameItem": {
+          "id": "aa437f93c62944fc9b3d5233628f76a8",
+          "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aa437f93c62944fc9b3d5233628f76a8",
+            "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+        "releaseInfo": [
+          {
+            "appId": "GulperSeasonPass",
+            "dateAdded": "2020-01-24T00:00:00.000Z",
+            "id": "b2b21b19b54345958bd0d374264ab5ec",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Gulper Season Pass",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-01-24T19:42:28.087Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "5911ba0c4b9d4a258df2130d56e18573"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "9b2560d021864e36bf5865fc82302502"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tundra DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "b2e7025cd94a4cb38f67c916c1abdc91",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b2e7025cd94a4cb38f67c916c1abdc91",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+        "mainGameItem": {
+          "id": "aa437f93c62944fc9b3d5233628f76a8",
+          "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aa437f93c62944fc9b3d5233628f76a8",
+            "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+        "releaseInfo": [
+          {
+            "appId": "GulperDLC1",
+            "dateAdded": "2020-01-24T00:00:00.000Z",
+            "id": "4ce417809504413a95f061bcaa38ef8b",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Tundra DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-01-24T19:44:18.183Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "5911ba0c4b9d4a258df2130d56e18573"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "fcc31e0a028643ad98b01b476472b94b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Orbit DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "18a6be91adde4286849d7ad6320a014a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "18a6be91adde4286849d7ad6320a014a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+        "mainGameItem": {
+          "id": "aa437f93c62944fc9b3d5233628f76a8",
+          "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "aa437f93c62944fc9b3d5233628f76a8",
+            "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+        "releaseInfo": [
+          {
+            "appId": "GulperDLC2",
+            "dateAdded": "2020-01-24T00:00:00.000Z",
+            "id": "000a4671462c48d68f907c2445bfb094",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Orbit DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "aa437f93c62944fc9b3d5233628f76a8",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "aa437f93c62944fc9b3d5233628f76a8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "674b207081b22977440cc3dab2f21098",
+        "size": 549009,
+        "type": "DieselGameBoxWide",
+        "uploadedDate": "2020-02-10T17:28:46.361Z",
+        "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1450,
+        "md5": "d472d10770bdc1e444beffb2a8a6e7a7",
+        "size": 888759,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-09T15:29:52.570Z",
+        "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ATTZF_Store_Landscape_2580x1450-2580x1450-d472d10770bdc1e444beffb2a8a6e7a7.jpg",
+        "width": 2580
+      },
+      {
+        "height": 1600,
+        "md5": "94fe65d01c6366107a6b51e175667210",
+        "size": 339627,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-18T17:41:37.093Z",
+        "url": "https://cdn1.epicgames.com/item/cbbb7e8728a3476f97e44f3856c3cb13/Anno2205StandardPortrait_1200x1600-94fe65d01c6366107a6b51e175667210",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:34:28.554Z",
+    "mainGameItemList": [],
+    "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+    "releaseInfo": [
+      {
+        "appId": "Gulper",
+        "id": "a90d6bfbf39b421d9fbe8acf20c1a66a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Anno 2205",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

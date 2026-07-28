@@ -1,0 +1,83 @@
+{
+  "app_name": "818572d480784b9a904e54aab004d1c4",
+  "app_title": "DOOMBLADE",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "818572d480784b9a904e54aab004d1c4",
+      "asset_id": "818572d480784b9a904e54aab004d1c4",
+      "build_version": "1.2",
+      "catalog_item_id": "f4a9486a842e40aaa4818c84ccf4bcca",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "eb9ec91bd1ed4b34911f2a76eec20340"
+      },
+      "namespace": "12a3a68913864eaa8420e575eb6dbd42",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-05-30T19:33:50.369Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "DOOMBLADEGgG04"
+      }
+    },
+    "description": "DOOMBLADE",
+    "developer": "Iceberg Interactive",
+    "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "endOfSupport": false,
+    "entitlementName": "f4a9486a842e40aaa4818c84ccf4bcca",
+    "entitlementType": "EXECUTABLE",
+    "id": "f4a9486a842e40aaa4818c84ccf4bcca",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "DOOMBLADE Offer",
+        "height": 1440,
+        "md5": "e8ff159fe8aba1692365fff919778a76",
+        "size": 619033,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-25T15:54:54.633Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-1luo5.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download DOOMBLADE Offer",
+        "height": 1600,
+        "md5": "1fe18b1f7474a7339e4ce415ac5b8245",
+        "size": 332981,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-25T15:54:58.922Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-1v156.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-05-30T19:33:50.369Z",
+    "mainGameItemList": [],
+    "namespace": "12a3a68913864eaa8420e575eb6dbd42",
+    "releaseInfo": [
+      {
+        "appId": "818572d480784b9a904e54aab004d1c4",
+        "id": "e5decf27b09d4d7d955cba5eade519c2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "DOOMBLADE",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,2 @@
+POST https://www.webpagescreenshot.info/upload
+Content-Type: application/json

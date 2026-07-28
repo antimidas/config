@@ -1,0 +1,342 @@
+{
+  "app_name": "bb406082b69a47208489d3616b22b5c2",
+  "app_title": "Horizon Chase Turbo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "bb406082b69a47208489d3616b22b5c2",
+      "asset_id": "bb406082b69a47208489d3616b22b5c2",
+      "build_version": "2.0.202311091807",
+      "catalog_item_id": "54ff4322184a4c3086ee6da0a2d20f79",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "253d451b16364a22907dd01b7e928fb6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45675C1cu2PAvMQpN9ZV51TysurJ",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2026-05-25T18:07:50.284Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Aquiris/HorizonChaseTurbo/HorizonChaseTurbo_EpicGameStore/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HorizonChaseTurbo"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "253d451b16364a22907dd01b7e928fb6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Horizon Chase Turbo",
+    "developer": "AQUIRIS",
+    "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-25T18:07:50.286Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Horizon Chase Turbo - SF Audience",
+        "developer": "AQUIRIS",
+        "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+        "endOfSupport": false,
+        "entitlementName": "574bdda9c06643acba297b615977b51d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "574bdda9c06643acba297b615977b51d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2026-05-29T22:35:30.626Z",
+        "mainGameItem": {
+          "id": "54ff4322184a4c3086ee6da0a2d20f79",
+          "namespace": "253d451b16364a22907dd01b7e928fb6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "54ff4322184a4c3086ee6da0a2d20f79",
+            "namespace": "253d451b16364a22907dd01b7e928fb6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "253d451b16364a22907dd01b7e928fb6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horizon Chase Turbo - SF Audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2026-05-29T22:35:30.074Z",
+        "description": "Horizon Chase Turbo - Rookie Series",
+        "developer": "AQUIRIS",
+        "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+        "endOfSupport": false,
+        "entitlementName": "0cefce478a4544798d1d291de2322f0a",
+        "entitlementType": "EXECUTABLE",
+        "id": "0cefce478a4544798d1d291de2322f0a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Horizon Chase Turbo - Rookie Series-682474",
+            "height": 1440,
+            "md5": "ab4ad9c0477c0b8260ed2c191721d09f",
+            "size": 952320,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-06-22T02:53:11.299Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurboRookieSeries_AQUIRIS_DLC_S1_2560x1440-ab4ad9c0477c0b8260ed2c191721d09f",
+            "width": 2560
+          },
+          {
+            "alt": "Horizon Chase Turbo - Rookie Series-146508",
+            "height": 1600,
+            "md5": "b8c1fce3903d0b037ca6d4cc2a4c7571",
+            "size": 975444,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-06-22T02:53:08.946Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurboRookieSeries_AQUIRIS_DLC_S2_1200x1600-b8c1fce3903d0b037ca6d4cc2a4c7571",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-05-29T22:35:30.074Z",
+        "mainGameItem": {
+          "id": "54ff4322184a4c3086ee6da0a2d20f79",
+          "namespace": "253d451b16364a22907dd01b7e928fb6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "54ff4322184a4c3086ee6da0a2d20f79",
+            "namespace": "253d451b16364a22907dd01b7e928fb6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "253d451b16364a22907dd01b7e928fb6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horizon Chase Turbo - Rookie Series",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2026-05-29T22:35:30.094Z",
+        "description": "Horizon Chase Turbo - Summer Vibes",
+        "developer": "AQUIRIS",
+        "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+        "endOfSupport": false,
+        "entitlementName": "832d22a0192a4c4691e23c19dfa7d075",
+        "entitlementType": "EXECUTABLE",
+        "id": "832d22a0192a4c4691e23c19dfa7d075",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Horizon Chase Turbo - Summer Vibes-73415",
+            "height": 1440,
+            "md5": "ae87396c6308f63cd712d88e47b4e98c",
+            "size": 928354,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-06-22T03:01:54.486Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurboSummerVibes_AQUIRIS_DLC_S1_2560x1440-ae87396c6308f63cd712d88e47b4e98c",
+            "width": 2560
+          },
+          {
+            "alt": "Horizon Chase Turbo - Summer Vibes-998321",
+            "height": 1600,
+            "md5": "8d1663d29a7c9acfe17f5515ca1362dc",
+            "size": 994614,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-06-22T03:01:52.254Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurboSummerVibes_AQUIRIS_DLC_S2_1200x1600-8d1663d29a7c9acfe17f5515ca1362dc",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-05-29T22:35:30.094Z",
+        "mainGameItem": {
+          "id": "54ff4322184a4c3086ee6da0a2d20f79",
+          "namespace": "253d451b16364a22907dd01b7e928fb6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "54ff4322184a4c3086ee6da0a2d20f79",
+            "namespace": "253d451b16364a22907dd01b7e928fb6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "253d451b16364a22907dd01b7e928fb6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horizon Chase Turbo - Summer Vibes",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2026-05-29T22:35:30.085Z",
+        "description": "Horizon Chase Turbo - Senna Forever",
+        "developer": "AQUIRIS",
+        "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+        "endOfSupport": false,
+        "entitlementName": "518bfd07dc114e0081a3289dc3ec474b",
+        "entitlementType": "EXECUTABLE",
+        "id": "518bfd07dc114e0081a3289dc3ec474b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Horizon Chase Turbo - Senna Forever-18995",
+            "height": 1440,
+            "md5": "e67b23840603fab9f364c0bb4aa8d178",
+            "size": 976363,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-09-24T17:05:21.784Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurboSennaForever_AQUIRIS_DLC_S1_2560x1440-e67b23840603fab9f364c0bb4aa8d178",
+            "width": 2560
+          },
+          {
+            "alt": "Horizon Chase Turbo - Senna Forever-889591",
+            "height": 1600,
+            "md5": "0ae1452598f3bf73918feb061270cd4f",
+            "size": 924893,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-09-24T17:05:19.614Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurboSennaForever_AQUIRIS_DLC_S2_1200x1600-0ae1452598f3bf73918feb061270cd4f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-05-29T22:35:30.085Z",
+        "mainGameItem": {
+          "id": "54ff4322184a4c3086ee6da0a2d20f79",
+          "namespace": "253d451b16364a22907dd01b7e928fb6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "54ff4322184a4c3086ee6da0a2d20f79",
+            "namespace": "253d451b16364a22907dd01b7e928fb6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "253d451b16364a22907dd01b7e928fb6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horizon Chase Turbo - Senna Forever",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "54ff4322184a4c3086ee6da0a2d20f79",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "54ff4322184a4c3086ee6da0a2d20f79",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1e6041993df289505da364dfe77dd561",
+        "size": 1015493,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-22T03:08:52.872Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+        "size": 831526,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-22T03:08:55.796Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-06-01T15:03:42.114Z",
+    "mainGameItemList": [],
+    "namespace": "253d451b16364a22907dd01b7e928fb6",
+    "releaseInfo": [
+      {
+        "appId": "bb406082b69a47208489d3616b22b5c2",
+        "compatibleApps": [],
+        "id": "4437aa53a81c442c8b5127cba31ffedf",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Horizon Chase Turbo",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

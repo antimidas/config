@@ -1,0 +1,92 @@
+{
+  "app_name": "2e0e91d701c34abf851de5b535a2617a",
+  "app_title": "A Rat's Quest: The Way Back Home - Season 1",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2e0e91d701c34abf851de5b535a2617a",
+      "asset_id": "2e0e91d701c34abf851de5b535a2617a",
+      "build_version": "ARQ-TWBH_26-02-11",
+      "catalog_item_id": "48f04313df2a4d42a08f1fb8578de672",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "373ed1eb8e9e452895f9b01faa16363c"
+      },
+      "namespace": "ed29b31eb15546d1803598fd2264ea1e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567Lk9qx58qUk43BuViAsmlMrdl",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-07-26T08:39:34.946Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/The Dreamerians/ARQ_TWBH/Data/DynamicData/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ARatsQuest"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "2"
+      }
+    },
+    "description": "Mat, a young rat, risks everything for love. Determined to reunite with Nat, a pet mouse, he secretly ventures to the upper floors of the Giant's house. Longing for a new life on the Outside, Mat's actions and the dark secrets harbored by his commune put their lives in danger.",
+    "developer": "Handy Games",
+    "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+    "endOfSupport": false,
+    "entitlementName": "48f04313df2a4d42a08f1fb8578de672",
+    "entitlementType": "EXECUTABLE",
+    "id": "48f04313df2a4d42a08f1fb8578de672",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "A Rats Quest Offer",
+        "height": 1440,
+        "md5": "58a3d5cfc36e4b6f4a536193a1daae17",
+        "size": 776598,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-11-26T13:19:01.380Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/09508edf00004bf48f5564d8e6c8347c/a-rats-quest-514ju.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download A Rats Quest Offer",
+        "height": 1600,
+        "md5": "dc39469fb49d455ec6a2014a3f4bccb7",
+        "size": 520194,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-11-26T13:19:01.261Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/09508edf00004bf48f5564d8e6c8347c/a-rats-quest-18bvn.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-03-16T06:35:16.216Z",
+    "mainGameItemList": [],
+    "namespace": "ed29b31eb15546d1803598fd2264ea1e",
+    "releaseInfo": [
+      {
+        "appId": "2e0e91d701c34abf851de5b535a2617a",
+        "id": "bcfb9bc2e9f748b3bcfa58177ab87d44",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "A Rat's Quest: The Way Back Home - Season 1",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

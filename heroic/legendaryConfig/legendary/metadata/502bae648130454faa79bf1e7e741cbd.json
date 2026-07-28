@@ -1,0 +1,112 @@
+{
+  "app_name": "502bae648130454faa79bf1e7e741cbd",
+  "app_title": "Scavengers",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "502bae648130454faa79bf1e7e741cbd",
+      "asset_id": "502bae648130454faa79bf1e7e741cbd",
+      "build_version": "546_Noted_Xuan_CL219392_live_SHIP",
+      "catalog_item_id": "c5720e03a12b40cab289b6dab516bbe1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0ffb7cf5cff64cd0a621222a8e969c28",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45675nzl4iyRAnTEuK1ZTsjF1g6b",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-12-03T20:52:18.649Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Scavengers"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0ffb7cf5cff64cd0a621222a8e969c28"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Scavengers",
+    "developer": "Improbable Worlds Limited",
+    "developerId": "o-rvmaypy9jeuja8bknjqftauuas6bph",
+    "endOfSupport": false,
+    "entitlementName": "c5720e03a12b40cab289b6dab516bbe1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c5720e03a12b40cab289b6dab516bbe1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7cf56d0c2c86b5cf934c5121ee0cf8d1",
+        "size": 828534,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-21T15:39:41.572Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/204ed4ec-f9cd-42a3-8a73-84192d3b2271_2560x1440-7cf56d0c2c86b5cf934c5121ee0cf8d1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
+        "size": 509161,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-21T15:39:36.889Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4c41b76b-e548-4be7-8046-c33e72cf1d1f_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-01T15:52:22.218Z",
+    "mainGameItemList": [],
+    "namespace": "0ffb7cf5cff64cd0a621222a8e969c28",
+    "releaseInfo": [
+      {
+        "appId": "502bae648130454faa79bf1e7e741cbd",
+        "dateAdded": "2020-12-03T00:00:00.000Z",
+        "id": "4438653b940149bea54ebd47c7b8dc35",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Scavengers",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

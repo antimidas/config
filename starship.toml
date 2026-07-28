@@ -1,0 +1,235 @@
+format = """
+[\ue0c3 ](fg:#07fcf9 )\
+$os\
+$python\
+$hostname\
+[\ue0c1 ](fg:#07fcf9)\
+[ \ue0b3 ](fg:#07fcf9)\
+$directory\
+[\ue0b1](fg:#4C566A)\
+$git_branch\
+$git_status\
+[\ue0b1](fg:#86BBD8)\
+$c\
+$elixir\
+$elm\
+$golang\
+$haskell\
+$java\
+$julia\
+$nodejs\
+$nim\
+$rust\
+[\ue0b1](fg:#06969A)\
+$docker_context\
+[\ue0b1](fg:#33658A)\
+[\ue0b1 ](fg:#07fcf9)\
+"""
+
+right_format = """
+$time()\
+
+[\ue0c3](bg:transparent fg:#07fcf9)\
+$username\
+[\ue0c1 ](bg:transparent fg:#07fcf9)\
+
+"""
+
+add_newline = true
+
+[line_break]
+disabled = false
+
+# Disable the blank line at the start of the prompt
+# add_newline = false
+
+scan_timeout = 1000
+
+
+# You can also replace your username with a neat symbol like   or disable this
+# and use the os module below
+[custom.arch]
+command = "echo -n "  # Unicode icon; try ⎈ if your font doesn't support Nerd Fonts
+style = "bold purple"
+when = "true"  # Always show
+
+
+[hostname]
+ssh_only = false
+format = "[$hostname]($style)"
+trim_at = "-"
+style = "fg:#D43BC0"
+disabled = false
+
+
+#[hostname]
+#ssh_only = false
+#format = "[$hostname]($style)"
+#disabled = false
+#style = "bg:#52085f fg:#FFFFFF"
+
+[username]
+show_always = true
+style_user = "bg:transparent fg:#D1C932"
+#style_root = "bg:#52085f"
+
+format = '[ $user ]($style)'
+disabled = false
+
+# An alternative to the username module which displays a symbol that
+# represents the current operating system
+[os]
+#style = "fg:#ffffff bg:#3B4252"
+style = "fg:#ffffff"
+disabled = false # Disabled by default
+
+[directory]
+style = "fg:#fc33ff"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+# Here is how you can shorten some long paths by text replacement
+# similar to mapped_locations in Oh My Posh:
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+# Keep in mind that the order matters. For example:
+# "Important Documents" = " 󰈙 "
+# will not be replaced, because "Documents" was already substituted before.
+# So either put "Important Documents" before "Documents" or use the substituted version:
+# "Important 󰈙 " = " 󰈙 "
+
+[c]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[cpp]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[docker_context]
+symbol = " "
+style = "bg:#06969A"
+format = '[ $symbol $context ]($style)'
+
+[elixir]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[elm]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[git_branch]
+symbol = ""
+style = "fg:#57F5E1"
+format = '[ $symbol $branch ]($style)'
+
+[git_status]
+style = "fg:#E357F5"
+format = '[$all_status$ahead_behind ]($style)'
+
+[golang]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[gradle]
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[haskell]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[java]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[julia]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[nodejs]
+symbol = ""
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[nim]
+symbol = "󰆥 "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[rust]
+symbol = ""
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[scala]
+symbol = " "
+style = "bg:#86BBD8"
+format = '[ $symbol ($version) ]($style)'
+
+[time]
+disabled = false
+time_format = "%r" # Hour:Minute Format
+style = "bg:transparent fg:yellow"
+format = '[  $time ]($style)'
+
+
+[os.symbols]
+Alpaquita = " "
+Alpine = " "
+AlmaLinux = " "
+Amazon = " "
+Android = " "
+Arch = " "
+Artix = " "
+CachyOS = " "
+CentOS = " "
+Debian = " "
+DragonFly = " "
+Emscripten = " "
+EndeavourOS = " "
+Fedora = " "
+FreeBSD = " "
+Garuda = "󰛓 "
+Gentoo = " "
+HardenedBSD = "󰞌 "
+Illumos = "󰈸 "
+Kali = " "
+Linux = " "
+Mabox = " "
+Macos = " "
+Manjaro = " "
+Mariner = " "
+MidnightBSD = " "
+Mint = " "
+NetBSD = " "
+NixOS = " "
+Nobara = " "
+OpenBSD = "󰈺 "
+openSUSE = " "
+OracleLinux = "󰌷 "
+Pop = " "
+Raspbian = " "
+Redhat = " "
+RedHatEnterprise = " "
+RockyLinux = " "
+Redox = "󰀘 "
+Solus = "󰠳 "
+SUSE = " "
+Ubuntu = " "
+Unknown = " "
+Void = " "
+Windows = "󰍲 "

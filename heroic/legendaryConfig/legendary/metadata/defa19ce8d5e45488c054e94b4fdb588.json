@@ -1,0 +1,155 @@
+{
+  "app_name": "defa19ce8d5e45488c054e94b4fdb588",
+  "app_title": "Symphony of War: The Nephilim Saga",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "defa19ce8d5e45488c054e94b4fdb588",
+      "asset_id": "defa19ce8d5e45488c054e94b4fdb588",
+      "build_version": "1.10.22",
+      "catalog_item_id": "4ece25b992d94d15a1db4291357a771b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9d92c86f658648f8ad78f72407dc9953"
+      },
+      "namespace": "02572b5d530d45bcbf19e69717638396",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-12-09T16:28:08.199Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "SymphonyofWarx4z9C"
+      }
+    },
+    "description": "Symphony of War: The Nephilim Saga",
+    "developer": "Freedom Games",
+    "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-08T18:14:15.896Z",
+        "customAttributes": {},
+        "description": "Symphony of War: The Nephilim Saga - Legends",
+        "developer": "Freedom Games",
+        "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+        "endOfSupport": false,
+        "entitlementName": "0b9e8904494a46a1a7c5a39246ac66eb",
+        "entitlementType": "EXECUTABLE",
+        "id": "0b9e8904494a46a1a7c5a39246ac66eb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Symphony of War Symphony of War: The Nephilim Saga - Legends Offer",
+            "height": 1440,
+            "md5": "cfdb933c06d335a778e526aa914220ad",
+            "size": 2487777,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-14T19:25:44.077Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/b6b32e63b1f94882b523ede79eac02ac/symphony-of-war-1w774.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Symphony of War Symphony of War: The Nephilim Saga - Legends Offer",
+            "height": 1600,
+            "md5": "8adb8e7dc392a20d9371243ef948bd48",
+            "size": 1282972,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-14T19:25:44.928Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/b6b32e63b1f94882b523ede79eac02ac/symphony-of-war-mo0yn.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-22T00:54:46.690Z",
+        "mainGameItem": {
+          "id": "4ece25b992d94d15a1db4291357a771b",
+          "namespace": "02572b5d530d45bcbf19e69717638396",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4ece25b992d94d15a1db4291357a771b",
+            "namespace": "02572b5d530d45bcbf19e69717638396",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02572b5d530d45bcbf19e69717638396",
+        "releaseInfo": [
+          {
+            "appId": "64a6cc658a0b499fb45a8dccb1ff7df8",
+            "id": "a62661b3d12e400588817b06521ccae3",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Symphony of War: The Nephilim Saga - Legends",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4ece25b992d94d15a1db4291357a771b",
+    "entitlementType": "EXECUTABLE",
+    "id": "4ece25b992d94d15a1db4291357a771b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Symphony of War Offer",
+        "height": 1440,
+        "md5": "9c6f34628eb99b4ea900abb4dd0e4b1a",
+        "size": 1569466,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-12-17T12:23:18.623Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b6b32e63b1f94882b523ede79eac02ac/symphony-of-war-offer-zqyuf.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Symphony of War Offer",
+        "height": 1600,
+        "md5": "0ad3ebc587bb921cb752e8d88b67016a",
+        "size": 2454996,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-12-17T12:23:22.149Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b6b32e63b1f94882b523ede79eac02ac/download-symphony-of-war-offer-1r9l0.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-04-22T00:54:46.690Z",
+    "mainGameItemList": [],
+    "namespace": "02572b5d530d45bcbf19e69717638396",
+    "releaseInfo": [
+      {
+        "appId": "defa19ce8d5e45488c054e94b4fdb588",
+        "id": "446e7a341fd649498346e598929e3256",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Symphony of War: The Nephilim Saga",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

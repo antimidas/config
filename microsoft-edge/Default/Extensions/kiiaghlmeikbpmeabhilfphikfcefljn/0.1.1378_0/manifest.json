@@ -1,0 +1,57 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "assets/icons/browser/browseraction-gray19.png",
+         "38": "assets/icons/browser/browseraction-gray38.png"
+      }
+   },
+   "background": {
+      "service_worker": "bg.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "notifications/injectors/apps/pageView.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "notifications/wikibuy.js" ],
+      "matches": [ "*://*.capitaloneshopping.com/*", "*://*.ivf-stage.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "notifications/injectors/apps/priceComparison.js" ],
+      "matches": [ "*://*.amazon.com/*", "*://*.bestbuy.com/*", "*://*.homedepot.com/*", "*://*.zappos.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "notifications/injectors/apps/pie.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start",
+      "type": "module"
+   }, {
+      "all_frames": true,
+      "js": [ "notifications/injectors/apps/retailMeNot.js" ],
+      "matches": [ "*://dealfinder.retailmenot.com/experience/app*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "A simple and free way to help you save online",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "assets/icons/shopping-icon128.png",
+      "16": "assets/icons/shopping-icon16.png",
+      "48": "assets/icons/shopping-icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArB748c277nP8PIZTxZlX30W8dMFbi/VSX6CGwzZO5VzF6u/JtEE2UYeKxdMGcWxVMv7f7eEQ5bm5hxgS3s2/CiqNpWpXIWJOTHKGDkAcHqXEgXGnHBlj1ynw50uWYjr3wsfduewBqRZvnNDAZxmWD115fUFx3TTnGxvPnLUFxfrQ/Adq/xngdpNaKCReCgp3e+ID++od8ptqQQrS3g5q3XzUWlmFij15oqffCm4l+D7+ZAH2/fvesHtYUxGXZgYxRRa5jpYPI2ysIsMNGZK7Eko1d4hVjJSvtQCussX/6qghqQKXK4QTzD0G7tq9UFgg55o5f1fZiw0JMxTeM7aFLwIDAQAB",
+   "manifest_version": 3,
+   "name": "Capital One Shopping: Save Now",
+   "options_ui": {
+      "browser_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "alarms", "tabs", "contextMenus", "storage", "cookies", "webRequest", "scripting", "offscreen", "sidePanel" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.1.1378",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/*", "chunks/*", "css/*", "global-less/*", "notifications/*", "static/**/*" ]
+   } ]
+}

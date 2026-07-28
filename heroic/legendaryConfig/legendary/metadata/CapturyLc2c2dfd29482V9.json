@@ -1,0 +1,267 @@
+{
+  "app_name": "CapturyLc2c2dfd29482V9",
+  "app_title": "Captury Live Link Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "CapturyLc2c2dfd29482V9",
+      "asset_id": "CapturyLc2c2dfd29482V9",
+      "build_version": "5.5.0-46980460+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "2d088114143b474497b42c24d05d678b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T21:15:27.747Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "69ee923d-1a3a-42be-8f2a-9924b6e7b79a"
+      }
+    },
+    "description": "Captury Live Link Plugin",
+    "developer": "Captury",
+    "developerId": "o-ygppyz7eapsc9e36z2n3nagydcebe8",
+    "endOfSupport": false,
+    "entitlementName": "2d088114143b474497b42c24d05d678b",
+    "entitlementType": "AUDIENCE",
+    "id": "2d088114143b474497b42c24d05d678b",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2026-01-06T17:37:44.772Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "CapturyLiveLink_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.310Z",
+        "id": "2438a2e34cbf4bdbae0d2dc4229b2b49",
+        "platform": [
+          "Windows",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "4.25 2021-04-16"
+      },
+      {
+        "appId": "CapturyLiveLink_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "e938ab82277c4405bc587834d3bebea2",
+        "platform": [
+          "Windows",
+          "Android",
+          "Linux"
+        ],
+        "versionTitle": "4.26 2021-04-16"
+      },
+      {
+        "appId": "CapturyLiveLink_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "422c162629904be3b788c33e20583562",
+        "platform": [
+          "Linux",
+          "Windows",
+          "Mac",
+          "Android"
+        ],
+        "versionTitle": "4.27 2022-11-25"
+      },
+      {
+        "appId": "CapturyLiveLink_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "f63a8b0b22184dc9910e7f0f2d7eb137",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Linux",
+          "Android",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLiveLink_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "ea8d1a9f3f064e15afd1964e8a40615c",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Android",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLiveLink_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "4f851743211b44619200d4e382ed5ed3",
+        "platform": [
+          "Windows",
+          "Linux",
+          "Android",
+          "Mac",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLiveLink_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "276c27d4f3474423ac78711bb026df3e",
+        "platform": [
+          "Linux",
+          "Android",
+          "Mac",
+          "Windows",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLiveLink_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "5943358c089f4fe1827985c40041fda3",
+        "platform": [
+          "Android",
+          "Mac",
+          "Windows",
+          "Linux",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLc2c2dfd29482V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "c108bf318ed54ee1acfd4324e7792ac6",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "Linux",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "HoloLens 2"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLe45bfaa12afdV10",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "32b91efd1872417c91c603b71e8e69cb",
+        "platform": [
+          "Windows",
+          "Android",
+          "Mac",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "HoloLens 2",
+          "Oculus",
+          "Gear VR",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "2025-10-15 v15"
+      },
+      {
+        "appId": "CapturyLd6732994dcf1V11",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2026-01-06T12:29:35.311Z",
+        "id": "b179843fa2254c6db4ad228b425ab30a",
+        "platform": [
+          "Windows",
+          "Android",
+          "Mac",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "HoloLens 2",
+          "Oculus",
+          "Gear VR",
+          "PS4",
+          "Xbox One"
+        ],
+        "versionTitle": "2026-01-06 v15"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Captury Live Link Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

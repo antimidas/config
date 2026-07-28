@@ -1,0 +1,47 @@
+/* Color definition for white text */
+@define-color active #ffffff;
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font", sans-serif;
+    font-size: 14px;
+    color: @active;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+/* Ensure all module groups are transparent */
+.modules-left, 
+.modules-right, 
+.modules-center {
+    background: transparent;
+}
+
+#tags button {
+    padding: 0 8px;
+    color: @active;
+}
+
+#tags button.focused {
+    border-bottom: 2px solid @active;
+}
+
+#clock,
+#battery,
+#pulseaudio,
+#network,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#tray {
+    padding: 0 10px;
+    background: transparent;
+}
+
+#pulseaudio.muted {
+    color: #ff5555;
+}

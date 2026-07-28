@@ -1,0 +1,98 @@
+{
+  "app_name": "be206f84f9e94500a33e1265fa1d9117",
+  "app_title": "I Have No Mouth, and I Must Scream",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "be206f84f9e94500a33e1265fa1d9117",
+      "asset_id": "be206f84f9e94500a33e1265fa1d9117",
+      "build_version": "1.0.1",
+      "catalog_item_id": "5177af9f1b3d4957a4f43c4779ff8e5e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "979dd3e3b8f541dea51b168128002fee",
+        "update_type": "PATCH"
+      },
+      "namespace": "2e13c6ccfb3147ec8c67985160c48296",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2026-06-25T14:11:53.648Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Nightdive Studios/IHNMAIMS/{EpicID}/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Nightdive Studios/IHNMAINS/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "IHaveNoMouthAndIMusteUkBA"
+      }
+    },
+    "description": "I Have No Mouth, and I Must Scream",
+    "developer": "Night Dive Studios, Inc.",
+    "developerId": "o-v6zls34ttu4wjwlb379qfte9jaz37b",
+    "endOfSupport": false,
+    "entitlementName": "5177af9f1b3d4957a4f43c4779ff8e5e",
+    "entitlementType": "EXECUTABLE",
+    "id": "5177af9f1b3d4957a4f43c4779ff8e5e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "I Have No Mouth And I Must Scream Offer",
+        "height": 1440,
+        "md5": "cbfaf7a09fbda98f2a23979903f38aaa",
+        "size": 3560314,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-03-23T22:00:35.682Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-9n2bl.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download I Have No Mouth And I Must Scream Offer",
+        "height": 1600,
+        "md5": "15cf216ada0f790652eaab925015be7b",
+        "size": 2374261,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2026-03-23T22:05:04.303Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-utw6o.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-06-25T14:11:53.648Z",
+    "mainGameItemList": [],
+    "namespace": "2e13c6ccfb3147ec8c67985160c48296",
+    "releaseInfo": [
+      {
+        "appId": "be206f84f9e94500a33e1265fa1d9117",
+        "id": "63ccbbbf494e40aa816ac7329a00d27d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "I Have No Mouth, and I Must Scream",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "be02acb86c9049dd8bb3192b582725fc"
+    },
+    "rev": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "app_name": "5bb7e08d83814392971d666696080aa0",
+  "app_title": "Undead: Rise of the Betrayed King",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5bb7e08d83814392971d666696080aa0",
+      "asset_id": "5bb7e08d83814392971d666696080aa0",
+      "build_version": "0.035",
+      "catalog_item_id": "bce7f67deed74dc3ad3eaea0933701f7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "edc876989d0a4d7c9190295800d07664"
+      },
+      "namespace": "74ba24576490436b936c1c5fc1e32935",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-29T11:31:42.933Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "UndeadRotBK"
+      }
+    },
+    "description": "Undead: Rise of the Betrayed King",
+    "developer": "Artak Avetisyan IE",
+    "developerId": "o-el9x9ehsvlepppr2v9d6b4rht2sc2w",
+    "endOfSupport": false,
+    "entitlementName": "bce7f67deed74dc3ad3eaea0933701f7",
+    "entitlementType": "EXECUTABLE",
+    "id": "bce7f67deed74dc3ad3eaea0933701f7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Undead Rise of the Betrayed King Offer",
+        "height": 1440,
+        "md5": "ad382394802d120ddff8f86155031e6a",
+        "size": 890445,
+        "type": "DieselGameBox",
+        "uploadedDate": "2026-02-17T17:48:57.385Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e0b2ef75c4ca470eae076d9d54087eb4/undead-rise-of-the-betrayed-king-1qh79.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Undead Rise of the Betrayed King Offer",
+        "height": 1600,
+        "md5": "728fe9c85e9e153f952fc6cb4db3679e",
+        "size": 474730,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2026-02-17T18:29:11.651Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e0b2ef75c4ca470eae076d9d54087eb4/undead-rise-of-the-betrayed-king-14f7w.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-06-09T17:09:04.941Z",
+    "mainGameItemList": [],
+    "namespace": "74ba24576490436b936c1c5fc1e32935",
+    "releaseInfo": [
+      {
+        "appId": "5bb7e08d83814392971d666696080aa0",
+        "id": "192b93af779e4b0db42c4e168c16d0db",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Undead: Rise of the Betrayed King",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

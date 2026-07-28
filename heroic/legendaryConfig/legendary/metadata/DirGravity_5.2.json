@@ -1,0 +1,273 @@
+{
+  "app_name": "DirGravity_5.2",
+  "app_title": "Directional & Planet Gravity",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T20:30:25.446Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "5e47876e-8dc9-457f-870b-77ba2a7e65da"
+      }
+    },
+    "description": "Directional & Planet Gravity",
+    "developer": "Tefel",
+    "developerId": "o-bca697dbfb46b09acabc6a1900d3e6",
+    "endOfSupport": false,
+    "entitlementName": "fec2665d8156411a9e2194613eb078e4",
+    "entitlementType": "AUDIENCE",
+    "id": "fec2665d8156411a9e2194613eb078e4",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2026-01-17T22:15:44.988Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "DirGravity_4.20",
+        "compatibleApps": [
+          "UE_4.20"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "f8e63cbd4d024e28b6d6cd73a8196bdf",
+        "platform": [
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "Directional Gravity 4.20"
+      },
+      {
+        "appId": "DirGravity_4.21",
+        "compatibleApps": [
+          "UE_4.21"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "dfd2d3a462874522a1f75d53b08ed7dd",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 4.21"
+      },
+      {
+        "appId": "DirGravity_4.22",
+        "compatibleApps": [
+          "UE_4.22"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "6a31c69f539d4a1398a7c169edca546f",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 4.22"
+      },
+      {
+        "appId": "DirGravity_4.23",
+        "compatibleApps": [
+          "UE_4.23"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "647bc041c1934ef6b0f11c66313fb002",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 4.23"
+      },
+      {
+        "appId": "DirGravity_4.24",
+        "compatibleApps": [
+          "UE_4.24"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "49539f209bf64cf28c19c5db972109bb",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "Directional Gravity 4.24"
+      },
+      {
+        "appId": "DirGravity_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "37a0a93b548c4268a2e64019bca7a85c",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 4.25"
+      },
+      {
+        "appId": "DirGravity_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "38a1bac468f04dddba1bd08386fd1d28",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 4.26"
+      },
+      {
+        "appId": "DirGravity_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "a4c9b1fc6f684ea3875b41be27179558",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ],
+        "versionTitle": "Directional Gravity 4.27"
+      },
+      {
+        "appId": "DirGravity_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "d1c00df8186a4a32a751f79ee35e3091",
+        "platform": [
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "Directional Gravity 5.0"
+      },
+      {
+        "appId": "DirGravity_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "bb2e623cf89445bb8708d58d5096d497",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "Directional Gravity 5.1"
+      },
+      {
+        "appId": "DirGravity_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "67767f20f24248a8bcc17a1b0ae3e572",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "Directional Gravity 5.2"
+      },
+      {
+        "appId": "DirGravity_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "42646a366f3e4db29369d5a10a1ba860",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 5.3"
+      },
+      {
+        "appId": "DirGravity_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "caa43e76820041ae9d48e141353f5946",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 5.4"
+      },
+      {
+        "appId": "Directio45042d20b8e1V14",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "dedc3271280649c38ecd682a34cf5394",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 5.5"
+      },
+      {
+        "appId": "Directio39d076fff97eV15",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "ee38f7197a344915a66cc3336e04076b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 5.6"
+      },
+      {
+        "appId": "Directiobd98d30eb42eV16",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2026-01-17T21:17:36.758Z",
+        "id": "7f6e7bef3e414f96a7117bf96d0986db",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "Directional Gravity 5.7"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Directional & Planet Gravity",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,96 @@
+{
+  "app_name": "8c28826b510b40d0bd967b6fa011917e",
+  "app_title": "Once Human",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8c28826b510b40d0bd967b6fa011917e",
+      "asset_id": "8c28826b510b40d0bd967b6fa011917e",
+      "build_version": "1.56.6",
+      "catalog_item_id": "858b21c5d0cf48bdb0748e84ac98baca",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "847393a0f53c425a95648fa289842af3",
+        "update_type": "PATCH"
+      },
+      "namespace": "bb2a74164b4c44d19fe2d45cb8a13edd",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567GZYmqVJ1fV3pm2WZ6bEltNty",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-27T02:28:31.560Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "OnceHumanS3kAs"
+      },
+      "LaunchElevated": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Two Years Together: Weaving Wonders into Strange Dreams",
+    "developer": "Netease Interactive Entertainment Pte.Ltd",
+    "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+    "endOfSupport": false,
+    "entitlementName": "858b21c5d0cf48bdb0748e84ac98baca",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "858b21c5d0cf48bdb0748e84ac98baca",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Once Human Offer",
+        "height": 1440,
+        "md5": "ad44984ec726c058f75c40b2ba556bad",
+        "size": 986643,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-01T06:29:26.105Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/36c309a879c547efa4b8cdd76955a5f0/once-human-l9lz0.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Once Human Offer",
+        "height": 1600,
+        "md5": "6f33b3b06f014a1c8a8423595fabdb5a",
+        "size": 661025,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-01T06:29:30.623Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/36c309a879c547efa4b8cdd76955a5f0/once-human-hjm6o.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-07-13T02:24:29.370Z",
+    "mainGameItemList": [],
+    "namespace": "bb2a74164b4c44d19fe2d45cb8a13edd",
+    "releaseInfo": [
+      {
+        "appId": "8c28826b510b40d0bd967b6fa011917e",
+        "id": "198edf6be96249b5af685eb5805a01f1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Once Human",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "04805213e87942868657725b9a025ad7"
+    },
+    "rev": 1
+  }
+}

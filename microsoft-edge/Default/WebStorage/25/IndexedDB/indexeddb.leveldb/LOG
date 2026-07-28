@@ -1,0 +1,6 @@
+2026/07/27-07:13:36.971 7c1 Creating DB /home/anti/.config/microsoft-edge/Default/WebStorage/25/IndexedDB/indexeddb.leveldb since it was missing.
+2026/07/27-07:13:36.978 7c1 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/WebStorage/25/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/07/27-07:58:38.205 7c2 Level-0 table #5: started
+2026/07/27-07:58:38.208 7c2 Level-0 table #5: 50729 bytes OK
+2026/07/27-07:58:38.211 7c2 Delete type=0 #3
+2026/07/27-07:58:38.211 7c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

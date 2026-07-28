@@ -1,0 +1,426 @@
+{
+  "app_name": "Rosemallow",
+  "app_title": "The Outer Worlds",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Rosemallow",
+      "asset_id": "Rosemallow",
+      "build_version": "Rel1.5.1.696",
+      "catalog_item_id": "fa16dbd78e2147179dae12e04afa3d95",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bb4b34ccdd174f409f548308a3aebffd"
+      },
+      "namespace": "rosemallow",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-16T06:20:32.358Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/The Outer Worlds/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheOuterWorlds"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "40000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "rosemallow"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Outer Worlds",
+    "developer": "Microsoft",
+    "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-04-10T13:45:23.619Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserSavedGames}/The Outer Worlds/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TOWMurderOnEridanos"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceID": {
+            "type": "STRING",
+            "value": "rosemallow"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "The Outer Worlds: Murder on Eridanos",
+        "developer": "Microsoft",
+        "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+        "endOfSupport": false,
+        "entitlementName": "fdb4a3820d7e49169fd6187ef2828a65",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fdb4a3820d7e49169fd6187ef2828a65",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "4d05cd51e070894edf5335955a07ee9e",
+            "size": 1958586,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-03-17T19:11:44.038Z",
+            "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_TallDLC2-1200x1600-4d05cd51e070894edf5335955a07ee9e.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "6c325475a9a4808ec10b8e5f2ba0ec4f",
+            "size": 3525707,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-03-17T19:12:02.891Z",
+            "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_WIDEDLC2-2560x1440-6c325475a9a4808ec10b8e5f2ba0ec4f.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2026-03-17T19:54:53.019Z",
+        "mainGameItem": {
+          "id": "fa16dbd78e2147179dae12e04afa3d95",
+          "namespace": "rosemallow",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fa16dbd78e2147179dae12e04afa3d95",
+            "namespace": "rosemallow",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "rosemallow",
+        "releaseInfo": [
+          {
+            "appId": "f5f1f25431bf43ec827656b41123c01b",
+            "compatibleApps": [],
+            "dateAdded": "2019-03-16T00:00:00.000Z",
+            "id": "015497ee3bd94eec9d5c910f15c49639",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Outer Worlds: Murder on Eridanos",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-10T14:23:25.362Z",
+        "customAttributes": {},
+        "description": "RosemallowDLC02 Audience",
+        "developer": "Microsoft",
+        "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+        "endOfSupport": false,
+        "entitlementName": "8d58a634be64484c95adc331720f6537",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8d58a634be64484c95adc331720f6537",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2026-03-17T19:54:53.004Z",
+        "mainGameItem": {
+          "id": "fa16dbd78e2147179dae12e04afa3d95",
+          "namespace": "rosemallow",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fa16dbd78e2147179dae12e04afa3d95",
+            "namespace": "rosemallow",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "rosemallow",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "RosemallowDLC02 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-29T00:14:37.845Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "PerilOnGorgon"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceID": {
+            "type": "STRING",
+            "value": "rosemallow"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          }
+        },
+        "description": "The Outer Worlds Peril on Gorgon",
+        "developer": "Microsoft",
+        "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+        "endOfSupport": false,
+        "entitlementName": "d96f9819a46a47c5b5462881a0feef21",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d96f9819a46a47c5b5462881a0feef21",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "32bb2fac601020a530483cc4c1c564ab",
+            "size": 8250826,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-09-03T21:45:26.315Z",
+            "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_DLC1_Wide-2560x1440-32bb2fac601020a530483cc4c1c564ab.png",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "0fbe15c004f62671d7c1eca86e78d4c1",
+            "size": 4254204,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-09-03T21:45:25.785Z",
+            "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_DLC1_Tall-1200x1600-0fbe15c004f62671d7c1eca86e78d4c1.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-03-17T19:54:53.222Z",
+        "longDescription": "The Outer Worlds Peril on Gorgon",
+        "mainGameItem": {
+          "id": "fa16dbd78e2147179dae12e04afa3d95",
+          "namespace": "rosemallow",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fa16dbd78e2147179dae12e04afa3d95",
+            "namespace": "rosemallow",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "rosemallow",
+        "releaseInfo": [
+          {
+            "appId": "0d5096d5f109405d814ccab3dc6d94f3",
+            "compatibleApps": [],
+            "dateAdded": "2019-06-04T00:00:00.000Z",
+            "id": "918c078e0f7b421a9ada0edb50e88c04",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Outer Worlds Peril on Gorgon",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-09T23:02:14.956Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Spacer's Choice Upgrade Path audience",
+        "developer": "Microsoft",
+        "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+        "endOfSupport": false,
+        "entitlementName": "3ed3b63ede034648acc6edd795ee5814",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ed3b63ede034648acc6edd795ee5814",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2026-03-17T19:54:53.180Z",
+        "mainGameItem": {
+          "id": "fa16dbd78e2147179dae12e04afa3d95",
+          "namespace": "rosemallow",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fa16dbd78e2147179dae12e04afa3d95",
+            "namespace": "rosemallow",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "rosemallow",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spacer's Choice Upgrade Path audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "fa16dbd78e2147179dae12e04afa3d95",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "fa16dbd78e2147179dae12e04afa3d95",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "d71ee9b36e9b95adace99e39cc33e557",
+        "size": 300546,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-24T00:55:15.657Z",
+        "url": "https://cdn1.epicgames.com/rosemallow/item/Diesel_productv2_the-outer-worlds_home_ANC_Banner_TOW_NoLogo_1920x1080-(1)-1920x1080-ebae8a5f2e33aeda17905df7c4d61ae65d6c72da-1920x1080-d71ee9b36e9b95adace99e39cc33e557.jpg",
+        "width": 1920
+      },
+      {
+        "height": 730,
+        "md5": "90519fa5dc9d7baa45ad3afd7fdb4cb1",
+        "size": 120253,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-24T00:55:31.247Z",
+        "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_Logo-1558x730-90519fa5dc9d7baa45ad3afd7fdb4cb1.png",
+        "width": 1558
+      },
+      {
+        "height": 1140,
+        "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
+        "size": 241075,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/rosemallow/item/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2026-03-17T19:54:51.989Z",
+    "mainGameItemList": [],
+    "namespace": "rosemallow",
+    "releaseInfo": [
+      {
+        "appId": "Rosemallow",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-16T00:00:00.000Z",
+        "id": "86aa4e68a7fc44bf8164f22ada1e30a6",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "The Outer Worlds",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,59 @@
+{
+   "author": "Patryk Rzucidło [@ptkdev] \u003Csupport@ptkdev.io> (https://ptk.dev)",
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/commands.min.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_app_128x128.png",
+      "default_popup": "popup.html",
+      "default_title": "Aspect Ratio 21:9"
+   },
+   "commands": {
+      "toggle-crop": {
+         "description": "Force crop/zoom mode",
+         "global": true
+      },
+      "toggle-force-219": {
+         "description": "Force 21:9 aspect ratio",
+         "global": true
+      },
+      "toggle-force-329": {
+         "description": "Force 32:9 aspect ratio",
+         "global": true
+      },
+      "toggle-force-custom": {
+         "description": "Force CUSTOM aspect ratio",
+         "global": true
+      },
+      "toggle-force-default": {
+         "description": "Force 16:9 aspect ratio",
+         "global": true
+      },
+      "toggle-fullscreen-mode": {
+         "description": "Toggle \"only in fullscreenmode\"",
+         "global": true
+      },
+      "toggle-stretch": {
+         "description": "Force stretch mode",
+         "global": true
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/video.min.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/icon_app_128x128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA451ZlcsGWgy+w2T4FVmpjTbvmZrs6fS8WSqQs7+kuLlLdqRo75RO1nuoPav5dy4FfJH/R5+n7b6kLHAHiGQRgnB2zcHDu1qebY2z8PFuFc6/aF3XivkVlQpCCHE2aTMWlqA2whBijCCC0TMw98f/IvWVj8daTovHuP/vIHpBllS5IAbHxiM5S3VTsxjrzsz/fIOavLiC82F7P0jZDyKt+nMG44y4zvkXFx1WfmBSDk8czpDk7SkqJXUMyRicCXb6by5MTG3gQINVOJEVrysWBTYwMaJ6xsUxlHfpxVzRKE0na68VzR9YEvHkuT276iB+pMF7ruzgpgqosv4d2CS3OQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.5.2"
+}

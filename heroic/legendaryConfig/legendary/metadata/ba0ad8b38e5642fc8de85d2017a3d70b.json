@@ -1,0 +1,564 @@
+{
+  "app_name": "ba0ad8b38e5642fc8de85d2017a3d70b",
+  "app_title": "Gas Station Simulator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ba0ad8b38e5642fc8de85d2017a3d70b",
+      "asset_id": "ba0ad8b38e5642fc8de85d2017a3d70b",
+      "build_version": "Win64_1.0.2.52930S",
+      "catalog_item_id": "c4b085700afb42d49b368cfa1896dd87",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "90c996557cac4988b3f4206183a6a87b",
+        "update_type": "PATCH"
+      },
+      "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-06-21T15:33:42.827Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "GasStationSimulator"
+      }
+    },
+    "description": "Buy an abandoned gas station and restore it to its full glory. Renovate, upgrade and expand upon the offered services to keep up with your clients demands.",
+    "developer": "DRAGO Entertainment S.A.",
+    "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-09T11:49:24.148Z",
+        "customAttributes": {},
+        "description": "Gas Station Simulator - Can Touch This DLC",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "05dfba567dc242d2bd0f5d4cd07edb38",
+        "entitlementType": "EXECUTABLE",
+        "id": "05dfba567dc242d2bd0f5d4cd07edb38",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator - Can Touch This DLC Offer",
+            "height": 1440,
+            "md5": "187dbd37e7f14f22870dbbae93007a84",
+            "size": 2107095,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-10T10:53:45.831Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-g8b7j.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator - Can Touch This DLC Offer",
+            "height": 1600,
+            "md5": "19aa797f4fe08e6db7a506722fe8bdb7",
+            "size": 1035507,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-10T10:53:40.394Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1v9ar.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-08T09:50:07.230Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "8f88aab896cb4419b6d1740baa905241",
+            "id": "11ea97277ca2496f94cac721c5c76de0",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator - Can Touch This DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-20T09:30:57.624Z",
+        "customAttributes": {},
+        "description": "Cars are nice, but maybe airplanes are nicer? Build a small airstrip at your gas station and help Joe with his air routes in this DLC.",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "e7737cf9c85d4ce38215c0729dfd3c4b",
+        "entitlementType": "EXECUTABLE",
+        "id": "e7737cf9c85d4ce38215c0729dfd3c4b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator \u2013 Airstrip DLC Offer",
+            "height": 1440,
+            "md5": "dab0593996c31e68a33e39c1c5bc5b20",
+            "size": 1405150,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-10T10:49:12.023Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-15xq0.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator \u2013 Airstrip DLC Offer",
+            "height": 1600,
+            "md5": "8363fe8ccc7211a4d903f52cd95005b8",
+            "size": 741689,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-10T10:49:10.319Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-bkh9e.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-08T09:50:07.230Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "cb4d88b56778414b8ddfb8fb3e2013ef",
+            "id": "c2eb8c78e4d046678826b4fd26347499",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator \u2013 Airstrip DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-20T11:37:16.327Z",
+        "customAttributes": {},
+        "description": "Gas Station Simulator \u2013 Party Time DLC",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "1ac4002ae9004a09b130e0940cecf039",
+        "entitlementType": "EXECUTABLE",
+        "id": "1ac4002ae9004a09b130e0940cecf039",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator \u2013 Party Time DLC Offer",
+            "height": 1440,
+            "md5": "92d9010840d334270a6b269bb8af08c6",
+            "size": 667252,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-10T09:34:58.473Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1btw1.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator \u2013 Party Time DLC Offer",
+            "height": 1600,
+            "md5": "7f1197e6b28d7aebdb315f31e81cc5c7",
+            "size": 457195,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-10T09:34:57.381Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-178qp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-08T09:50:07.230Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "63e4504e798d422bb15a230e27b0adf1",
+            "id": "b22f925b239b4e209d9ddc0c96a2a8f6",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator \u2013 Party Time DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-19T12:10:18.843Z",
+        "customAttributes": {},
+        "description": "Gas Station Simulator \u2013 Tidal Wave DLC",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "f231ac3c40144936b66181ca41280700",
+        "entitlementType": "EXECUTABLE",
+        "id": "f231ac3c40144936b66181ca41280700",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator \u2013 Tidal Wave DLC Offer",
+            "height": 1440,
+            "md5": "092fa23f34c4899359e0373fed42b438",
+            "size": 1224015,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-09-19T12:47:28.911Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-138zc.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator \u2013 Tidal Wave DLC Offer",
+            "height": 1600,
+            "md5": "e24c83bf04244ec1f7cad9c4eac2af2a",
+            "size": 660698,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-09-19T12:47:31.111Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1nl8h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-30T10:00:54.916Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "9f69eb8707904a53be8f4f6ade545dcc",
+            "id": "6deed690010645eb987d326f5eea6337",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator \u2013 Tidal Wave DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-22T09:56:46.596Z",
+        "customAttributes": {},
+        "description": "A gas station in the middle on Nowhere, USA begs for an appropriate junkyard nearby. With the Car Junkyard DLC this is exactly what is coming to your gas station.",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "5cc32ad27e504130b2c3c41bf32efbcd",
+        "entitlementType": "EXECUTABLE",
+        "id": "5cc32ad27e504130b2c3c41bf32efbcd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator \u2013 Car Junkyard DLC Offer",
+            "height": 1440,
+            "md5": "6855f6ed864e49dac764c7aaba292977",
+            "size": 723303,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-02-22T10:29:35.761Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1gtuf.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator \u2013 Car Junkyard DLC Offer",
+            "height": 1600,
+            "md5": "a96cbcc179cf2da5e14d43634d41e77d",
+            "size": 386890,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-02-22T10:29:36.139Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1ws20.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-08T09:50:07.230Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "ec6da76e6de4459a9ae2af1e823cd6ea",
+            "id": "3f358c5b6e2f41978111709c7da02b96",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator \u2013 Car Junkyard DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-08-12T09:43:35.721Z",
+        "customAttributes": {},
+        "description": "Gas Station Simulator \u2013 Drive-In Cinema DLC",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "b875df5d0b4346af98c572245b063114",
+        "entitlementType": "EXECUTABLE",
+        "id": "b875df5d0b4346af98c572245b063114",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator \u2013 Drive-In Cinema DLC Offer",
+            "height": 1440,
+            "md5": "48d16669578c7fb3e385530245b633ab",
+            "size": 499563,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-08-12T10:14:16.519Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1dfwm.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator \u2013 Drive-In Cinema DLC Offer",
+            "height": 1600,
+            "md5": "fdc36703429f947953766c723246601f",
+            "size": 361660,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-08-12T10:14:15.842Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-q3xeq.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-30T10:00:54.916Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "bec54824bbad4888aa9475e6979c4bd3",
+            "id": "577a6e05364945ae9eeb8b78f3aeebc1",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator \u2013 Drive-In Cinema DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-20T13:01:51.841Z",
+        "customAttributes": {},
+        "description": "Gas Station Simulator \u2013 RV Camp DLC",
+        "developer": "DRAGO Entertainment S.A.",
+        "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+        "endOfSupport": false,
+        "entitlementName": "95ed9749ae514564a6d500876d48821c",
+        "entitlementType": "EXECUTABLE",
+        "id": "95ed9749ae514564a6d500876d48821c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gas Station Simulator Gas Station Simulator \u2013 RV Camp DLC Offer",
+            "height": 1440,
+            "md5": "c3ad74f86ba87ad1f15b08f81c6dada4",
+            "size": 625250,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-21T14:43:37.323Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1xd9d.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gas Station Simulator Gas Station Simulator \u2013 RV Camp DLC Offer",
+            "height": 1600,
+            "md5": "f286f87bcf6259f657134ccd51f4ee3f",
+            "size": 2596965,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-21T14:43:43.205Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-6kkre.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-08T13:50:59.586Z",
+        "mainGameItem": {
+          "id": "c4b085700afb42d49b368cfa1896dd87",
+          "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c4b085700afb42d49b368cfa1896dd87",
+            "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+        "releaseInfo": [
+          {
+            "appId": "f91f111a19a24d09ab454dd0fb4170c9",
+            "id": "23ba2bf0755f4ddca9dec6ed9b7d8f64",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gas Station Simulator \u2013 RV Camp DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "c4b085700afb42d49b368cfa1896dd87",
+    "entitlementType": "EXECUTABLE",
+    "id": "c4b085700afb42d49b368cfa1896dd87",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Gas Station Simulator Offer",
+        "height": 1440,
+        "md5": "33f8acaff996d98c4a3aa095dcbd7674",
+        "size": 1412232,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-10T09:40:38.886Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1badm.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Gas Station Simulator Offer",
+        "height": 1600,
+        "md5": "5659be390013ebf8a2afa86c19993ae1",
+        "size": 723779,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-10T09:40:32.252Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-180e9.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-08T09:50:07.230Z",
+    "mainGameItemList": [],
+    "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+    "releaseInfo": [
+      {
+        "appId": "ba0ad8b38e5642fc8de85d2017a3d70b",
+        "id": "64c70435660e475b8dfb8967de88bef3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gas Station Simulator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

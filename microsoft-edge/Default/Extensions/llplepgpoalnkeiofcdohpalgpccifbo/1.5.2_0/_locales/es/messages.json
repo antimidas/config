@@ -1,0 +1,77 @@
+{
+   "description": {
+      "message": "Ajusta la pantalla en los monitores ultrawide con una proporción de 21:9."
+   },
+   "donate": {
+      "message": "Dona"
+   },
+   "donate_desc1": {
+      "message": "Gracias a queines me apoyan!"
+   },
+   "donate_desc2": {
+      "message": "¿Quieres aparecer aquí?\u003Cbr />\u003Cbr />\u003Cb>Dona\u003C/b> en Patreon, Github Sponsors o entra en la TOP3 patrocinador de Ko-Fi's TOP3!"
+   },
+   "donate_thanks": {
+      "message": "Gracias!"
+   },
+   "extName": {
+      "message": "Aspect Ratio 21:9"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "help_bug_report": {
+      "message": "Reportar problema"
+   },
+   "help_email": {
+      "message": "E-mail"
+   },
+   "settings": {
+      "message": "Preferencias"
+   },
+   "settings_domains_desc": {
+      "message": "Añada un dominio (por ejemplo: videofun.com) y la extensión intentará corregir el tamaño del reproductor de video con las proporciones correctas (\u003Cb>BETA\u003C/b>)"
+   },
+   "settings_domains_placeholder": {
+      "message": "Escribe y pulsa intro"
+   },
+   "settings_domains_title": {
+      "message": "Experimental"
+   },
+   "settings_fullscreen": {
+      "message": " Activar solo en modo de pantalla completa"
+   },
+   "settings_ratio_crop": {
+      "message": "Recorta/Amplía"
+   },
+   "settings_ratio_desc1": {
+      "message": "Puede sobrescrivir la escala de ancho/altura predeterminada del reproductor de video si está usando monitores 32:9."
+   },
+   "settings_ratio_desc2": {
+      "message": " Esta extensión sobrescribe el selector CSS \u003Cb>transform: scale(x, y)\u003C/b>. Lee el \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale\" target=\"_blank\">\u003Cu>manual\u003C/u>\u003C/a> css si quiere cambiar estos valores."
+   },
+   "settings_ratio_scale_x": {
+      "message": "Escala X (anchura):"
+   },
+   "settings_ratio_scale_y": {
+      "message": "Escala Y (anchura):"
+   },
+   "settings_ratio_stretch": {
+      "message": " Amplía"
+   },
+   "settings_ratio_title": {
+      "message": "Cambio escala"
+   },
+   "settings_shortcuts": {
+      "message": "Puede configurar los atajos de teclado para esta extensión en: \u003Cb>\u003Ca href='javascript:void()'>chrome://extensions/shortcuts\u003C/a>\u003C/b>"
+   },
+   "settings_shortcuts_title": {
+      "message": "Shortcuts"
+   },
+   "settings_switch_desc": {
+      "message": "Activa/Desactiva la adaptación de pantalla para monitores 21:9 en estos sitios web:"
+   },
+   "settings_switch_title": {
+      "message": "Aspect Ratio por 21:9"
+   }
+}

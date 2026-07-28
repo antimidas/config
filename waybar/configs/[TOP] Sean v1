@@ -1,0 +1,97 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 36,
+    "spacing": 4,
+    "modules-left": [
+        "hyprland/workspaces",
+        "wlr/taskbar",
+	"hyprland/window"
+    ],
+    "modules-center": [
+        "clock"
+    ],
+    "modules-right": [
+        "pulseaudio",
+        "hyprland/language",
+        "custom/weather",
+        "tray"
+    ],
+
+    // 1. Desktop Pager Area
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "active-only": false,
+        "on-click": "activate",
+        "format": "{name}"
+    },
+
+    // 2. Taskbar
+    "wlr/taskbar": {
+        "format": "{icon}",
+        "icon-size": 18,
+        "tooltip-format": "{title}",
+        "on-click": "activate",
+        "on-click-middle": "close",
+        "ignore-list": [],
+        "app_ids-mapping": {}
+    },
+
+    // 3. Clock & Calendar (Restored & Locked to 12-Hour Format)
+    "clock": {
+        "format": " {:%I:%M %p   %Y-%m-%d}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "calendar": {
+            "mode": "month",
+            "mode-mon-col": 3,
+            "on-scroll": 1,
+            "format": {
+                "months": "<span color='#ffead3'><b>{}</b></span>",
+                "days": "<span color='#ecc6d9'><b>{}</b></span>",
+                "weeks": "<span color='#99ffdd'><b>W{}</b></span>",
+                "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
+                "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
+            }
+        },
+        "actions": {
+            "on-click-right": "mode",
+            "on-scroll-up": "shift_up",
+            "on-scroll-down": "shift_down"
+        }
+    },
+
+    // 4. Volume
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": "   Muted",
+        "format-icons": {
+            "default": ["  ", "  ", "  "]
+        },
+        "on-click": "pavucontrol"
+    },
+
+    // 5. Input Method (Keyboard Language)
+    "hyprland/language": {
+        "format": "  {}",
+        "format-en": "US",
+        "format-ru": "RU"
+    },
+
+
+    // 6. Clean Single Weather Module (Updated to Fahrenheit and 12h Time)
+    "custom/weather": {
+        "format": "   {}",
+        "tooltip": true,
+        "interval": 900,
+        "exec": "wttrbar --date-format '%m-%d' --fahrenheit --ampm",
+        "return-type": "json",
+        "on-click": "kitty sh -c 'curl -s https://wttr.in; read -p \"Press Enter to close...\"'"
+    },
+
+    // Status Area Tray for Background Apps
+    "tray": {
+        "icon-size": 21,
+        "spacing": 10
+    }
+}

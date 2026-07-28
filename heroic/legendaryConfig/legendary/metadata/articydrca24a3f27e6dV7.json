@@ -1,0 +1,185 @@
+{
+  "app_name": "articydrca24a3f27e6dV7",
+  "app_title": "articy:draft 3 Importer",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "articydrca24a3f27e6dV7",
+      "asset_id": "articydrca24a3f27e6dV7",
+      "build_version": "5.5.0-39025689+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "8fd04aaec87a4de0a40c8bad4a94d717",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-09-25T09:41:27.686Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "26e60fd9-4b5b-4c25-b754-886401c4eb05"
+      }
+    },
+    "description": "articy:draft 3 Importer",
+    "developer": "Articy Software",
+    "developerId": "o-lc8rkw9cd6xpdnbx2g4rn6e6muzwk6",
+    "endOfSupport": false,
+    "entitlementName": "8fd04aaec87a4de0a40c8bad4a94d717",
+    "entitlementType": "AUDIENCE",
+    "id": "8fd04aaec87a4de0a40c8bad4a94d717",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2025-01-27T13:46:24.898Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ArticyImporter_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "f91103c245f444b0b7fb99f32278c2d0",
+        "platform": [
+          "Android",
+          "iOS",
+          "Win32",
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "versionTitle": "V1.7.0-4.27"
+      },
+      {
+        "appId": "ArticyImporter_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "cfade5389b8145f0b6d9940c71c577a4",
+        "platform": [
+          "Windows",
+          "Android",
+          "Mac",
+          "Linux",
+          "iOS"
+        ],
+        "versionTitle": "V1.7.0-5.0"
+      },
+      {
+        "appId": "ArticyImporter_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "389453498789433eacfc151a27233f83",
+        "platform": [
+          "Windows",
+          "iOS",
+          "Linux",
+          "Android",
+          "Mac"
+        ],
+        "versionTitle": "V1.7.1-5.1"
+      },
+      {
+        "appId": "ArticyImporter_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "756f190f7ff142c396528d086f538888",
+        "platform": [
+          "Windows",
+          "Android",
+          "iOS",
+          "Mac",
+          "Linux"
+        ],
+        "releaseNote": "V1.9.0",
+        "versionTitle": "V1.9.0-5.2"
+      },
+      {
+        "appId": "ArticyImporter_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "69b34b179fbc48eca4a3c00e8e4467fd",
+        "platform": [
+          "Android",
+          "iOS",
+          "Linux",
+          "Mac",
+          "Windows"
+        ],
+        "releaseNote": "V1.10.0",
+        "versionTitle": "V1.10.0-5.3"
+      },
+      {
+        "appId": "ArticyImporter_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "5bca8b81f4874288a5b5a8f9b47ca391",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "Linux",
+          "iOS"
+        ],
+        "releaseNote": "V1.10.0",
+        "versionTitle": "V1.10.0-5.4"
+      },
+      {
+        "appId": "articydrca24a3f27e6dV7",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2025-01-27T09:59:26.933Z",
+        "id": "a760778efe014755807c6efe2dad5cdd",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Android",
+          "Linux",
+          "iOS"
+        ],
+        "releaseNote": "V1.10.0",
+        "versionTitle": "V1.10.0-5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "articy:draft 3 Importer",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

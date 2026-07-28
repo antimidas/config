@@ -1,0 +1,439 @@
+{
+  "app_name": "54f7949350c949c6a2c47f12e7b15636",
+  "app_title": "Trash Goblin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "54f7949350c949c6a2c47f12e7b15636",
+      "asset_id": "54f7949350c949c6a2c47f12e7b15636",
+      "build_version": "1.5.3.20260522.1000",
+      "catalog_item_id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0d1538326e544761af1d8a749b386cce",
+        "update_type": "PATCH"
+      },
+      "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi45675DcOvPLIRHQN0GArocwnuc8q",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-26T10:12:14.639Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Spilt Milk Studios/TrashGoblin/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TrashGoblin"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "2048"
+      }
+    },
+    "description": "Trash Goblin",
+    "developer": "Spilt Milk Studios",
+    "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-28T17:17:10.307Z",
+        "description": "Trash Goblin - Spiffo Plush Trinket",
+        "developer": "Spilt Milk Studios",
+        "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+        "endOfSupport": false,
+        "entitlementName": "18f0418693be494eadb59ae8ccdfb18d",
+        "entitlementType": "EXECUTABLE",
+        "id": "18f0418693be494eadb59ae8ccdfb18d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Trash Goblin Trash Goblin - Spiffo Plush Trinket Offer",
+            "height": 1440,
+            "md5": "220fb11b262ebe9d2b083364e396c88b",
+            "size": 2445579,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-15T20:43:05.359Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-1txbk.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Trash Goblin Trash Goblin - Spiffo Plush Trinket Offer",
+            "height": 1600,
+            "md5": "118e9e9a5c283c85b2100c8724307cd7",
+            "size": 1398039,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-15T20:43:12.985Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-twtpl.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-28T17:17:10.307Z",
+        "mainGameItem": {
+          "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+          "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+            "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trash Goblin - Spiffo Plush Trinket",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-28T17:17:10.333Z",
+        "description": "Trash Goblin - Goblin Plush Trinket",
+        "developer": "Spilt Milk Studios",
+        "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+        "endOfSupport": false,
+        "entitlementName": "e433525a2afd4b498a03c9732414779d",
+        "entitlementType": "EXECUTABLE",
+        "id": "e433525a2afd4b498a03c9732414779d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Trash Goblin Trash Goblin - Goblin Plush Trinket Offer",
+            "height": 1440,
+            "md5": "6f212ccc31456bd6ee024e7f49d8c1e5",
+            "size": 2829047,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-15T20:42:35.859Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-mxdg9.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Trash Goblin Trash Goblin - Goblin Plush Trinket Offer",
+            "height": 1600,
+            "md5": "2650e81d6915c47077c0191ae2537e25",
+            "size": 1576405,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-15T20:42:40.285Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-sw8i0.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-28T17:17:10.333Z",
+        "mainGameItem": {
+          "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+          "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+            "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trash Goblin - Goblin Plush Trinket",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-28T17:17:10.321Z",
+        "customAttributes": {},
+        "description": "Trash Goblin - Collector's Gift Set",
+        "developer": "Spilt Milk Studios",
+        "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+        "endOfSupport": false,
+        "entitlementName": "791d927ed9a6428cbdf97836c6df38b1",
+        "entitlementType": "EXECUTABLE",
+        "id": "791d927ed9a6428cbdf97836c6df38b1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Trash Goblin Trash Goblin - Collector's Gift Set Offer",
+            "height": 1440,
+            "md5": "59344da3831c91f2ff02058dbba0b893",
+            "size": 2332630,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-15T20:40:37.865Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-1cfyh.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Trash Goblin Trash Goblin - Collector's Gift Set Offer",
+            "height": 1600,
+            "md5": "8fd26ba877092f55c540baa029ce5dbf",
+            "size": 1202835,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-15T20:40:46.758Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-13k86.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-28T17:17:10.321Z",
+        "mainGameItem": {
+          "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+          "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+            "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trash Goblin - Collector's Gift Set",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-28T17:17:10.325Z",
+        "description": "Trash Goblin - Founder's Pack",
+        "developer": "Spilt Milk Studios",
+        "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+        "endOfSupport": false,
+        "entitlementName": "952700de377d467ca525586f149e9e8f",
+        "entitlementType": "EXECUTABLE",
+        "id": "952700de377d467ca525586f149e9e8f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Trash Goblin Trash Goblin - Founder's Pack Offer",
+            "height": 1440,
+            "md5": "afd98b7f4ce13868f0f035d6eba676b1",
+            "size": 2326392,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-15T20:41:20.326Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-7wqsv.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Trash Goblin Trash Goblin - Founder's Pack Offer",
+            "height": 1600,
+            "md5": "29b2f664291fcda18d12a96737c13120",
+            "size": 1198328,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-15T20:41:16.049Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-r6kpd.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-28T17:17:10.325Z",
+        "mainGameItem": {
+          "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+          "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+            "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trash Goblin - Founder's Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-15T16:01:40.207Z",
+        "description": "Trash Goblin - The Artist of Brimhaven",
+        "developer": "Spilt Milk Studios",
+        "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+        "endOfSupport": false,
+        "entitlementName": "10ae18e9181d4758bdf7408cf866136b",
+        "entitlementType": "EXECUTABLE",
+        "id": "10ae18e9181d4758bdf7408cf866136b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Trash Goblin Trash Goblin - The Artist of Brimhaven Offer",
+            "height": 1440,
+            "md5": "0f82fe5ff9c68edc6284fad6e141cdfd",
+            "size": 1020331,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-15T20:45:07.716Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-s3u81.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Trash Goblin Trash Goblin - The Artist of Brimhaven Offer",
+            "height": 1600,
+            "md5": "51b0774b9b5c570e6bc629efdb1ee505",
+            "size": 2751454,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-15T20:43:44.115Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-1dd6l.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-07-07T19:30:41.548Z",
+        "mainGameItem": {
+          "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+          "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+            "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trash Goblin - The Artist of Brimhaven",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-04-28T17:17:10.318Z",
+        "description": "Trash Goblin - Found Family Cosmetic Pack",
+        "developer": "Spilt Milk Studios",
+        "developerId": "o-at4ndketztkls9w75hjpcxhxtaxv75",
+        "endOfSupport": false,
+        "entitlementName": "44e6e3765d834a34b1f17b593b09ab53",
+        "entitlementType": "EXECUTABLE",
+        "id": "44e6e3765d834a34b1f17b593b09ab53",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Trash Goblin Trash Goblin - Found Family Cosmetic Pack Offer",
+            "height": 1440,
+            "md5": "692f232ed9c6e0b4f644bb2f53bfab3b",
+            "size": 3662145,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-04-15T20:41:55.850Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-1esgz.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Trash Goblin Trash Goblin - Found Family Cosmetic Pack Offer",
+            "height": 1600,
+            "md5": "65cc5a0e2b714961cc5b74558fae8d1e",
+            "size": 2373001,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-04-15T20:41:59.097Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-2cwmr.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-04-28T17:17:10.318Z",
+        "mainGameItem": {
+          "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+          "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+            "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trash Goblin - Found Family Cosmetic Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "e52e38a83c9546c1b6a7c592c91c5dd9",
+    "entitlementType": "EXECUTABLE",
+    "id": "e52e38a83c9546c1b6a7c592c91c5dd9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Trash Goblin Offer",
+        "height": 1440,
+        "md5": "441b81f1f2237befcf59335db608f21d",
+        "size": 3170307,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-31T10:17:35.069Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-rg9jv.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Trash Goblin Offer",
+        "height": 1600,
+        "md5": "f1aa4446589a7ad15eceb6fd22b71675",
+        "size": 1909195,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-31T10:17:38.884Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-195pl.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-07-02T07:35:37.746Z",
+    "mainGameItemList": [],
+    "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+    "releaseInfo": [
+      {
+        "appId": "54f7949350c949c6a2c47f12e7b15636",
+        "id": "d944c166e8a340cb9961a1c28c2b3950",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Trash Goblin",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "0f1286e0a0454dfba8cb27a3ccecb256"
+    },
+    "rev": 1
+  }
+}

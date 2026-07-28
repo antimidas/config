@@ -1,0 +1,45 @@
+[bar]
+layer = "bottom"
+bg = "transparent"
+button-variant = "basic"
+button-icon-size = 0.25
+button-rounding = "full"
+
+[styling]
+theme-provider = "wallust"
+
+[styling.palette]
+bg = "#16161e"
+surface = "#1a1b26"
+elevated = "#292e42"
+fg = "#c0caf5"
+fg-muted = "#a9b1d6"
+primary = "#7aa2f7"
+red = "#f7768e"
+yellow = "#e0af68"
+green = "#9ece6a"
+blue = "#7dcfff"
+
+[modules.battery]
+border-color = "transparent"
+icon-show = false
+icon-color = "transparent"
+icon-bg-color = "transparent"
+label-show = false
+label-color = "transparent"
+button-bg-color = "transparent"
+
+[modules.hyprland-workspaces]
+min-workspace-count = 10
+display-mode = "icon"
+app-icons-show = true
+
+[modules.microphone]
+icon-show = false
+icon-color = "transparent"
+icon-bg-color = "transparent"
+label-show = false
+label-color = "transparent"
+
+[wallpaper]
+engine-enabled = false

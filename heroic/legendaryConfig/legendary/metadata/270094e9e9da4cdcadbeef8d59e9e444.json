@@ -1,0 +1,90 @@
+{
+  "app_name": "270094e9e9da4cdcadbeef8d59e9e444",
+  "app_title": "Voidwrought",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "270094e9e9da4cdcadbeef8d59e9e444",
+      "asset_id": "270094e9e9da4cdcadbeef8d59e9e444",
+      "build_version": "Win.1.1.33",
+      "catalog_item_id": "62db4b4dc8024f109a3719061bc5f43d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f6798a2329b743f9ac7b53bd649791d3",
+        "update_type": "PATCH"
+      },
+      "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567VU6woMMyXlTItvZ0BPguMTn1",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-12-19T13:09:08.583Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "VoidwroughtFq9Qv"
+      }
+    },
+    "description": "Voidwrought is a 2D action-platformer set in a hand-drawn world of cosmic horrors. Explore the thawing ruins of the First Civilisation and strike down the gods that dwell there. Grow your powers, uncover ancient Artifacts, and expand your shrine amid the wreckage.",
+    "developer": "Kwalee",
+    "developerId": "o-suxccu7jpseb6b4tfez6bmh3w3fv43",
+    "endOfSupport": false,
+    "entitlementName": "62db4b4dc8024f109a3719061bc5f43d",
+    "entitlementType": "EXECUTABLE",
+    "id": "62db4b4dc8024f109a3719061bc5f43d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Voidwrought Offer",
+        "height": 1440,
+        "md5": "b3a7a9d642b6d175591b58387edf8dc5",
+        "size": 555509,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-06-05T12:52:21.469Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-1ab92.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Voidwrought Offer",
+        "height": 1600,
+        "md5": "81bc8bd8393a9e0a95ab9222310f1989",
+        "size": 2358043,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-06-05T12:52:22.414Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-4391z.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-07-06T10:18:58.421Z",
+    "mainGameItemList": [],
+    "namespace": "1c6e13038e00432ba0a3c11bb85d1d5f",
+    "releaseInfo": [
+      {
+        "appId": "270094e9e9da4cdcadbeef8d59e9e444",
+        "id": "ac64d1d4cbbd4722837a2fa3f967bde4",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Voidwrought",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "d79e21ae11b84224ac4fd4ad4b5f1690"
+    },
+    "rev": 1
+  }
+}

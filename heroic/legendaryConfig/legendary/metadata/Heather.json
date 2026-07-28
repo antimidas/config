@@ -1,0 +1,120 @@
+{
+  "app_name": "Heather",
+  "app_title": "Red Dead Redemption 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Heather",
+      "asset_id": "Heather",
+      "build_version": "1.0.1491.50_v5",
+      "catalog_item_id": "22a7b503221442daa2fb16ad37b6ccbf",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-24T21:49:28.603Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RedDeadRedemption2"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "RDR2.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b30b6d1b4dfd4dcc93b5490be5e094e5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+    "endOfSupport": false,
+    "entitlementName": "22a7b503221442daa2fb16ad37b6ccbf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "22a7b503221442daa2fb16ad37b6ccbf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c352abb41c52c8152d2688727ff647f1",
+        "size": 223898,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-23T12:57:14.579Z",
+        "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/Diesel_productv2_heather_home_EGS_RockstarGames_RedDeadRedemption2_S1-2560x1440-d5fade458c9ba3c3726d578b18486f08e1a47999-2560x1440-c352abb41c52c8152d2688727ff647f1.jpg",
+        "width": 2560
+      },
+      {
+        "height": 625,
+        "md5": "fad569ac284f270b2cfb860e7f834f4f",
+        "size": 20222,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-23T12:57:21.744Z",
+        "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/Diesel_productv2_heather_home_EGS_RockstarGames_RedDeadRedemption2_IC1-625x625-38ae1bca6b89370d01ac3ed3a17daf7dd004f9f5-625x625-fad569ac284f270b2cfb860e7f834f4f.png",
+        "width": 625
+      },
+      {
+        "height": 1440,
+        "md5": "43b9260015986b748e616f399c6de4dc",
+        "size": 453252,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/EGS_RockstarGames_RedDeadRedemption2_S2-1280x1440-43b9260015986b748e616f399c6de4dc.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2025-06-25T15:17:38.305Z",
+    "mainGameItemList": [],
+    "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+    "releaseInfo": [
+      {
+        "appId": "Heather",
+        "dateAdded": "2019-07-24T00:00:00.000Z",
+        "id": "5f448f01aeb5418e8f314b7abe024f5d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Red Dead Redemption 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

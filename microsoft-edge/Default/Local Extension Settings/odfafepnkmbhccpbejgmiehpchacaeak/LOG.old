@@ -1,0 +1,45 @@
+2026/07/27-08:56:50.518 10439 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/MANIFEST-000001
+2026/07/27-08:56:50.519 10439 Recovering log #96
+2026/07/27-08:56:50.519 10439 Reusing old log /home/anti/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/000096.log 
+2026/07/27-13:57:28.996 10439 Level-0 table #111: started
+2026/07/27-13:57:29.012 10439 Level-0 table #111: 5082828 bytes OK
+2026/07/27-13:57:29.016 10439 Delete type=0 #96
+2026/07/27-13:58:23.100 10439 Level-0 table #113: started
+2026/07/27-13:58:23.117 10439 Level-0 table #113: 4829937 bytes OK
+2026/07/27-13:58:23.121 10439 Delete type=0 #110
+2026/07/27-13:58:26.108 10438 Level-0 table #115: started
+2026/07/27-13:58:26.135 10438 Level-0 table #115: 9243133 bytes OK
+2026/07/27-13:58:26.140 10438 Delete type=0 #112
+2026/07/27-17:58:30.468 1043b Level-0 table #117: started
+2026/07/27-17:58:30.507 1043b Level-0 table #117: 12451394 bytes OK
+2026/07/27-17:58:30.511 1043b Delete type=0 #114
+2026/07/27-17:58:30.512 1043b Compacting 4@0 + 1@1 files
+2026/07/27-17:58:30.524 1043b Generated table #118@0: 4 keys, 2872635 bytes
+2026/07/27-17:58:30.539 1043b Generated table #119@0: 3 keys, 2331395 bytes
+2026/07/27-17:58:30.550 1043b Generated table #120@0: 2 keys, 2422018 bytes
+2026/07/27-17:58:30.587 1043b Generated table #121@0: 3 keys, 11045722 bytes
+2026/07/27-17:58:30.596 1043b Generated table #122@0: 8 keys, 1825200 bytes
+2026/07/27-17:58:30.596 1043b Compacted 4@0 + 1@1 files => 20496970 bytes
+2026/07/27-17:58:30.600 1043b compacted to: files[ 0 5 6 0 0 0 0 ]
+2026/07/27-17:58:30.600 1043b Delete type=2 #101
+2026/07/27-17:58:30.600 1043b Delete type=2 #111
+2026/07/27-17:58:30.600 1043b Delete type=2 #113
+2026/07/27-17:58:30.600 1043b Delete type=2 #115
+2026/07/27-17:58:30.600 1043b Delete type=2 #117
+2026/07/27-17:58:30.604 1043b Compacting 1@1 + 2@2 files
+2026/07/27-17:58:30.615 1043b Generated table #123@1: 5 keys, 2336940 bytes
+2026/07/27-17:58:30.658 1043b Generated table #124@1: 2 keys, 9200972 bytes
+2026/07/27-17:58:30.659 1043b Compacted 1@1 + 2@2 files => 11537912 bytes
+2026/07/27-17:58:30.663 1043b compacted to: files[ 0 4 6 0 0 0 0 ]
+2026/07/27-17:58:30.663 1043b Delete type=2 #75
+2026/07/27-17:58:30.663 1043b Delete type=2 #108
+2026/07/27-17:58:30.663 1043b Delete type=2 #121
+2026/07/27-18:57:34.566 10439 Level-0 table #126: started
+2026/07/27-18:57:34.582 10439 Level-0 table #126: 5086072 bytes OK
+2026/07/27-18:57:34.586 10439 Delete type=0 #116
+2026/07/27-18:58:28.660 10439 Level-0 table #128: started
+2026/07/27-18:58:28.676 10439 Level-0 table #128: 4727827 bytes OK
+2026/07/27-18:58:28.680 10439 Delete type=0 #125
+2026/07/27-18:58:31.667 10438 Level-0 table #130: started
+2026/07/27-18:58:31.696 10438 Level-0 table #130: 9279507 bytes OK
+2026/07/27-18:58:31.700 10438 Delete type=0 #127

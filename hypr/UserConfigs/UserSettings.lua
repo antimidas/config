@@ -1,0 +1,16 @@
+-- /* ---- 💫 https://github.com/JaKooLit 💫 ---- */ --
+-- User Settings
+-- This is where you put your own settings as this will not be touched during update
+-- if the upgrade.sh is used.
+
+-- refer to Hyprland wiki for more info https://wiki.hyprland.org/Configuring/Variables/
+-- NOTE: some settings are in ~/.config/hypr/UserConfigs/UserDecorAnimations.conf
+--
+-- Look on ~/.config/hypr/configs/SystemSettings.conf to know how to modify this
+
+local M = {}
+
+-- Empty by default in the source file; add your own overrides here,
+-- e.g. M.input = { kb_layout = "us" }
+
+return M

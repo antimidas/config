@@ -1,0 +1,16 @@
+# Keep this intact in your pyprland.toml
+[pyprland]
+plugins = ["scratchpads"]
+
+[scratchpads.term]
+animation = "fromTop"
+command = "kitty --class kitty-dropterm"
+class = "kitty-dropterm"
+size = "75% 60% "
+
+[scratchpads.ranger]
+animation = "fromBottom"
+command = "kitty --class kitty-ranger -e ranger"
+class = "kitty-ranger"
+size = "85% 55%"
+lazy = true

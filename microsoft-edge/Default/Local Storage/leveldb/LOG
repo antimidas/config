@@ -1,0 +1,6 @@
+2026/07/27-19:46:46.787 5 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2026/07/27-19:46:46.791 5 Recovering log #361
+2026/07/27-19:46:46.791 5 Reusing old log /home/anti/.config/microsoft-edge/Default/Local Storage/leveldb/000361.log 
+2026/07/27-19:47:14.867 7 Level-0 table #365: started
+2026/07/27-19:47:14.869 7 Level-0 table #365: 28060 bytes OK
+2026/07/27-19:47:14.874 7 Delete type=0 #361

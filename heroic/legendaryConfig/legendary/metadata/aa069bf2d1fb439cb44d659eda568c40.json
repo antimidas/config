@@ -1,0 +1,180 @@
+{
+  "app_name": "aa069bf2d1fb439cb44d659eda568c40",
+  "app_title": "Calico",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "aa069bf2d1fb439cb44d659eda568c40",
+      "asset_id": "aa069bf2d1fb439cb44d659eda568c40",
+      "build_version": "2.1.0",
+      "catalog_item_id": "779a54f151bf476fad839fe635fb20c8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MAJOR"
+      },
+      "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-25T15:00:50.543Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Peachy Keen Games/Calico/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Calico"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "92e8ff0ca9bb421c831dc0f6fc8ef54d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Calico",
+    "developer": "White Thorn Digital",
+    "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2026-05-29T13:09:21.773Z",
+        "description": "Neat Things",
+        "developer": "White Thorn Digital",
+        "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+        "endOfSupport": false,
+        "entitlementName": "f467f14ce55543dfbcfc4db63ad304b4",
+        "entitlementType": "EXECUTABLE",
+        "id": "f467f14ce55543dfbcfc4db63ad304b4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Calico Neat Things Offer",
+            "height": 1440,
+            "md5": "4b5e80ddffd0d83109e2a4cc666e6c8b",
+            "size": 487381,
+            "type": "DieselGameBox",
+            "uploadedDate": "2026-05-19T14:48:38.891Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/43285119b51e47008dd3e8cfa0f6b3e7/calico-qi640.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Calico Neat Things Offer",
+            "height": 1600,
+            "md5": "471546ef04b58b7a9876cd8de591caa4",
+            "size": 299295,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2026-05-19T14:48:41.428Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/43285119b51e47008dd3e8cfa0f6b3e7/calico-kfdzs.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2026-05-29T13:09:21.773Z",
+        "mainGameItem": {
+          "id": "779a54f151bf476fad839fe635fb20c8",
+          "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "779a54f151bf476fad839fe635fb20c8",
+            "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neat Things",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "779a54f151bf476fad839fe635fb20c8",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "779a54f151bf476fad839fe635fb20c8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "99c6db258a2d932e9d1b462501f2c9e1",
+        "size": 878591,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-16T20:01:18.713Z",
+        "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/item/EGS_Calico_PeachyKeenGames_S1-2560x1440-99c6db258a2d932e9d1b462501f2c9e1.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "78c3c675ef96e0f7f80e2d9484d3b79b",
+        "size": 436364,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-16T20:01:27.861Z",
+        "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/item/EGS_Calico_PeachyKeenGames_S2-1200x1600-78c3c675ef96e0f7f80e2d9484d3b79b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-05-29T13:09:22.102Z",
+    "mainGameItemList": [],
+    "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+    "releaseInfo": [
+      {
+        "appId": "aa069bf2d1fb439cb44d659eda568c40",
+        "id": "5ef964c63b81449586d5c6ec749c6e86",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Calico",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

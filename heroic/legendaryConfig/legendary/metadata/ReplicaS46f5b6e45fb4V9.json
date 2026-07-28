@@ -1,0 +1,284 @@
+{
+  "app_name": "ReplicaS46f5b6e45fb4V9",
+  "app_title": "Replica Studios - AI Voice Actors",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ReplicaS46f5b6e45fb4V9",
+      "asset_id": "ReplicaS46f5b6e45fb4V9",
+      "build_version": "5.5.0-38273019+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "555a4ad5559344cb995ab893b5209440",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T19:58:25.647Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "a506d0aa-2cb8-4311-9a07-e8b95c2ac967"
+      }
+    },
+    "description": "Replica Studios - AI Voice Actors",
+    "developer": "Replica Studios",
+    "developerId": "o-7d8b7kgwy4r32d97cm97rnak4b64y2",
+    "endOfSupport": false,
+    "entitlementName": "555a4ad5559344cb995ab893b5209440",
+    "entitlementType": "AUDIENCE",
+    "id": "555a4ad5559344cb995ab893b5209440",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2024-11-20T20:54:25.884Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "ReplicaLink_4.25",
+        "compatibleApps": [
+          "UE_4.25"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "20a5650855d74782818e4b8368263b4e",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Mac",
+          "Nintendo Switch",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "v0.0.3 - 4.25"
+      },
+      {
+        "appId": "ReplicaLink_4.26",
+        "compatibleApps": [
+          "UE_4.26"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "8a1146401dd44d6ba44ef61013a1ca4e",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Xbox One",
+          "Windows"
+        ],
+        "versionTitle": "v0.0.4 - 4.26"
+      },
+      {
+        "appId": "ReplicaLink_4.27",
+        "compatibleApps": [
+          "UE_4.27"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "04505cd4a7384b9d9ca3ffbbac2605de",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32",
+          "HoloLens 2",
+          "Gear VR",
+          "Android",
+          "iOS",
+          "Linux",
+          "SteamVR / HTC Vive",
+          "Nintendo Switch",
+          "Oculus",
+          "Xbox One",
+          "PS4"
+        ],
+        "versionTitle": "v0.0.4 - 4.27"
+      },
+      {
+        "appId": "ReplicaLink_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "fe34caaa52174d2aa136c7a16490f103",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "v0.0.4 - 5.0"
+      },
+      {
+        "appId": "ReplicaLink_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "c98445e7e7eb4e2fb65a3873109769d1",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "v0.0.4 - 5.1"
+      },
+      {
+        "appId": "ReplicaLink_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "296180db28b24e1585aa4489bf1ba976",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "v0.0.4 - 5.2"
+      },
+      {
+        "appId": "ReplicaLink_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "1826f6668819455d8ac29505c6d56669",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "SteamVR / HTC Vive",
+          "PS4",
+          "Oculus",
+          "Nintendo Switch",
+          "Mac",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "v0.0.4 - 5.3"
+      },
+      {
+        "appId": "ReplicaLink_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "1fc4d010991e4446a6b6058617fb6839",
+        "platform": [
+          "Android",
+          "Gear VR",
+          "HoloLens 2",
+          "iOS",
+          "Linux",
+          "Win32",
+          "PS4",
+          "SteamVR / HTC Vive",
+          "Oculus",
+          "Mac",
+          "Nintendo Switch",
+          "Windows",
+          "Xbox One"
+        ],
+        "versionTitle": "v0.0.4 - 5.4"
+      },
+      {
+        "appId": "ReplicaS46f5b6e45fb4V9",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2024-11-20T00:19:07.220Z",
+        "id": "7630629b5baf489f831b74841c09bf1e",
+        "platform": [
+          "Windows",
+          "Mac",
+          "PS4",
+          "iOS",
+          "Android",
+          "Xbox One",
+          "Oculus",
+          "SteamVR / HTC Vive",
+          "Gear VR",
+          "Linux",
+          "Win32",
+          "HoloLens 2",
+          "Nintendo Switch"
+        ],
+        "versionTitle": "v0.0.4 - 5.5"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Replica Studios - AI Voice Actors",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

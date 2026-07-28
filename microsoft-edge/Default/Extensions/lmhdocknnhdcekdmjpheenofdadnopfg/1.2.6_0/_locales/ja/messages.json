@@ -1,0 +1,65 @@
+{
+   "Arabic": {
+      "message": "アラビア語"
+   },
+   "Baltic": {
+      "message": "バルト語"
+   },
+   "Celtic": {
+      "message": "ケルト語"
+   },
+   "Central_European": {
+      "message": "中央ヨーロッパ言語"
+   },
+   "Chinese_Simplified": {
+      "message": "簡体字中国語"
+   },
+   "Chinese_Traditional": {
+      "message": "繁体字中国語"
+   },
+   "Cyrillic": {
+      "message": "キリル文字"
+   },
+   "Greek": {
+      "message": "ギリシャ語"
+   },
+   "Hebrew": {
+      "message": "ヘブライ語"
+   },
+   "Japanese": {
+      "message": "日本語"
+   },
+   "Korean": {
+      "message": "韓国語"
+   },
+   "Nordic": {
+      "message": "北欧語"
+   },
+   "South_European": {
+      "message": "南ヨーロッパ言語"
+   },
+   "Thai": {
+      "message": "タイ語"
+   },
+   "Turkish": {
+      "message": "トルコ語"
+   },
+   "Unicode": {
+      "message": "Unicode"
+   },
+   "Use_page_default": {
+      "message": "ページのデフォルト設定を使用"
+   },
+   "Vietnamese": {
+      "message": "ベトナム語"
+   },
+   "Western": {
+      "message": "西ヨーロッパ言語"
+   },
+   "description": {
+      "message": "CSSスタイル、フォント、カラーのカスタマイズ、アイケア、高度な選択コピー、ページエンコーディング設定、JS設定"
+   },
+   "page_encoding": {
+      "message": "ページエンコーディング"
+   }
+}

@@ -1,0 +1,90 @@
+{
+	"userHome": "/home/anti",
+	"language": "en",
+	"settings": {
+		"analyticsOptIn": true,
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": true,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/anti/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/anti/.steam/steam",
+		"defaultWinePrefix": "/home/anti/Games/Heroic/Prefixes",
+		"defaultWinePrefixDir": "/home/anti/Games/Heroic/Prefixes",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": true,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/anti/Games/Heroic/Prefixes/shared",
+		"wineVersion": {
+			"bin": "/home/anti/.config/heroic/tools/proton/GE-Proton-latest/proton",
+			"name": "GE-Proton-latest",
+			"type": "proton"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"enableMsync": false,
+		"enableWineWayland": true,
+		"enableHDR": false,
+		"enableWoW64": true,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false,
+		"hideWindowOnProtocolLaunch": false,
+		"beforeLaunchScriptPath": "",
+		"afterLaunchScriptPath": "",
+		"disableUMU": false,
+		"verboseLogs": true,
+		"downloadProtonToSteam": false,
+		"advertiseAvxForRosetta": false,
+		"noTrayIcon": false,
+		"showValveProton": false,
+		"steamGridDbApiKey": "25ac9c750334e1b010cc9b8d77381d91",
+		"disableGOGPresence": false,
+		"useSteamRuntime": true
+	},
+	"userInfo": {
+		"account_id": "b11248b46c4c4b1183f9779902de78e3",
+		"displayName": "ResetInPeace2018",
+		"user": "anti"
+	},
+	"window-props": {
+		"x": 0,
+		"y": 0,
+		"width": 1908,
+		"height": 1024,
+		"maximized": true
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "uNYeYdZY3VjdNjQkvnSufK",
+				"title": "EA PGA"
+			},
+			{
+				"appName": "oTs1zA5Hy2oL2431YZZ6ds",
+				"title": "EA App"
+			},
+			{
+				"appName": "6NoRFeJYyVCjNiST2ARRWY",
+				"title": "Ubisoft Connect"
+			}
+		]
+	},
+	"theme": "sweet"
+}

@@ -1,0 +1,90 @@
+{
+  "app_name": "fad70ee8eec245bfb4fb2c320d63dd2e",
+  "app_title": "G.I. Joe Wrath of Cobra",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fad70ee8eec245bfb4fb2c320d63dd2e",
+      "asset_id": "fad70ee8eec245bfb4fb2c320d63dd2e",
+      "build_version": "GIJoe-EOS-fix-2026-07-02",
+      "catalog_item_id": "a1d26b06d31840fbb1dd8a50b4459199",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "368867ca5f3b421bb7f3d5cd8fbfe7f3",
+        "update_type": "PATCH"
+      },
+      "namespace": "d9d79f35d883467ca7886d443087b602",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-08-08T18:20:32.573Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "GIJoeWrathofCobraEH6ge"
+      }
+    },
+    "description": "Yo Joe! Cobra returns once again with its most fiendish plot yet and it's up to G.I. Joe to defeat them once more! Pick one of the real American heroes, gear up, and get straight into the fight in this retro side-scrolling beat 'em up - and make Cobra RETREAT yet again!",
+    "developer": "Freedom Games",
+    "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+    "endOfSupport": false,
+    "entitlementName": "a1d26b06d31840fbb1dd8a50b4459199",
+    "entitlementType": "EXECUTABLE",
+    "id": "a1d26b06d31840fbb1dd8a50b4459199",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "G.I. Joe Wrath of Cobra Offer",
+        "height": 1440,
+        "md5": "1771b61ea2a0bb07b4daa048536a8b4f",
+        "size": 1979158,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-02T16:47:18.505Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/db072d8ba2e44017b45abb915f058267/gi-joe-wrath-of-cobra-x20xs.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download G.I. Joe Wrath of Cobra Offer",
+        "height": 1600,
+        "md5": "4ccf944b92c552acec85c2502e68e54e",
+        "size": 1151471,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-02T16:47:25.620Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/db072d8ba2e44017b45abb915f058267/gi-joe-wrath-of-cobra-1j6ny.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2026-07-06T15:25:56.124Z",
+    "mainGameItemList": [],
+    "namespace": "d9d79f35d883467ca7886d443087b602",
+    "releaseInfo": [
+      {
+        "appId": "fad70ee8eec245bfb4fb2c320d63dd2e",
+        "id": "286cfe5863a446d89f1c36fe96d18a0e",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "G.I. Joe Wrath of Cobra",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "f14f8c12818a4eb7942bdabb29fb9779"
+    },
+    "rev": 1
+  }
+}

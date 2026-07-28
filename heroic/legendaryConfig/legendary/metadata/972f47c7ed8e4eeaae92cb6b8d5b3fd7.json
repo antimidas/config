@@ -1,0 +1,163 @@
+{
+  "app_name": "972f47c7ed8e4eeaae92cb6b8d5b3fd7",
+  "app_title": "River City Girls 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "972f47c7ed8e4eeaae92cb6b8d5b3fd7",
+      "asset_id": "972f47c7ed8e4eeaae92cb6b8d5b3fd7",
+      "build_version": "v.1.0.903406_patched_v2",
+      "catalog_item_id": "8efa8262e2d84e62b3a8d05b0d41852a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ffd2e51d04ce4fecbbdf9b8462b90ae6",
+        "update_type": "PATCH"
+      },
+      "namespace": "973ce75835994a35ab386d56ed2dffa3",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567njpak450HHLWW6Sig2rlQdik",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-02-03T18:35:27.527Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "Default.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/WayForward Technologies/River City Girls 2/_savedata/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RiverCityGirls2"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1"
+      }
+    },
+    "description": "A pixel-art sci-fi adventure set in the midst of a rebellion against a totalitarian regime, LUNARK is a modern take on the 2D cinematic platformer genre of the '90s. Run, jump, hang, climb, roll, and shoot your way through gorgeous and mysterious locations!",
+    "developer": "WayForward",
+    "developerId": "o-t9vdtu8kntlubnxnh64w4tnrfzatkx",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-03T18:35:27.526Z",
+        "customAttributes": {},
+        "description": "River City Girls 2: Double Dragon DLC",
+        "developer": "WayForward",
+        "developerId": "o-t9vdtu8kntlubnxnh64w4tnrfzatkx",
+        "endOfSupport": false,
+        "entitlementName": "8946b8dcdf364b7d97e26e0ebea3c00a",
+        "entitlementType": "EXECUTABLE",
+        "id": "8946b8dcdf364b7d97e26e0ebea3c00a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "River City Girls 2 Double Dragon DLC Offer",
+            "height": 1440,
+            "md5": "8c96989b703dab7b89633ad171190c10",
+            "size": 1347291,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-22T22:02:20.015Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-o9qyk.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download River City Girls 2 Double Dragon DLC Offer",
+            "height": 1600,
+            "md5": "51e9059f302c8d9946c08bac44de2a26",
+            "size": 782825,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-22T22:02:23.549Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1gx7g.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-03T18:35:27.526Z",
+        "mainGameItem": {
+          "id": "8efa8262e2d84e62b3a8d05b0d41852a",
+          "namespace": "973ce75835994a35ab386d56ed2dffa3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8efa8262e2d84e62b3a8d05b0d41852a",
+            "namespace": "973ce75835994a35ab386d56ed2dffa3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "973ce75835994a35ab386d56ed2dffa3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "River City Girls 2: Double Dragon DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "8efa8262e2d84e62b3a8d05b0d41852a",
+    "entitlementType": "EXECUTABLE",
+    "id": "8efa8262e2d84e62b3a8d05b0d41852a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "River City Girls 2 Offer",
+        "height": 1440,
+        "md5": "0ab471636dac7ca8064f1b56a236b48a",
+        "size": 1382556,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-22T21:48:00.055Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1tocy.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download River City Girls 2 Offer",
+        "height": 1600,
+        "md5": "1f55da9718954eca7a1f118db03d05eb",
+        "size": 882541,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-22T21:48:03.344Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-abql3.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-03T18:35:27.807Z",
+    "mainGameItemList": [],
+    "namespace": "973ce75835994a35ab386d56ed2dffa3",
+    "releaseInfo": [
+      {
+        "appId": "972f47c7ed8e4eeaae92cb6b8d5b3fd7",
+        "id": "b86dc60f4c93411eb39c57a3a4f93364",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "River City Girls 2",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "947f11d7928a47e88e0b6f914a85440f"
+    },
+    "rev": 1
+  }
+}

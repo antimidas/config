@@ -1,0 +1,172 @@
+{
+  "app_name": "VNTANA3Dbb384bb08115V6",
+  "app_title": "VNTANA 3D Model Unreal Plugin",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "VNTANA3Dbb384bb08115V6",
+      "asset_id": "VNTANA3Dbb384bb08115V6",
+      "build_version": "5.5.0-55367537+++UE5+Dev-Marketplace-Windows",
+      "catalog_item_id": "e0a54e2f7e2443a48f315046fa9eb3a4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "plugins/engine"
+      },
+      {
+        "path": "plugins"
+      },
+      {
+        "path": "asset-format/game-engine"
+      },
+      {
+        "path": "type/format-item"
+      },
+      {
+        "path": "asset-format/game-engine/unreal-engine"
+      },
+      {
+        "path": "type"
+      },
+      {
+        "path": "asset-format"
+      }
+    ],
+    "creationDate": "2024-10-14T19:52:25.332Z",
+    "customAttributes": {
+      "ListingIdentifier": {
+        "type": "STRING",
+        "value": "5cdd64c0-d51f-4e4b-9ecf-a106250a8be2"
+      }
+    },
+    "description": "VNTANA 3D Model Unreal Plugin",
+    "developer": "VNTANA 3D Asset Management Platform",
+    "developerId": "o-yvulxbxl7wlvuehtgjguadpxymmuav",
+    "endOfSupport": false,
+    "entitlementName": "e0a54e2f7e2443a48f315046fa9eb3a4",
+    "entitlementType": "AUDIENCE",
+    "id": "e0a54e2f7e2443a48f315046fa9eb3a4",
+    "itemType": "DURABLE",
+    "keyImages": [],
+    "lastModifiedDate": "2026-06-23T11:09:24.232Z",
+    "mainGameItemList": [],
+    "namespace": "89efe5924d3d467c839449ab6ab52e7f",
+    "releaseInfo": [
+      {
+        "appId": "VntanaPlugin_5.0",
+        "compatibleApps": [
+          "UE_5.0"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "536275fd4bdc42fbad0d6d84cc049013",
+        "platform": [
+          "Mac",
+          "Windows"
+        ],
+        "versionTitle": "VNTANA Plugin V1_1_3 UE50"
+      },
+      {
+        "appId": "VntanaPlugin_5.1",
+        "compatibleApps": [
+          "UE_5.1"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "f42e3e35815f4a41b219f32fa26978da",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V1_1_3 UE51"
+      },
+      {
+        "appId": "VntanaPlugin_5.2",
+        "compatibleApps": [
+          "UE_5.2"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "8354ba9f52844c2180d86133c1cb072b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V1_1_3 UE52"
+      },
+      {
+        "appId": "VntanaPlugin_5.3",
+        "compatibleApps": [
+          "UE_5.3"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "4fa5e3d0a1074c74b6ff40de5bd8d85e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V2.0.2 UE53"
+      },
+      {
+        "appId": "VntanaPlugin_5.4",
+        "compatibleApps": [
+          "UE_5.4"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "27db62fdf2104575877a8b0487bc2f72",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V2.0.2 UE54"
+      },
+      {
+        "appId": "VNTANA3Dbb384bb08115V6",
+        "compatibleApps": [
+          "UE_5.5"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "fbd9cf4b69e44cba878fe9f872423fd2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V2.0.2 UE55"
+      },
+      {
+        "appId": "VNTANA3D7e3a19c9f282V7",
+        "compatibleApps": [
+          "UE_5.6"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "ed97431fceef4e938bccec5b9dfd5671",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V2.0.2 UE56"
+      },
+      {
+        "appId": "VNTANA3D63f077d58dfdV8",
+        "compatibleApps": [
+          "UE_5.7"
+        ],
+        "dateAdded": "2026-06-22T16:10:27.628Z",
+        "id": "da8fadc2b33c44feb5ed0b00fe9173be",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "versionTitle": "VNTANA Plugin V2.0.2 UE57"
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "VNTANA 3D Model Unreal Plugin",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

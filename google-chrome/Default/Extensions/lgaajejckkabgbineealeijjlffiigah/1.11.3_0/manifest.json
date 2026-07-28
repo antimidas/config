@@ -1,0 +1,23 @@
+{
+   "author": "Konstantin Müller",
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "main.js" ],
+      "matches": [ "*://www.netflix.com/*" ]
+   } ],
+   "description": "Adds various features to Netflix like support for ultrawide displays (21:9 aspect ratio).",
+   "icons": {
+      "128": "resources/icon.png",
+      "48": "resources/icon.png",
+      "96": "resources/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlC/bcwYtVqc9EJRvLooQaRpGqYRyBqn+DCPjVFIXTeQMNoknD9TgpUgT1MsaQ8QMU+uXU3Pjg5dftF9O5UTP0TDhaKR93nxj7zGlF2mWVw/JmzF+n1koh6XVxocu6wQdci5KusCvuhLesH7v5HSSeDllHyueYkIWC19wMxVzPxIhTla85LHMcAKwl0wz+hMlrdCTjaA12f2KwCr1O936977Oo2eHdnM+EEx8CbV7idCbX3ZEAJVtLWHWUjWpWkFVGkgN9q0tWYL6pZfkJTJyIk0KMp64tZ9XxXDoO3VFQaG2p8mYdsUQe8rtT+oAlfHd9XMi9Smni6bqZumRhATTkwIDAQAB",
+   "manifest_version": 3,
+   "name": "Better Netflix",
+   "options_ui": {
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.11.3"
+}
