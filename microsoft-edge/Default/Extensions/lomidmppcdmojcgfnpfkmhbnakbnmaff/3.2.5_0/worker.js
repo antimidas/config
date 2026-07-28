@@ -1,1 +1,0 @@
-chrome.runtime.onConnect.addListener((e=>{e.onMessage.addListener((()=>{setTimeout((()=>e.postMessage(Date.now())),100)}))}));

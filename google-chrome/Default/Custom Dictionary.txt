@@ -1,3 +1,0 @@
-Muppets
-elusion
-checksum_v1 = e39b4203d25657a4e350052309b17aeb

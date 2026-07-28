@@ -1,1 +1,0 @@
-[{"action":{"redirect":{"transform":{"queryTransform":{"addOrReplaceParams":[{"key":"FORM","value":"U523DF"},{"key":"PC","value":"U523"}]}}},"type":"redirect"},"condition":{"resourceTypes":["main_frame"],"urlFilter":"*://*.bing.com/search?FORM=U523MF&PC=U523*"},"id":1,"priority":1}]

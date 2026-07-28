@@ -1,7 +1,0 @@
-2026/07/27-19:11:48.527 10438 Reusing MANIFEST /home/anti/.config/microsoft-edge/Default/WebStorage/27/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/07/27-19:11:48.527 10438 Recovering log #3
-2026/07/27-19:11:48.527 10438 Reusing old log /home/anti/.config/microsoft-edge/Default/WebStorage/27/IndexedDB/indexeddb.leveldb/000003.log 
-2026/07/27-19:13:03.143 10439 Level-0 table #5: started
-2026/07/27-19:13:03.147 10439 Level-0 table #5: 265680 bytes OK
-2026/07/27-19:13:03.150 10439 Delete type=0 #3
-2026/07/27-19:13:03.150 10439 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,9 +1,0 @@
-2026/07/27-23:26:42.843 4f9bf Reusing MANIFEST /home/anti/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2026/07/27-23:26:42.843 4f9bf Recovering log #4
-2026/07/27-23:26:42.844 4f9bf Reusing old log /home/anti/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
-2026/07/27-23:34:15.092 4f9bf Level-0 table #8: started
-2026/07/27-23:34:15.096 4f9bf Level-0 table #8: 114438 bytes OK
-2026/07/27-23:34:15.099 4f9bf Delete type=0 #4
-2026/07/28-00:11:41.510 4f9bf Level-0 table #10: started
-2026/07/28-00:11:41.514 4f9bf Level-0 table #10: 145035 bytes OK
-2026/07/28-00:11:41.521 4f9bf Delete type=0 #7
