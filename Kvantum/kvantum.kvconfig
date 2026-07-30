@@ -1,2 +1,5 @@
 [General]
-theme=KvMojave
+theme=KvGnomeDark
+
+[Applications]
+KvYaru=kitty
