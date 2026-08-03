@@ -1,0 +1,35 @@
+schema_version: 2
+strategy:
+  debug: true
+  execution_mode: parallel
+  order:
+  - face
+  - fingerprint
+  ignore_services:
+  - polkit-1
+  - pkexec
+methods:
+  face:
+    enable: true
+    retries: 10
+    retry_delay: 200
+    camera: /dev/video0
+    detection:
+      model_id: yolov8n-face-onnx
+      threshold: 0.3
+    recognition:
+      model_id: edgeface-s-gamma-05-onnx
+      threshold: 0.3
+    anti_spoofing:
+      enable: false
+      model:
+        model_id: mobilenetv3-antispoof-onnx
+        threshold: 0.15
+      ir_camera: /dev/video2
+      ir_warmup_delay_ms: 300
+      ir_presence_timeout_ms: 1500
+  fingerprint:
+    enable: false
+    retries: 1
+    timeout: 5000
+appearance: system
