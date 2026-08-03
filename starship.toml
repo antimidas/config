@@ -1,39 +1,37 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+
 format = """
-[\ue0c3 ](fg:#07fcf9 )\
+[╭─](fg:surface2)\
+[](fg:surface1)\
 $os\
 $python\
 $hostname\
-[\ue0c1 ](fg:#07fcf9)\
-[ \ue0b3 ](fg:#07fcf9)\
+[](bg:peach fg:surface1)\
 $directory\
-[\ue0b1](fg:#4C566A)\
+[](bg:yellow fg:peach)\
 $git_branch\
 $git_status\
-[\ue0b1](fg:#86BBD8)\
-$c\
-$elixir\
-$elm\
-$golang\
-$haskell\
-$java\
-$julia\
-$nodejs\
-$nim\
-$rust\
-[\ue0b1](fg:#06969A)\
-$docker_context\
-[\ue0b1](fg:#33658A)\
-[\ue0b1 ](fg:#07fcf9)\
-"""
+[](fg:yellow bg:green)\
+$c$rust$golang$nodejs$php$java$kotlin$haskell$python\
+[](fg:green bg:sapphire)\
+$conda\
+[](fg:sapphire bg:lavender)\
+[](fg:lavender)\
+$line_break\
+[╰─](fg:surface2)\
+$character"""
 
 right_format = """
 $time()\
 
-[\ue0c3](bg:transparent fg:#07fcf9)\
+[](fg:surface1)\
 $username\
-[\ue0c1 ](bg:transparent fg:#07fcf9)\
+[](fg:surface1)\
 
 """
+
+palette = 'catppuccin_mocha'
 
 add_newline = true
 
@@ -58,9 +56,9 @@ when = "true"  # Always show
 ssh_only = false
 format = "[$hostname]($style)"
 trim_at = "-"
-style = "fg:#D43BC0"
+#style = "fg:#D43BC0"
 disabled = false
-
+style = "bg:surface1 fg:text"
 
 #[hostname]
 #ssh_only = false
@@ -70,7 +68,8 @@ disabled = false
 
 [username]
 show_always = true
-style_user = "bg:transparent fg:#D1C932"
+style_user = "bg:surface1 fg:text"
+#style_user = "bg:transparent fg:#D1C932"
 #style_root = "bg:#52085f"
 
 format = '[ $user ]($style)'
@@ -80,105 +79,77 @@ disabled = false
 # represents the current operating system
 [os]
 #style = "fg:#ffffff bg:#3B4252"
-style = "fg:#ffffff"
+#style = "fg:#ffffff"
+style = "bg:surface1 fg:text"
 disabled = false # Disabled by default
 
 [directory]
-style = "fg:#fc33ff"
+style = "bg:peach fg:crust"
 format = "[ $path ]($style)"
-truncation_length = 3
-truncation_symbol = "…/"
+truncation_length = 0
 
-# Here is how you can shorten some long paths by text replacement
-# similar to mapped_locations in Oh My Posh:
 [directory.substitutions]
-"Documents" = "󰈙 "
-"Downloads" = " "
-"Music" = " "
-"Pictures" = " "
-# Keep in mind that the order matters. For example:
-# "Important Documents" = " 󰈙 "
-# will not be replaced, because "Documents" was already substituted before.
-# So either put "Important Documents" before "Documents" or use the substituted version:
-# "Important 󰈙 " = " 󰈙 "
+"~" = " "
+
+[git_branch]
+symbol = " "
+style = "bg:yellow fg:crust"
+format = '[ $symbol$branch ]($style)'
+
+[git_status]
+style = "bg:yellow fg:crust"
+format = '[($all_status$ahead_behind )]($style)'
+
+[nodejs]
+symbol = " "
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
 [c]
 symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
-[cpp]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
-
-[docker_context]
-symbol = " "
-style = "bg:#06969A"
-format = '[ $symbol $context ]($style)'
-
-[elixir]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
-
-[elm]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
-
-[git_branch]
-symbol = ""
-style = "fg:#57F5E1"
-format = '[ $symbol $branch ]($style)'
-
-[git_status]
-style = "fg:#E357F5"
-format = '[$all_status$ahead_behind ]($style)'
+[rust]
+symbol = " "
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
 [golang]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+symbol = "󰟓 "
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
-[gradle]
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
-
-[haskell]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+[php]
+symbol = " "
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
 [java]
 symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
-[julia]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+[kotlin]
+symbol = " "
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
-[nodejs]
-symbol = ""
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+[haskell]
+symbol = " "
+style = "bg:green"
+format = '[[ $symbol](fg:crust bg:green)]($style)'
 
-[nim]
-symbol = "󰆥 "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+[python]
+symbol = " "
+style = "bg:green"
+format = '[[ $symbol( $version)(\(#$virtualenv\)) ](fg:crust bg:green)]($style)'
 
-[rust]
-symbol = ""
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
+[conda]
+symbol = " "
+style = "bg:sapphire"
+format = '[[ $symbol( $environment) ](fg:crust bg:sapphire)]($style)'
 
-[scala]
-symbol = " "
-style = "bg:#86BBD8"
-format = '[ $symbol ($version) ]($style)'
 
 [time]
 disabled = false
@@ -233,3 +204,16 @@ Ubuntu = " "
 Unknown = " "
 Void = " "
 Windows = "󰍲 "
+
+[palettes.catppuccin_mocha]
+red = "#ff5f5f"
+peach = "#ed8796"
+yellow = "#eed49f"
+green = "#a6da95"
+sapphire = "#7dc4e4"
+lavender = "#b4befe"
+crust = "#11111b"
+surface2 = "#585b70"
+surface1 = "#45475a"
+surface0 = "#313244"
+text = "#1793d1"

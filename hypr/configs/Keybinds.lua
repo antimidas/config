@@ -6,11 +6,12 @@ local UserConfigs = os.getenv("HOME") .. "/.config/hypr/UserConfigs"
 local UserScripts = os.getenv("HOME") .. "/.config/hypr/UserScripts"
 
 -- Common shortcuts
-hl.bind(mainMod .. " + Super_L", hl.dsp.exec_cmd("pkill rofi || " .. os.getenv("HOME") .. "/.config/rofi/launchers/type-2/launcher.sh"))
+hl.bind(mainMod .. " + Super_L", hl.dsp.exec_cmd("pkill rofi || " .. os.getenv("HOME") .. "/.config/rofi/launchers/type-2/launcher.sh"), { release = true })
 hl.bind(mainMod .. " + B", hl.dsp.exec_cmd("xdg-open 'https://'"))
 hl.bind(mainMod .. " + Tab", hl.dsp.exec_cmd(scriptsDir .. "/OverviewToggle.sh"))
-hl.bind(mainMod .. " + Return", hl.dsp.exec_cmd(terminal))
+-- hl.bind(mainMod .. " + Return", hl.dsp.exec_cmd(kitty))
 hl.bind(mainMod .. " + E", hl.dsp.exec_cmd(fileManager))
+hl.bind(mainMod .. " + Return", hl.dsp.exec_raw("kitty2"))
 
 -- Features / Extras
 hl.bind(mainMod .. " + T", hl.dsp.exec_cmd(scriptsDir .. "/ThemeChanger.sh"))
@@ -38,8 +39,8 @@ hl.bind(mainMod ..  " + R", hl.dsp.exec_cmd("pypr toggle ranger"))
 
 
 -- Zoom / Magnifier
-hl.bind(mainMod .. " + ALT + mouse_down", hl.dsp.exec_cmd("hyprctl keyword cursor:zoom_factor \"$(hyprctl getoption cursor:zoom_factor | awk 'NR==1 {factor = $2; if (factor < 1) {factor = 1}; print factor * 2.0}')\""))
-hl.bind(mainMod .. " + ALT + mouse_up", hl.dsp.exec_cmd("hyprctl keyword cursor:zoom_factor \"$(hyprctl getoption cursor:zoom_factor | awk 'NR==1 {factor = $2; if (factor < 1) {factor = 1}; print factor / 2.0}')\""))
+-- hl.bind(mainMod .. " + ALT + mouse_down", hl.dsp.exec_cmd("hyprctl keyword cursor:zoom_factor \"$(hyprctl getoption cursor:zoom_factor | awk 'NR==1 {factor = $2; if (factor < 1) {factor = 1}; print factor * 2.0}')\""))
+-- hl.bind(mainMod .. " + ALT + mouse_up", hl.dsp.exec_cmd("hyprctl keyword cursor:zoom_factor \"$(hyprctl getoption cursor:zoom_factor | awk 'NR==1 {factor = $2; if (factor < 1) {factor = 1}; print factor / 2.0}')\""))
 
 
 -- Move window by dragging with SUPER + LMB
