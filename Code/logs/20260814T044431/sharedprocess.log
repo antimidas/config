@@ -1,0 +1,13 @@
+2026-08-14 04:45:50.751 [info] Getting Manifest... danlambiase.lmstudio-copilot-provider
+2026-08-14 04:45:50.881 [info] Installing extension: danlambiase.lmstudio-copilot-provider {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/anti/.vscode/extensions/extensions.json","path":"/home/anti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.131.0","date":"2026-07-28T10:51:25Z"}}
+2026-08-14 04:45:52.352 [info] Extension signature verification result for danlambiase.lmstudio-copilot-provider: Success. Internal Code: 0. Executed: true. Duration: 780ms.
+2026-08-14 04:45:52.379 [info] Extracted extension to file:///home/anti/.vscode/extensions/danlambiase.lmstudio-copilot-provider-1.30.5: danlambiase.lmstudio-copilot-provider
+2026-08-14 04:45:52.383 [info] Renamed to /home/anti/.vscode/extensions/danlambiase.lmstudio-copilot-provider-1.30.5
+2026-08-14 04:45:52.388 [info] Extension installed successfully: danlambiase.lmstudio-copilot-provider vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 04:47:52.500 [info] Uninstalling extension from the profile: danlambiase.lmstudio-copilot-provider@1.30.5 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 04:47:52.507 [info] Marked extension as removed danlambiase.lmstudio-copilot-provider-1.30.5
+2026-08-14 04:47:52.610 [info] Successfully uninstalled extension from the profile danlambiase.lmstudio-copilot-provider@1.30.5 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 04:47:54.381 [info] Getting Manifest... danlambiase.lmstudio-copilot-provider
+2026-08-14 04:47:54.439 [info] Installing extension: danlambiase.lmstudio-copilot-provider {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.133.0","date":"2026-08-11T22:25:46.992Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/anti/.vscode/extensions/extensions.json","path":"/home/anti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-08-14 04:47:54.465 [info] Removed the extension from removed list: danlambiase.lmstudio-copilot-provider
+2026-08-14 04:47:54.471 [info] Extension installed successfully: danlambiase.lmstudio-copilot-provider vscode-userdata:/home/anti/.vscode/extensions/extensions.json

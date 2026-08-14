@@ -5,6 +5,14 @@
 	},
 	"telemetryLevel": "all",
 	"customizations": [],
+	"defaultShell": "/usr/bin/fish",
+	"githubEnterpriseUri": "",
+	"enableCustomTerminalTool": false,
+	"copilotSdkLogLevel": "info",
+	"opus48Prompt": false,
+	"toolSearchEnabled": false,
+	"reasoningEffortOverride": "",
+	"modelCapabilityOverrides": {},
 	"sessionSyncEnabled": false,
 	"terminalAutoApproveEnabled": true,
 	"globalAutoApproveEnabled": false,
@@ -136,13 +144,5 @@
 		"iex": false
 	},
 	"codexAgentEnabled": false,
-	"disableRepoInfoTelemetry": false,
-	"enableCustomTerminalTool": false,
-	"githubEnterpriseUri": "",
-	"copilotSdkLogLevel": "info",
-	"opus48Prompt": false,
-	"toolSearchEnabled": false,
-	"reasoningEffortOverride": "",
-	"modelCapabilityOverrides": {},
-	"defaultShell": "/usr/bin/fish"
+	"disableRepoInfoTelemetry": false
 }

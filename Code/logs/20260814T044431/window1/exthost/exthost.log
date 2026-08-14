@@ -1,0 +1,83 @@
+2026-08-14 04:44:33.106 [info] Extension host with pid 698408 started
+2026-08-14 04:44:33.203 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-14 04:44:33.219 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-14 04:44:33.228 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2026-08-14 04:44:33.775 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-08-14 04:44:33.804 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-08-14 04:44:34.019 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-08-14 04:44:34.370 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at XHt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:76524)
+2026-08-14 04:44:34.376 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-14 04:44:34.397 [info] Eager extensions activated
+2026-08-14 04:44:34.399 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:44:34.400 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:45:14.476 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:chatagent'
+2026-08-14 04:45:14.742 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-08-14 04:45:14.750 [info] ExtensionService#_doActivateExtension vscode.mermaid-markdown-features, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-08-14 04:45:14.773 [error] Error: Tool "renderMermaidDiagram" was not contributed.
+    at a0.registerToolImplementation (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3507:5759)
+    at ZHt.$registerTool (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:100500)
+    at s._doInvokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:51898)
+    at s._invokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:51644)
+    at s._receiveRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:50425)
+    at s._receiveOneMessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:49259)
+    at tEe.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:47331)
+    at D._deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:433:3268)
+    at D.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:433:3587)
+    at $6.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1131:9732)
+    at MessagePort.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5420:16880)
+2026-08-14 04:45:52.762 [info] ExtensionService#_doActivateExtension DanLambiase.lmstudio-copilot-provider, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:45:52.913 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 04:45:52.917 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 04:45:52.960 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 04:46:46.729 [info] Extension host terminating: received terminate message from renderer
+2026-08-14 04:46:46.752 [info] Extension host with pid 698408 exiting with code 0
+2026-08-14 04:46:47.256 [info] Extension host with pid 698992 started
+2026-08-14 04:46:47.263 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-14 04:46:47.276 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-14 04:46:47.290 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatSession:copilotcli'
+2026-08-14 04:46:47.783 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-08-14 04:46:47.919 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:chatagent'
+2026-08-14 04:46:47.979 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 04:46:47.983 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 04:46:48.019 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 04:46:48.148 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-08-14 04:46:48.229 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-08-14 04:46:48.301 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-14 04:46:48.340 [info] Eager extensions activated
+2026-08-14 04:46:48.352 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:46:48.356 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:46:48.557 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at XHt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:76524)
+2026-08-14 04:47:54.542 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-08-14 04:47:54.547 [info] ExtensionService#_doActivateExtension vscode.mermaid-markdown-features, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-08-14 04:47:54.670 [info] ExtensionService#_doActivateExtension DanLambiase.lmstudio-copilot-provider, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:47:54.718 [error] Error: Tool "renderMermaidDiagram" was not contributed.
+    at a0.registerToolImplementation (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3507:5759)
+    at ZHt.$registerTool (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:100500)
+    at s._doInvokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:51898)
+    at s._invokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:51644)
+    at s._receiveRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:50425)
+    at s._receiveOneMessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:49259)
+    at tEe.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5405:47331)
+    at D._deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:433:3268)
+    at D.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:433:3587)
+    at $6.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1131:9732)
+    at MessagePort.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5420:16880)
+2026-08-14 04:54:18.634 [info] Extension host terminating: received terminate message from renderer
+2026-08-14 04:54:18.649 [info] Extension host with pid 698992 exiting with code 0
+2026-08-14 04:54:19.484 [info] Extension host with pid 704919 started
+2026-08-14 04:54:19.484 [info] Skipping acquiring lock for /home/anti/.config/Code/User/workspaceStorage/cc677389c16b7cdda8f9fba9afc64579.
+2026-08-14 04:54:19.518 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-14 04:54:19.534 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-14 04:54:19.568 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-08-14 04:54:19.573 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-14 04:54:19.594 [info] Eager extensions activated
+2026-08-14 04:54:19.597 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:54:19.598 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:54:24.306 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-08-14 04:54:24.368 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:54:24.817 [info] ExtensionService#_doActivateExtension DanLambiase.lmstudio-copilot-provider, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 04:54:24.884 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-08-14 04:54:25.328 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at XHt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:76524)

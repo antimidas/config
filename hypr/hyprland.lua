@@ -16,6 +16,7 @@ if io.open(colors_path, "r") then
 end
 
 hl.env("WEBKIT_DISABLE_DMABUF_RENDERER", "1")
+hl.env("GTK_THEME", "Sweet-Dark-v40")
 
 hl.curve("linear", {
     type = "bezier",
@@ -78,6 +79,14 @@ hl.on("hyprland.start", function()
     hl.exec_cmd("swww-daemon") -- Change this to your wallpaper daemon if different
     hl.exec_cmd(HOME .. "/.config/hypr/initial-boot.sh")
     hl.exec_cmd("pypr")
+
+-- Apply GTK theme settings (mirrors what nwg-look writes via gsettings)
+    hl.exec_cmd("gsettings set org.gnome.desktop.interface gtk-theme 'Sweet-Dark-v40'")
+    hl.exec_cmd("gsettings set org.gnome.desktop.interface icon-theme 'YourIconTheme'")
+    hl.exec_cmd("gsettings set org.gnome.desktop.interface cursor-theme 'YourCursorTheme'")
+    hl.exec_cmd("gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'")
+
+
 end)
 
 -- Essential manual keybinds to verify bindings work natively

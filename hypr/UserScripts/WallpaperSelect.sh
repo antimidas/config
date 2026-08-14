@@ -46,30 +46,40 @@ fi
 
 # Rofi UI scale calculations
 scale_factor=$(hyprctl monitors -j | jq -r --arg mon "$focused_monitor" '.[] | select(.name == $mon) | .scale')
-monitor_height=$(hyprctl monitors -j | jq -r --arg mon "$focused_monitor" '.[] | select(.name == $mon) | .height')
+monitor_width=$(hyprctl monitors -j | jq -r --arg mon "$focused_monitor" '.[] | select(.name == $mon) | .width')
 
-icon_size_px=$(echo "scale=0; ($monitor_height / 9) / $scale_factor" | bc)
+# Layout tuning: fewer columns + tighter spacing = each thumbnail fills
+# almost the whole column width, with only a thin text row underneath.
+COLUMNS=4
+WIN_WIDTH_PCT=92
+SPACING=6
+
+# Icon size = (window width / columns) minus a little for spacing/padding,
+# computed from the monitor's actual pixel width so thumbnails are as large
+# as possible instead of being capped by a height-based guess.
+window_width_px=$(echo "scale=0; ($monitor_width * $WIN_WIDTH_PCT / 100) / $scale_factor" | bc)
+icon_size_px=$(echo "scale=0; ($window_width_px / $COLUMNS) - $SPACING - 10" | bc)
 
 # Rofi CSS override with background-image removed (normal inside)
 rofi_override="
 window {
-    width: 85%;
+    width: ${WIN_WIDTH_PCT}%;
     height: 85%;
     fullscreen: false;
 }
 listview {
-    columns: 5;
+    columns: $COLUMNS;
     lines: 3;
     fixed-columns: true;
     fixed-lines: true;
-    spacing: 25px;
+    spacing: ${SPACING}px;
     layout: vertical;
     flow: horizontal;
 }
 element {
     orientation: vertical;
-    padding: 5px;
-    border-radius: 12px;
+    padding: 3px;
+    border-radius: 8px;
 }
 element-icon {
     size: ${icon_size_px}px;
@@ -78,12 +88,16 @@ element-icon {
 element-text {
     horizontal-align: 0.5;
     vertical-align: 0.5;
-    margin: 5px 0px 0px 0px;
+    margin: 2px 0px 0px 0px;
+    font: \"sans-serif 9\";
 }
 "
 
 kill_video_wallpapers() {
-  pkill -f "mpvpaper.*$focused_monitor" 2>/dev/null || pkill mpvpaper 2>/dev/null
+  # Only kill the mpvpaper instance running on THIS monitor.
+  # (No blanket "pkill mpvpaper" fallback - that would also kill
+  # video wallpapers running on other monitors.)
+  pkill -f "mpvpaper ${focused_monitor} " 2>/dev/null
 }
 
 mapfile -d '' PICS < <(find -L "${wallDIR}" -type f \( \
@@ -94,30 +108,54 @@ mapfile -d '' PICS < <(find -L "${wallDIR}" -type f \( \
 RANDOM_PIC="${PICS[$((RANDOM % ${#PICS[@]}))]}"
 RANDOM_PIC_NAME=". random"
 
+# Split into images and videos so they can be listed as separate groups
+VIDEOS=()
+IMAGES=()
+for pic_path in "${PICS[@]}"; do
+  if [[ "$pic_path" =~ \.(mp4|mkv|mov|webm|MP4|MKV|MOV|WEBM)$ ]]; then
+    VIDEOS+=("$pic_path")
+  else
+    IMAGES+=("$pic_path")
+  fi
+done
+
+VIDEO_SEP="────────────────── 🎬  Videos ──────────────────"
+IMAGE_SEP="────────────────── 🖼️  Images ──────────────────"
+
 menu() {
-  IFS=$'\n' sorted_options=($(sort <<<"${PICS[*]}"))
   printf "%s\x00icon\x1f%s\n" "$RANDOM_PIC_NAME" "$RANDOM_PIC"
 
-  for pic_path in "${sorted_options[@]}"; do
-    pic_name=$(basename "$pic_path")
-    if [[ "$pic_name" =~ \.gif$ ]]; then
-      cache_gif_image="$HOME/.cache/gif_preview/${pic_name}.png"
-      if [[ ! -f "$cache_gif_image" ]]; then
-        mkdir -p "$HOME/.cache/gif_preview"
-        magick "$pic_path[0]" -resize 1920x1080 "$cache_gif_image" 2>/dev/null
-      fi
-      printf "%s\x00icon\x1f%s\n" "$pic_name" "$cache_gif_image"
-    elif [[ "$pic_name" =~ \.(mp4|mkv|mov|webm|MP4|MKV|MOV|WEBM)$ ]]; then
+  if [[ ${#VIDEOS[@]} -gt 0 ]]; then
+    IFS=$'\n' sorted_videos=($(sort <<<"${VIDEOS[*]}"))
+    printf "%s\x00nonselectable\x1ftrue\n" "$VIDEO_SEP"
+    for pic_path in "${sorted_videos[@]}"; do
+      pic_name=$(basename "$pic_path")
       cache_preview_image="$HOME/.cache/video_preview/${pic_name}.png"
       if [[ ! -f "$cache_preview_image" ]]; then
         mkdir -p "$HOME/.cache/video_preview"
         ffmpeg -v error -y -i "$pic_path" -ss 00:00:01.000 -vframes 1 "$cache_preview_image" 2>/dev/null
       fi
       printf "%s\x00icon\x1f%s\n" "$pic_name" "$cache_preview_image"
-    else
-      printf "%s\x00icon\x1f%s\n" "$pic_name" "$pic_path"
-    fi
-  done
+    done
+  fi
+
+  if [[ ${#IMAGES[@]} -gt 0 ]]; then
+    IFS=$'\n' sorted_images=($(sort <<<"${IMAGES[*]}"))
+    printf "%s\x00nonselectable\x1ftrue\n" "$IMAGE_SEP"
+    for pic_path in "${sorted_images[@]}"; do
+      pic_name=$(basename "$pic_path")
+      if [[ "$pic_name" =~ \.gif$ ]]; then
+        cache_gif_image="$HOME/.cache/gif_preview/${pic_name}.png"
+        if [[ ! -f "$cache_gif_image" ]]; then
+          mkdir -p "$HOME/.cache/gif_preview"
+          magick "$pic_path[0]" -resize 1920x1080 "$cache_gif_image" 2>/dev/null
+        fi
+        printf "%s\x00icon\x1f%s\n" "$pic_name" "$cache_gif_image"
+      else
+        printf "%s\x00icon\x1f%s\n" "$pic_name" "$pic_path"
+      fi
+    done
+  fi
 }
 
 apply_image_wallpaper() {
@@ -160,7 +198,7 @@ apply_video_wallpaper() {
   fi
 
   kill_video_wallpapers
-  mpvpaper "$focused_monitor" -o "load-scripts=no --no-audio --loop" "$video_path" &
+  mpvpaper "$focused_monitor" -o "load-scripts=no --no-audio --loop --panscan=1.0" "$video_path" &
 
   mkdir -p "$HOME/.cache/video_preview"
   local frame_cache="$HOME/.cache/video_preview/frame_${focused_monitor}.png"
@@ -187,6 +225,10 @@ main() {
   RANDOM_PIC_NAME=$(echo "$RANDOM_PIC_NAME" | xargs)
 
   if [[ -z "$choice" ]]; then
+    exit 0
+  fi
+
+  if [[ "$choice" == "$VIDEO_SEP" || "$choice" == "$IMAGE_SEP" ]]; then
     exit 0
   fi
 

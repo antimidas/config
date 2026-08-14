@@ -4,7 +4,11 @@
     "telemetry.devDeviceId": "1845dc66-9658-47cf-8189-89cc77a4dd62",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/anti/.config"
+            }
+        ],
         "emptyWindows": [
             {
                 "backupFolder": "1785747557476"
@@ -13,17 +17,20 @@
     },
     "windowControlHeight": 35,
     "profileAssociations": {
-        "workspaces": {},
+        "workspaces": {
+            "file:///home/anti/.config": "__default__profile__"
+        },
         "emptyWindows": {
             "1785747557476": "__default__profile__"
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/anti/.config/Code/Backups/1785747557476",
+            "folder": "file:///home/anti/.config",
+            "backupPath": "/home/anti/.config/Code/Backups/9d1f9741bfc413b2e2af2e2af604830a",
             "uiState": {
                 "mode": 0,
-                "x": 10,
+                "x": 16,
                 "y": 10,
                 "width": 950,
                 "height": 1018
@@ -58,24 +65,22 @@
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
-            "activityBarWidth": 40,
-            "sideBarWidth": 0,
-            "auxiliaryBarWidth": 243,
-            "statusBarHeight": 32,
+            "activityBarWidth": 48,
+            "sideBarWidth": 327,
+            "auxiliaryBarWidth": 507,
+            "statusBarHeight": 22,
             "windowBorder": false,
-            "modernUI": true,
-            "partBounds": {
-                "auxiliaryBar": {
-                    "top": 35,
-                    "left": 702,
-                    "width": 231,
-                    "height": 945
-                },
-                "editor": {
-                    "top": 35,
-                    "left": 44,
-                    "width": 652,
-                    "height": 943
+            "modernUI": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 327,
+            "auxiliaryBarWidth": 507,
+            "workspaces": {
+                "cc677389c16b7cdda8f9fba9afc64579": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
                 }
             }
         }

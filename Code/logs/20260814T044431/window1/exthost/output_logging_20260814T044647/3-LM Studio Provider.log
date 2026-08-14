@@ -1,0 +1,98 @@
+LM Studio Copilot Provider is activating... v1.30.5
+Skipping BYOK utility model auto-fix because chat utility settings are already explicitly configured.
+✅ Provider registered successfully with vendor: lmstudio
+✅ Registered LM tools: lmstudio_run_in_terminal, lmstudio_read_file, lmstudio_write_file, lmstudio_list_directory, lmstudio_search_files, lmstudio_generate_image, lmstudio_get_codebase_index
+Auto-start server enabled, ensuring LM Studio is running...
+Ensuring LM Studio server is running...
+[Client] Checking connection to http://localhost:1234...
+[Client] Connection check: 200
+✅ LM Studio server is reachable
+Auto-refresh enabled, refreshing models now...
+[Provider] Refreshing models...
+[Client] Fetching models from http://localhost:1234/api/v1/models...
+[Client] Raw models: {"models":[{"type":"llm","publisher":"bartowski","key":"bartowski/deepseek-coder-v2-lite-instruct","display_name":"DeepSeek Coder v2 Lite Instruct","architecture":"deepseek2","quantization":{"name":"Q4_K_M","bits_per_weight":4},"size_bytes":10364416768,"params_string":"16B","loaded_instances":[],"max_context_length":163840,"format":"gguf","capabilities":{"vision":false,"trained_for_tool_use":false},"description":null},{"type":"llm","publisher":"juan1995-dev","key":"juan1995-dev/deepseek-coder-v2
+[Client] Filtered 3 -> 2 LLM models
+[Client] Found 2 models: bartowski/deepseek-coder-v2-lite-instruct, juan1995-dev/deepseek-coder-v2-lite-instruct
+[Client] Resolved LM Studio CLI path: /home/anti/.lmstudio/bin/lms
+[Client] CLI: /home/anti/.lmstudio/bin/lms ls --json
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Client] Found 2 installed LM Studio model(s)
+[Provider] Found 2 model(s): juan1995-dev/deepseek-coder-v2-lite-instruct, bartowski/deepseek-coder-v2-lite-instruct
+LM Studio Copilot Provider activated v1.30.5
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 2 messages | 0 tools
+[Client] Checking connection to http://localhost:1234...
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 2 messages | 0 tools
+[Client] Checking connection to http://localhost:1234...
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 9 messages | 57 tools
+[Client] Checking connection to http://localhost:1234...
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Client] Loading model on demand: bartowski/deepseek-coder-v2-lite-instruct
+[Client] CLI: /home/anti/.lmstudio/bin/lms load bartowski/deepseek-coder-v2-lite-instruct -y
+[Client] Loading model on demand: bartowski/deepseek-coder-v2-lite-instruct
+[Client] CLI: /home/anti/.lmstudio/bin/lms load bartowski/deepseek-coder-v2-lite-instruct -y
+[Client] Loading model on demand: bartowski/deepseek-coder-v2-lite-instruct
+[Client] CLI: /home/anti/.lmstudio/bin/lms load bartowski/deepseek-coder-v2-lite-instruct -y
+[Client] CLI command failed (1): Error: Engine protocol runtime llama-server for ZiS76WVPkWGBBuiChMA0mZY7 exited before becoming healthy. exitCode=1, signal=null
+
+[Client] CLI command failed (1): Error: Engine protocol runtime llama-server for 0p36lqJd+9EI7W23t/K8+vWl exited before becoming healthy. exitCode=1, signal=null
+
+[Client] CLI command failed (1): Error: Engine protocol runtime llama-server for qlDL3UVWAOUtoejdGwAjaRGn exited before becoming healthy. exitCode=1, signal=null
+
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 9 messages | 57 tools
+[Client] Checking connection to http://localhost:1234...
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Client] Fetching models from http://localhost:1234/api/v1/models...
+[Client] Raw models: {"models":[{"type":"llm","publisher":"bartowski","key":"bartowski/deepseek-coder-v2-lite-instruct","display_name":"DeepSeek Coder v2 Lite Instruct","architecture":"deepseek2","quantization":{"name":"Q4_K_M","bits_per_weight":4},"size_bytes":10364416768,"params_string":"16B","loaded_instances":[{"id":"bartowski/deepseek-coder-v2-lite-instruct","config":{"context_length":8192,"eval_batch_size":2048,"physical_batch_size":512,"parallel":4,"flash_attention":true,"context_checkpoints":32,"reasoning_bu
+[Client] Filtered 3 -> 2 LLM models
+[Client] Found 2 models: bartowski/deepseek-coder-v2-lite-instruct, juan1995-dev/deepseek-coder-v2-lite-instruct
+[Provider] --- Converted 9 messages ---
+[Provider]   [0] role=user content="You are an expert AI programming assistant, working with a user in the VS Code editor.
+When asked for your name, you must respond with "GitHub Copilot"
+[Provider]   [1] role=user content="<environment_info>
+The user's current OS is: Linux
+</environment_info>
+<workspace_info>
+There is no workspace currently open.
+</workspace_info>
+"
+[Provider]   [2] role=user content="<userRequest>
+you there?
+</userRequest>
+"
+[Provider]   [3] role=assistant content="Yes — I'm here. I'm an AI assistant using the Copilot CLI runtime in VS Code. How can I help you today?"
+[Provider]   [4] role=user content="<userRequest>
+what model are you using?
+</userRequest>
+"
+[Provider]   [5] role=assistant content="I'm an AI assistant using the Copilot CLI runtime in VS Code. The runtime doesn't expose the exact model identifier to me, so I can't report a concret"
+[Provider]   [6] role=user content="<userRequest>
+is the model connected to my provider or github servers
+</userRequest>
+"
+[Provider]   [7] role=assistant content="Asking whether you'd like help running step-by-step diagnostics to determine which servers Copilot is connecting to (so I can guide commands or checks"
+[Provider]   [8] role=user content="<context>
+The current date is 2026-08-14.
+</context>
+<reminderInstructions>
+When using the insert_edit_into_file tool, avoid repeating existing code, "
+[Provider] Tool budget: 57 available → sending 20 (dropped 37)
+[Provider] Kept: lmstudio_read_file, lmstudio_write_file, lmstudio_generate_image, lmstudio_list_directory, lmstudio_search_files, lmstudio_get_codebase_index, lmstudio_run_in_terminal, memory, runSubagent, testFailure, list_dir, read_file, read_page, click_element, create_directory, create_file, drag_element, fetch_webpage, file_search, get_errors
+[Client] Request includes 20 tools
+[Client] POST http://localhost:1234/v1/chat/completions
+[Client] finish_reason: stop (accumulated 0 OAI tool calls)

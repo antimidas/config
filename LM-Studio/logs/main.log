@@ -1,0 +1,343 @@
+[2026-08-14 04:31:01.843] [info]  Hardware survey for general system resources through 'vulkan' took 104.51ms
+[2026-08-14 04:31:02.154] [info]  App starting...
+[2026-08-14 04:31:02.155] [info]  [AppUpdater] Feed base: https://updates.lmstudio.ai, channel: stable
+[2026-08-14 04:31:02.155] [info]  [AppUpdater] Checking for updates... (current state: idle)
+[2026-08-14 04:31:02.156] [info]  AppUpdater state changed to checking-for-updates-periodic
+[2026-08-14 04:31:02.156] [info]  [AppUpdater] Fetching version info from https://versions-prod.lmstudio.ai/update/linux/x86/0.4.20
+[2026-08-14 04:31:02.294] [info]  [AppUpdater] Received version info response
+[2026-08-14 04:31:02.294] [info]  [AppUpdater] Current version: 0.4.20 (build: 1), new version: 0.4.21 (build: 2)
+[2026-08-14 04:31:02.294] [info]  Update available: 0.4.21 > 0.4.20
+[2026-08-14 04:31:02.294] [info]  AppUpdater state changed to update-available
+[2026-08-14 04:32:19.246] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: fU/mc0dFaKT2y2+pFLABJwB5
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:25.814] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: HPv4dwDucXNBQ6BGr/xsoMjr
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:26.524] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: 8iptH6n3Op0st8qrueG+lm0O
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:40.822] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: 6PjfRHQTfcZ6+KMofKdBEQEY
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:45.475] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: qA2WNSVUAVLMsHOIvTdJDGEL
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:45.969] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: rC5wAv8y1U1KUgY2Z4qco1HI
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:48.117] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: H8uSiygkNgzd5bKsAuOXQb5b
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:32:50.748] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: xz+PPUrjFGil27QF2Db8pA5G
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:33:11.406] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: ZYfml/rJhtprp7V/7QoOV5YY
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:33:35.174] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: kbQYLEFvwSb/U4hwgr+y0oI6
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:33:51.386] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: THRQf7TZfsFRCJQ/9QAeCKYB
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:34:04.363] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: zTfPhRG4iaRlur+BEdSnj7xt
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:36:37.196] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: cPClnQH0DccNTElR0nGPsphZ
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:36:40.767] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: inbrq8Aphwh7ESKM+Xm/B5FJ
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:44:04.159] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:44:04.352] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 1.55 GB, Total: 12.88 GB, Free: 11.34 GB)
+[2026-08-14 04:44:04.354] [error] [LM Studio] Model load size estimate with raw num offload layers '23' and context length '8192':
+  Model: 9.09 GB
+  Context: 967.91 MB
+  Total: 10.06 GB
+[2026-08-14 04:44:04.354] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:44:04.355] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 23
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:44:06.321] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: hWq8k9VPop6GDVFuy1ltn3fR
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:44:11.000] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=artifactDownloadResolutionSelectedDownloadOptionIndex] Error in writable signal handler: Error: Artifact download resolution task not found: AFxuFDFJTvzwlfio1ic84bck
+    at _0x3caae3.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:821:8038)
+    at _0x215b9e.MultiplexedArtifactResolutionProvider.getArtifactDownloadResolutionSelectedDownloadOptionIndexWritableSignal (/opt/LM-Studio/resources/app/.webpack/main/index.js:369:36292)
+    at Object.handler (/opt/LM-Studio/resources/app/.webpack/main/index.js:641:126933)
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:1672:236
+[2026-08-14 04:50:44.067] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:44.077] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:44.149] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:44.613] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.81 GB, Total: 12.88 GB, Free: 79.50 MB)
+[2026-08-14 04:50:44.614] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:44.614] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:44.614] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:44.749] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.75 GB, Total: 12.88 GB, Free: 132.19 MB)
+[2026-08-14 04:50:44.749] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:44.749] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:44.750] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:45.002] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.78 GB, Total: 12.88 GB, Free: 109.25 MB)
+[2026-08-14 04:50:45.003] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:45.003] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:45.003] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:45.559] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:45.590] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:45.841] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.76 GB, Total: 12.88 GB, Free: 124.06 MB)
+[2026-08-14 04:50:45.842] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:45.842] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:45.843] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:45.924] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.74 GB, Total: 12.88 GB, Free: 147.06 MB)
+[2026-08-14 04:50:45.925] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:45.925] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:45.925] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:46.510] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:46.576] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:46.790] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.75 GB, Total: 12.88 GB, Free: 139.53 MB)
+[2026-08-14 04:50:46.790] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:46.790] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:46.790] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:46.878] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.73 GB, Total: 12.88 GB, Free: 155.25 MB)
+[2026-08-14 04:50:46.878] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:46.878] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:46.878] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:47.214] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:47.275] [warn]  Falling back to shell for live VRAM by device
+[2026-08-14 04:50:47.304] [error] [LM Studio] Live GPU memory info (source 'shell'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.84 GB, Total: 12.88 GB, Free: 40.89 MB)
+[2026-08-14 04:50:47.304] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:47.304] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:47.304] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:47.429] [error] E [LMSExternal] [LMSAuthenticator][Client=lms-cli][Endpoint=loadModel] Error in channel handler: Error: Engine protocol runtime llama-server for ZiS76WVPkWGBBuiChMA0mZY7 exited before becoming healthy. exitCode=1, signal=null
+    at ChildProcess._0x3ba02c (/opt/LM-Studio/resources/app/.webpack/main/index.js:243:28)
+    at Object.onceWrapper (node:events:634:26)
+    at ChildProcess.emit (node:events:531:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-08-14 04:50:47.540] [error] E [LMSExternal] [LMSAuthenticator][Client=lms-cli][Endpoint=loadModel] Error in channel handler: Error: Engine protocol runtime llama-server for 0p36lqJd+9EI7W23t/K8+vWl exited before becoming healthy. exitCode=1, signal=null
+    at ChildProcess._0x3ba02c (/opt/LM-Studio/resources/app/.webpack/main/index.js:243:28)
+    at Object.onceWrapper (node:events:634:26)
+    at ChildProcess.emit (node:events:531:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-08-14 04:50:47.920] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:48.101] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 12.72 GB, Total: 12.88 GB, Free: 160.24 MB)
+[2026-08-14 04:50:48.101] [error] [LM Studio] Model load size estimate with raw num offload layers '18' and context length '8192':
+  Model: 7.12 GB
+  Context: 758.03 MB
+  Total: 7.87 GB
+[2026-08-14 04:50:48.102] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:48.102] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 18
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:50:48.592] [error] E [LMSExternal] [LMSAuthenticator][Client=lms-cli][Endpoint=loadModel] Error in channel handler: Error: Engine protocol runtime llama-server for qlDL3UVWAOUtoejdGwAjaRGn exited before becoming healthy. exitCode=1, signal=null
+    at ChildProcess._0x3ba02c (/opt/LM-Studio/resources/app/.webpack/main/index.js:243:28)
+    at Object.onceWrapper (node:events:634:26)
+    at ChildProcess.emit (node:events:531:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)
+[2026-08-14 04:50:58.645] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: ExplicitModelUnloadError: Model is unloaded.
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:261:4448
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-08-14 04:50:58.645] [error] [LMSInternal][LMSAuthenticator][Client=LM Studio][Endpoint=countTokens] Error in RPC handler: ExplicitModelUnloadError: Model is unloaded.
+    at /opt/LM-Studio/resources/app/.webpack/main/index.js:261:4448
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-08-14 04:50:58.654] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:50:58.842] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 1.77 GB, Total: 12.88 GB, Free: 11.12 GB)
+[2026-08-14 04:50:58.842] [error] [LM Studio] Model load size estimate with raw num offload layers '23' and context length '8192':
+  Model: 9.09 GB
+  Context: 967.91 MB
+  Total: 10.06 GB
+[2026-08-14 04:50:58.842] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:50:58.842] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 23
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []
+[2026-08-14 04:51:07.681] [error] [LM Studio] GPU Configuration:
+  Strategy: evenly
+  Priority: []
+  Disabled GPUs: []
+  Limit weight offload to dedicated GPU Memory: OFF
+  Offload KV Cache to GPU: ON
+[2026-08-14 04:51:07.873] [error] [LM Studio] Live GPU memory info (source 'LMS Core'):
+  GPU 0: NVIDIA GeForce RTX 3060 (Used: 1.69 GB, Total: 12.88 GB, Free: 11.20 GB)
+[2026-08-14 04:51:07.874] [error] [LM Studio] Model load size estimate with raw num offload layers '23' and context length '8192':
+  Model: 9.09 GB
+  Context: 967.91 MB
+  Total: 10.06 GB
+[2026-08-14 04:51:07.874] [error] [LM Studio] Strict GPU VRAM cap is OFF: GPU offload layers will not be checked for adjustment
+[2026-08-14 04:51:07.874] [error] [LM Studio] Resolved GPU config options:
+  Num Offload Layers: 23
+  Num CPU Expert Layers: 0
+  Main GPU: 0
+  Tensor Split: [0]
+  Disabled GPUs: []

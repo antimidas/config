@@ -42,7 +42,10 @@ if [[ "${RANDOMPICS}" =~ \.gif$ ]]; then
 fi
 
 # Securely update Rofi's dynamic wallpaper symlink
-ln -snf "$link_target" "$HOME/.config/rofi/current_wallpaper.png"
+#ln -snf "$link_target" "$HOME/.config/rofi/current_wallpaper.png"
+# Securely update the monitor-specific desktop image file
+ln -snf "$link_target" "$HOME/.config/rofi/current_desktop_image_${focused_monitor}.png"
+
 # -----------------------------------------------------
 
 wait $!

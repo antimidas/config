@@ -17,3 +17,8 @@ alias l='eza -1 --icons --color=always'
 #function fish_greeting
 #    # smth smth
 #end
+
+# Added by LM Studio CLI (lms)
+set -gx PATH $PATH /home/anti/.lmstudio/bin
+# End of LM Studio CLI section
+
