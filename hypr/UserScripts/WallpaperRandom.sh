@@ -11,7 +11,6 @@ focused_monitor=$(hyprctl monitors -j | jq -r '.[] | select(.focused) | .name')
 PICS=($(find -L "${wallDIR}" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.pnm" -o -name "*.tga" -o -name "*.tiff" -o -name "*.webp" -o -name "*.bmp" -o -name "*.farbfeld" -o -name "*.gif" \)))
 RANDOMPICS=${PICS[ $RANDOM % ${#PICS[@]} ]}
 
-
 # Transition config
 FPS=30
 TYPE="random"
@@ -19,13 +18,40 @@ DURATION=1
 BEZIER=".43,1.19,1,.4"
 SWWW_PARAMS="--transition-fps $FPS --transition-type $TYPE --transition-duration $DURATION --transition-bezier $BEZIER"
 
+swww query || swww-daemon --format xrgb
 
-swww query || swww-daemon --format xrgb && swww img -o $focused_monitor ${RANDOMPICS} $SWWW_PARAMS
+# Apply the random wallpaper
+swww img -o $focused_monitor "${RANDOMPICS}" $SWWW_PARAMS
+
+# -----------------------------------------------------
+# SYMLINK & GIF HANDLING
+# -----------------------------------------------------
+link_target="${RANDOMPICS}"
+
+# If the random image is a GIF, generate/grab a static frame so Wallust and Rofi don't crash
+if [[ "${RANDOMPICS}" =~ \.gif$ ]]; then
+    pic_name=$(basename "${RANDOMPICS}")
+    cache_gif_image="$HOME/.cache/gif_preview/${pic_name}.png"
+    
+    if [[ ! -f "$cache_gif_image" ]]; then
+        mkdir -p "$HOME/.cache/gif_preview"
+        magick "${RANDOMPICS}[0]" -resize 1920x1080 "$cache_gif_image" 2>/dev/null
+    fi
+    
+    link_target="$cache_gif_image"
+fi
+
+# Securely update Rofi's dynamic wallpaper symlink
+#ln -snf "$link_target" "$HOME/.config/rofi/current_wallpaper.png"
+# Securely update the monitor-specific desktop image file
+ln -snf "$link_target" "$HOME/.config/rofi/current_desktop_image_${focused_monitor}.png"
+
+# -----------------------------------------------------
 
 wait $!
-"$SCRIPTSDIR/WallustSwww.sh" &&
+# Pass the static target to Wallust so colors generate correctly
+"$SCRIPTSDIR/WallustSwww.sh" "$link_target" &&
 
 wait $!
 sleep 2
 "$SCRIPTSDIR/Refresh.sh"
-

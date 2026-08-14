@@ -1,17 +1,26 @@
 local mainMod = "SUPER"
 local terminal = "kitty"
+hl.window_rule({
+    name = "ghostty-transparency",
+    match = { class = "ghostty" },
+    opacity = "0.85 override 0.85 override",
+})
 local fileManager = "thunar"
 local scriptsDir = os.getenv("HOME") .. "/.config/hypr/scripts"
 local UserConfigs = os.getenv("HOME") .. "/.config/hypr/UserConfigs"
 local UserScripts = os.getenv("HOME") .. "/.config/hypr/UserScripts"
 
 -- Common shortcuts
-hl.bind(mainMod .. " + Super_L", hl.dsp.exec_cmd("pkill rofi || " .. os.getenv("HOME") .. "/.config/rofi/launchers/type-2/launcher.sh"), { release = true })
+hl.bind("SUPER + SUPER_L", hl.dsp.exec_cmd("pkill rofi || bash -c 'm=$(hyprctl monitors -j | jq -r \".[] | select(.focused) | .name\"); img=\"$HOME/.config/rofi/current_desktop_image_$m.png\"; [[ ! -f \"$img\" ]] && img=\"$HOME/.config/rofi/current_wallpaper.png\"; rofi -show drun -theme \"$HOME/.config/rofi/master_theme.rasi\" -theme-str \"inputbar { background-image: url(\\\"$img\\\", width); }\"'"), { release = true })
+-- hl.bind("SUPER + ESCAPE", hl.dsp.exec_cmd("pkill rofi || bash -c 'm=$(hyprctl monitors -j | jq -r \".[] | select(.focused) | .name\"); img=\"$HOME/.config/rofi/current_desktop_image_$m.png\"; [[ ! -f \"$img\" ]] && img=\"$HOME/.config/rofi/current_wallpaper.png\"; echo -e \"Lock\\nLogout\\nSuspend\\nHibernate\\nReboot\\nShutdown\" | rofi -dmenu -p \"Power\" -theme \"$HOME/.config/rofi/master_theme.rasi\" -theme-str \"inputbar { background-image: url(\\\"$img\\\", width); }\"'"), { release = true })
+-- hl.bind("SUPER + ESCAPE", hl.dsp.exec_cmd("pkill rofi || bash -c 'm=$(hyprctl monitors -j | jq -r \".[] | select(.focused) | .name\"); img=\"$HOME/.config/rofi/current_desktop_image_$m.png\"; [[ ! -f \"$img\" ]] && img=\"$HOME/.config/rofi/current_wallpaper.png\"; echo -e \"Lock\\nLogout\\nSuspend\\nHibernate\\nReboot\\nShutdown\" | rofi -dmenu -p \"Power\" -theme \"$HOME/.config/rofi/power_theme.rasi\" -theme-str \"inputbar { background-image: url(\\\"$img\\\", width); }\"'"), { release = true })
+hl.bind("CTRL + ALT + Backspace", hl.dsp.exec_cmd("pkill rofi || bash -c 'm=$(hyprctl monitors -j | jq -r \".[] | select(.focused) | .name\"); img=\"$HOME/.config/rofi/current_desktop_image_$m.png\"; [[ ! -f \"$img\" ]] && img=\"$HOME/.config/rofi/current_wallpaper.png\"; ln -sf \"$img\" \"$HOME/.config/rofi/current_wallpaper.png\"; chosen=$(echo -e \"\\n\\n\\n\\n\\n\" | rofi -dmenu -p \"Power\" -theme \"$HOME/.config/rofi/power_theme.rasi\" -theme-str \"inputbar { background-image: url(\\\"$img\\\", width); }\"); case $chosen in \"\") loginctl lock-session;; \"\") hyprctl dispatch exit;; \"\") systemctl suspend;; \"\") systemctl hibernate;; \"\") systemctl reboot;; \"\") systemctl poweroff;; esac'"), { release = true })
+
+
 hl.bind(mainMod .. " + B", hl.dsp.exec_cmd("xdg-open 'https://'"))
 hl.bind(mainMod .. " + Tab", hl.dsp.exec_cmd(scriptsDir .. "/OverviewToggle.sh"))
--- hl.bind(mainMod .. " + Return", hl.dsp.exec_cmd(kitty))
 hl.bind(mainMod .. " + E", hl.dsp.exec_cmd(fileManager))
-hl.bind(mainMod .. " + Return", hl.dsp.exec_raw("kitty2"))
+hl.bind("CTRL + ALT + SHIFT + Return", hl.dsp.exec_raw("/usr/bin/ghostty"))
 
 -- Features / Extras
 hl.bind(mainMod .. " + T", hl.dsp.exec_cmd(scriptsDir .. "/ThemeChanger.sh"))
@@ -33,8 +42,7 @@ hl.bind(mainMod .. " + SPACE", hl.dsp.window.float({ action = "toggle" }))
 hl.bind(mainMod .. " + ALT + SPACE", hl.dsp.exec_raw("workspaceopt allfloat"))
 
 -- 2. Dropdown terminal
--- hl.bind(mainMod .. " + SHIFT + Return", hl.dsp.exec_cmd(scriptsDir .. "/Dropterminal.sh " .. terminal))
-hl.bind(mainMod ..  " + SHIFT + Return", hl.dsp.exec_cmd("pypr toggle term"))
+hl.bind("CTRL + ALT + Return", hl.dsp.exec_cmd("pypr toggle term"))
 hl.bind(mainMod ..  " + R", hl.dsp.exec_cmd("pypr toggle ranger"))
 
 
@@ -78,11 +86,11 @@ hl.bind(mainMod .. " + CTRL + F11", hl.dsp.exec_raw("movecurrentworkspacetomonit
 hl.bind(mainMod .. " + CTRL + F12", hl.dsp.exec_raw("movecurrentworkspacetomonitor d"))
 
 -- System
-hl.bind("CTRL + ALT + Delete", hl.dsp.exec_cmd("uwsm stop")) -- was `hyprctl dispatch exit 0`; uwsm stop is the correct graceful shutdown since you're on UWSM
+-- hl.bind("CTRL + ALT + Delete", hl.dsp.exec_cmd("uwsm stop")) -- was `hyprctl dispatch exit 0`; uwsm stop is the correct graceful shutdown since you're on UWSM
 hl.bind(mainMod .. " + Q", hl.dsp.window.close())
 hl.bind(mainMod .. " + SHIFT + Q", hl.dsp.exec_cmd(scriptsDir .. "/KillActiveProcess.sh"))
 hl.bind("CTRL + ALT + L", hl.dsp.exec_cmd(scriptsDir .. "/LockScreen.sh"))
-hl.bind("CTRL + ALT + Backspace", hl.dsp.exec_cmd("nwg-bar -i 81"))
+-- hl.bind("CTRL + ALT + Backspace", hl.dsp.exec_cmd("$HOME/.config/hypr/scripts/Wlogout.sh"))
 hl.bind(mainMod .. " + SHIFT + N", hl.dsp.exec_cmd("swaync-client -t -sw"))
 hl.bind(mainMod .. " + SHIFT + E", hl.dsp.exec_cmd(scriptsDir .. "/Kool_Quick_Settings.sh"))
 

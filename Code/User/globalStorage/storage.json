@@ -26,7 +26,7 @@
                 "x": 10,
                 "y": 10,
                 "width": 950,
-                "height": 509
+                "height": 1018
             }
         },
         "openedWindows": []
@@ -58,12 +58,26 @@
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
-            "activityBarWidth": 48,
+            "activityBarWidth": 40,
             "sideBarWidth": 0,
-            "auxiliaryBarWidth": 235,
-            "statusBarHeight": 22,
+            "auxiliaryBarWidth": 243,
+            "statusBarHeight": 32,
             "windowBorder": false,
-            "modernUI": false
+            "modernUI": true,
+            "partBounds": {
+                "auxiliaryBar": {
+                    "top": 35,
+                    "left": 702,
+                    "width": 231,
+                    "height": 945
+                },
+                "editor": {
+                    "top": 35,
+                    "left": 44,
+                    "width": 652,
+                    "height": 943
+                }
+            }
         }
     }
 }

@@ -1,0 +1,71 @@
+{
+	"devices": {
+		"vi": {},
+		"hi": {},
+		"a": {
+			"1": {
+				"name": "alsa_output.pci-0000_2b_00.1.hdmi-stereo-extra1",
+				"nick": "TV",
+				"description": "GA106 High Definition Audio Controller Digital Stereo (HDMI 2)",
+				"device_type": "sink",
+				"device_class": "hardware",
+				"volume": [
+					100,
+					100
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": null,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			},
+			"2": {
+				"name": "alsa_output.usb-Generic_USB2.0_Device_20170726905955-00.analog-stereo",
+				"nick": "Speakers",
+				"description": "USB2.0 Device Analog Stereo",
+				"device_type": "sink",
+				"device_class": "hardware",
+				"volume": [
+					35,
+					35
+				],
+				"mute": false,
+				"flags": 0,
+				"external": false,
+				"primary": null,
+				"channels": 2,
+				"channel_list": [
+					"FL",
+					"FR"
+				],
+				"connections": {
+					"a": {},
+					"b": {}
+				},
+				"selected_channels": [
+					true,
+					true
+				]
+			}
+		},
+		"b": {}
+	},
+	"vumeters": true,
+	"cleanup": true,
+	"tray": false,
+	"layout": "Bars",
+	"window_width": 800,
+	"window_height": 600
+}

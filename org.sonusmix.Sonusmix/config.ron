@@ -1,0 +1,12 @@
+(
+    version: "0.1.1",
+    settings: (
+        collapse_to_tray_on_close: true,
+        start_collapsed_to_tray: true,
+        lock_endpoint_connections: false,
+        lock_group_node_connections: true,
+        show_group_node_change_warning: true,
+        application_sources_include_monitors: true,
+        volume_limit: 100.0,
+    ),
+)

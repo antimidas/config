@@ -5,6 +5,7 @@ SETUVAR __done_notification_urgency_level:low
 SETUVAR _fisher_plugins:wawa19933/fish\x2drsync
 SETUVAR _fisher_upgraded_to_4_4:\x1d
 SETUVAR _fisher_wawa19933_2F_fish_2D_rsync_files:\x7e/\x2econfig/fish/functions/rsync\x2dcopy\x2efish\x1e\x7e/\x2econfig/fish/functions/rsync\x2dmove\x2efish\x1e\x7e/\x2econfig/fish/functions/rsync\x2dsynchronize\x2efish\x1e\x7e/\x2econfig/fish/functions/rsync\x2dupdate\x2efish
+SETUVAR fish_user_paths:/home/anti/\x2elocal/bin
 SETUVAR pure_begin_prompt_with_current_directory:true
 SETUVAR pure_check_for_new_release:false
 SETUVAR pure_color_at_sign:pure_color_mute

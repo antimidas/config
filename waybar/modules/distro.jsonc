@@ -13,14 +13,9 @@
     "on-click": "code",
     "tooltip": false
   },
-  "custom/obsidian": {
-    "format": "󰹕",
-    "on-click": "obsidian",
-    "tooltip": false
-  },
   "custom/office": {
-    "format": "󰏆",
-    "on-click": "onlyoffice-desktopeditors",
+    "format": "󰌔",
+    "on-click": "kodi",
     "tooltip": false
   },
   "custom/files": {
@@ -28,14 +23,9 @@
     "on-click": "thunar",
     "tooltip": false
   },
-  "custom/spotify": {
-    "format": "",
-    "on-click": "spotify",
-    "tooltip": false
-  },
   "custom/browser": {
-    "format": "",
-    "on-click": "firefox",
+    "format": "\uf268",
+    "on-click": "google-chrome-stable",
     "tooltip": false
   }
 }

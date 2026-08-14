@@ -1,0 +1,114 @@
+    OpenRGB v0.9+ (git2182)
+    Commit: 358fc7b0078158a8dfc80b226530c234dd5cf0fe from 2026-07-27 23:33:40 -0500
+    Launched: 20260803_072114
+====================================================================================================
+
+[0         ][Info   ][NetworkClient] Connection attempt failed
+[51        ][Info   ]------------------------------------------------------
+[51        ][Info   ]|               Start device detection               |
+[51        ][Info   ]------------------------------------------------------
+[73        ][Info   ]------------------------------------------------------
+[73        ][Info   ]|             Detecting I2C interfaces               |
+[73        ][Info   ]------------------------------------------------------
+[73        ][Info   ][DetectionManager] Registering I2C interface: NVIDIA i2c adapter 6 at 2b:00.0 (/dev/i2c-3) Device 10DE:2503 Subsystem: 1043:87F5
+[74        ][Info   ][DetectionManager] Registering I2C interface: NVIDIA i2c adapter 3 at 2b:00.0 (/dev/i2c-1) Device 10DE:2503 Subsystem: 1043:87F5
+[74        ][Info   ][DetectionManager] Registering I2C interface: SMBus PIIX4 adapter port 1 at 0b20 (/dev/i2c-8) Device 1022:790B Subsystem: 1462:7C56
+[74        ][Info   ][DetectionManager] Registering I2C interface: SMBus PIIX4 adapter port 0 at 0b00 (/dev/i2c-6) Device 1022:790B Subsystem: 1462:7C56
+[74        ][Info   ][DetectionManager] Registering I2C interface: NVIDIA i2c adapter 7 at 2b:00.0 (/dev/i2c-4) Device 10DE:2503 Subsystem: 1043:87F5
+[74        ][Info   ][DetectionManager] Registering I2C interface: NVIDIA i2c adapter 5 at 2b:00.0 (/dev/i2c-2) Device 10DE:2503 Subsystem: 1043:87F5
+[74        ][Info   ][DetectionManager] Registering I2C interface: NVIDIA i2c adapter 1 at 2b:00.0 (/dev/i2c-0) Device 10DE:2503 Subsystem: 1043:87F5
+[74        ][Info   ][DetectionManager] Registering I2C interface: SMBus PIIX4 adapter port 2 at 0b00 (/dev/i2c-7) Device 1022:790B Subsystem: 1462:7C56
+[74        ][Info   ][DetectionManager] Registering I2C interface: NVIDIA i2c adapter 8 at 2b:00.0 (/dev/i2c-5) Device 10DE:2503 Subsystem: 1043:87F5
+[74        ][Info   ]------------------------------------------------------
+[74        ][Info   ]|               Detecting I2C devices                |
+[74        ][Info   ]------------------------------------------------------
+[723       ][Info   ]------------------------------------------------------
+[723       ][Info   ]|            Detecting I2C DRAM modules              |
+[723       ][Info   ]------------------------------------------------------
+[1557      ][Info   ][DetectionManager] Detected occupied slot 3, bus 3, type DDR4
+[2840      ][Info   ][DetectionManager] Detected occupied slot 4, bus 3, type DDR4
+[3933      ][Info   ]------------------------------------------------------
+[3933      ][Info   ]|               Detecting I2C PCI devices            |
+[3933      ][Info   ]------------------------------------------------------
+[4445      ][Info   ][DetectionManager] Registering RGB controller ASUS TUF GeForce RTX 3060 Gaming OC
+[4513      ][Info   ][DetectionManager] HID device connected: [1532:051c - /dev/hidraw14]
+[4513      ][Info   ][DetectionManager] HID device connected: [1532:051c - /dev/hidraw14]
+[4513      ][Info   ][DetectionManager] HID device connected: [1532:051c - /dev/hidraw14]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw2]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw2]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw2]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw2]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw4]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw4]
+[4514      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw4]
+[4515      ][Info   ][DetectionManager] HID device connected: [0bda:4a10 - /dev/hidraw8]
+[4515      ][Info   ][DetectionManager] HID device connected: [0bda:4a10 - /dev/hidraw8]
+[4515      ][Info   ][DetectionManager] HID device connected: [0c76:1467 - /dev/hidraw7]
+[4515      ][Info   ][DetectionManager] HID device connected: [1462:7c56 - /dev/hidraw5]
+[4589      ][Info   ][DetectionManager] Registering RGB controller MSI MPG B550 GAMING PLUS (MS-7C56)
+[4630      ][Info   ][DetectionManager] HID device connected: [303a:4005 - /dev/hidraw9]
+[4630      ][Info   ][DetectionManager] HID device connected: [303a:4005 - /dev/hidraw9]
+[4630      ][Info   ][DetectionManager] HID device connected: [303a:4005 - /dev/hidraw9]
+[4630      ][Info   ][DetectionManager] HID device connected: [303a:4005 - /dev/hidraw9]
+[4630      ][Info   ][DetectionManager] HID device connected: [eeef:2828 - /dev/hidraw10]
+[4631      ][Info   ][DetectionManager] HID device connected: [eeef:2828 - /dev/hidraw11]
+[4631      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw15]
+[4631      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw16]
+[4631      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw16]
+[4631      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw16]
+[4631      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw16]
+[4631      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw16]
+[4632      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw17]
+[4632      ][Info   ][DetectionManager] HID device connected: [0c45:8009 - /dev/hidraw18]
+[4632      ][Info   ][DetectionManager] HID device connected: [046d:c08b - /dev/hidraw12]
+[4632      ][Info   ][DetectionManager] HID device connected: [046d:c08b - /dev/hidraw13]
+[4632      ][Info   ][DetectionManager] HID device connected: [046d:c08b - /dev/hidraw13]
+[4632      ][Info   ][DetectionManager] HID device connected: [046d:c08b - /dev/hidraw13]
+[4632      ][Info   ][DetectionManager] HID device connected: [046d:c08b - /dev/hidraw13]
+[4633      ][Info   ][DetectionManager] HID device connected: [046d:c08b - /dev/hidraw13]
+[5030      ][Info   ][DetectionManager] Registering RGB controller G502 HERO Gaming Mouse
+[5031      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw0]
+[5032      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw0]
+[5032      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw0]
+[5032      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw0]
+[5032      ][Info   ][DetectionManager] HID device connected: [256c:006d - /dev/hidraw1]
+[5032      ][Info   ][DetectionManager] HID device connected: [2dc8:301c - /dev/hidraw6]
+[5032      ][Info   ][DetectionManager] HID device connected: [8087:1024 - /dev/hidraw3]
+[5032      ][Info   ][DetectionManager] HID device connected: [00c0:0000 - /dev/hidraw19]
+[5033      ][Info   ][DetectionManager] HID device connected: [00c0:0000 - /dev/hidraw19]
+[5090      ][Info   ][DetectionManager] libusb HID device connected: [8087:1024 - 3-3:1.2]
+[5091      ][Info   ][DetectionManager] libusb HID device connected: [2dc8:301c - 3-2.2:1.0]
+[5091      ][Info   ][DetectionManager] libusb HID device connected: [256c:006d - 3-1:1.0]
+[5091      ][Info   ][DetectionManager] libusb HID device connected: [256c:006d - 3-1:1.1]
+[5091      ][Info   ][DetectionManager] libusb HID device connected: [046d:c08b - 5-3.4:1.0]
+[5091      ][Info   ][DetectionManager] libusb HID device connected: [046d:c08b - 5-3.4:1.1]
+[5091      ][Info   ][DetectionManager] libusb HID device connected: [0c45:8009 - 5-3.3:1.0]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [0c45:8009 - 5-3.3:1.1]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [0c45:8009 - 5-3.3:1.2]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [0c45:8009 - 5-3.3:1.3]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [eeef:2828 - 5-2.2:1.0]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [eeef:2828 - 5-2.2:1.1]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [303a:4005 - 1-9:1.2]
+[5092      ][Info   ][DetectionManager] libusb HID device connected: [1462:7c56 - 1-7:1.0]
+[5093      ][Info   ][DetectionManager] libusb HID device connected: [0c76:1467 - 1-6:1.2]
+[5093      ][Info   ][DetectionManager] libusb HID device connected: [0bda:4a10 - 1-5.1:1.2]
+[5093      ][Info   ][DetectionManager] libusb HID device connected: [256c:006d - 1-3:1.0]
+[5093      ][Info   ][DetectionManager] libusb HID device connected: [256c:006d - 1-3:1.1]
+[5093      ][Info   ][DetectionManager] libusb HID device connected: [256c:006d - 1-3:1.2]
+[5093      ][Info   ][DetectionManager] libusb HID device connected: [1532:051c - 1-10:1.5]
+[5093      ][Info   ]------------------------------------------------------
+[5093      ][Info   ]|            Detecting libusb HID devices            |
+[5093      ][Info   ]------------------------------------------------------
+[5119      ][Info   ]------------------------------------------------------
+[5119      ][Info   ]|              Detecting other devices               |
+[5119      ][Info   ]------------------------------------------------------
+[5155      ][Info   ]------------------------------------------------------
+[5155      ][Info   ]|                Detection completed                 |
+[5155      ][Info   ]------------------------------------------------------
+[5162      ][Info   ][OpenRGBEffectsPlugin] version 0.9+ (git118) (8f3c70ebeb99c8e8ba4ef0272d52e0f333ff8d90), build date 2026-07-20 08:31:31 -0500
+[5162      ][Info   ][OpenRGBEffectsPlugin] 58 effects registered
+[5166      ][Info   ][OpenRGBHardwareSyncPlugin] version 0.9+ (git29) (0f6eff51d1ca197c7caaf8c19707716faafdc4c8), build date 2026-07-14 00:21:50 -0500
+[5184      ][Warning][PluginManager] Plugin /usr/lib/openrgb/plugins/libOpenRGBSkinPlugin.so does not have a MetaData field, skipping.
+[35081     ][Info   ][OpenRGBEffectsPlugin] Unloading
+[35175     ][Info   ][OpenRGBHardwareSyncPlugin] Unloaded.
+[35207     ][Info   ][DetectionManager] Cleaning up detected devices

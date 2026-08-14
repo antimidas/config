@@ -1,5 +1,20 @@
 local HOME = os.getenv("HOME")
 
+-- Load Wallust palette safely at startup
+local colors_path = HOME .. "/.config/hypr/wallust/wallust-hyprland.lua"
+local wallust = {
+    active = "rgba(3b82f6ee)",
+    accent = "rgba(8b5cf6ee)",
+    inactive = "rgba(5f07e0aa)",
+}
+
+if io.open(colors_path, "r") then
+    local loaded = dofile(colors_path)
+    if type(loaded) == "table" then
+        wallust = loaded
+    end
+end
+
 hl.env("WEBKIT_DISABLE_DMABUF_RENDERER", "1")
 
 hl.curve("linear", {
@@ -15,21 +30,24 @@ hl.config({
         col = {
             active_border = {
                 colors = {
-                    "rgba(1e3a8aee)", -- Deep Navy Blue
-                    "rgba(3b82f6ee)", -- Bright Blue
-                    "rgba(6366f1ee)", -- Indigo
-                    "rgba(8b5cf6ee)", -- Vibrant Purple
-                    "rgba(d946efee)", -- Magenta / Purple-Pink
-                    "rgba(ec4899ee)", -- Hot Pink
-                    "rgba(f472b6ee)", -- Soft Light Pink
+                    wallust.active,
+                    wallust.accent,
                 },
-                angle = 0,
+                angle = 45,
             },
-            inactive_border = "rgba(5f07e0aa)",
+            inactive_border = wallust.inactive,
         },
     },
     decoration = {
-        rounding = 10,
+        rounding = 25,
+        blur = {
+            enabled = true,
+            size = 2,
+            passes = 2,
+            xray = true,
+            vibrancy = 0.33,
+            ignore_opacity = true,
+        },
     },
     animations = {
         enabled = true,
@@ -47,8 +65,12 @@ hl.animation({
     style = "loop",
 })
 
-
-
+hl.layer_rule({
+    name = "wlogout-blur",
+    match = { namespace = "^wlogout$" },
+    blur = true,
+    ignore_alpha = 0.2,  -- blur applies even where opacity is below this threshold
+})
 
 -- Startup apps and daemons
 hl.on("hyprland.start", function()
@@ -60,8 +82,22 @@ end)
 
 -- Essential manual keybinds to verify bindings work natively
 hl.bind("SUPER + Return", hl.dsp.exec_cmd("kitty"))
-hl.bind("SUPER + E", hl.dsp.exec_cmd("thunar"))
+-- hl.bind("SUPER + E", hl.dsp.exec_cmd("thunar"))
 hl.bind("SUPER + Q", hl.dsp.window.close())
+
+-- Execute quickshell audio deck automatically on Hyprland startup
+hl.exec_cmd("sonusmix")
+
+hl.device({
+    name = "tstp-mtouch",
+    output = "HDMI-A-2",
+})
+
+hl.window_rule({
+    name = "sonusmix-touchscreen",
+    match = { class = "org.sonusmix.Sonusmix" }, -- Use "sonusmix" if running the native package instead of Flatpak
+    float = true,
+})
 
 -- Safely load modular files if they exist, catching errors so they don't kill the session
 local function safe_require(name)
@@ -137,4 +173,24 @@ hl.window_rule({
         },
         angle = 0,
     },
+})
+
+-- Keybinds using the native hl.bind API
+hl.bind("SUPER + ALT + P", hl.dsp.exec_cmd("pulsemeeter"))
+hl.bind("SUPER + P", hl.dsp.exec_cmd("pavucontrol"))
+
+-- Window rules using the native table-based specification
+hl.window_rule({
+    name = "pulsemeeter-float",
+    match = { class = "pulsemeeter" },
+    float = true,
+    size = "1100 700",
+})
+
+hl.window_rule({
+    name = "pavucontrol-float",
+    match = { class = "org.pulseaudio.pavucontrol" },
+    float = true,
+    size = "900 500",
+    center = true,
 })
