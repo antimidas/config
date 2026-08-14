@@ -1,3 +1,0 @@
-2026-08-14 05:53:40.113 [info] Log level: Info
-2026-08-14 05:54:26.075 [info] Log level: Info
-2026-08-14 07:04:28.475 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for antimidas/config/39c63929f79bd4620dba10b0d704660040a3ed90: TypeError: Cannot read properties of null (reading 'author')
