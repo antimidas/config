@@ -9,20 +9,14 @@
                 "folderUri": "file:///home/anti/.config"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1785747557476"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
             "file:///home/anti/.config": "__default__profile__"
         },
-        "emptyWindows": {
-            "1785747557476": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
@@ -32,8 +26,8 @@
                 "mode": 0,
                 "x": 16,
                 "y": 10,
-                "width": 950,
-                "height": 1018
+                "width": 1920,
+                "height": 1080
             }
         },
         "openedWindows": []
@@ -66,8 +60,8 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 327,
-            "auxiliaryBarWidth": 507,
+            "sideBarWidth": 453,
+            "auxiliaryBarWidth": 423,
             "statusBarHeight": 22,
             "windowBorder": false,
             "modernUI": false
@@ -75,8 +69,8 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 327,
-            "auxiliaryBarWidth": 507,
+            "sideBarWidth": 453,
+            "auxiliaryBarWidth": 423,
             "workspaces": {
                 "cc677389c16b7cdda8f9fba9afc64579": {
                     "sideBarVisible": true,

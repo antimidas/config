@@ -81,3 +81,11 @@
 2026-08-14 04:54:24.884 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
 2026-08-14 04:54:25.328 [error] Error: chatParticipant must be declared in package.json: claude-code
     at XHt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:76524)
+2026-08-14 05:48:53.052 [info] ExtensionService#_doActivateExtension ZiCorpLLC.lmstudio-copilot, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:50:25.300 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:50:25.304 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:50:25.344 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:51:24.523 [info] ExtensionService#_doActivateExtension cgaspard.lmstudio-code, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:52:31.373 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-08-14 05:53:30.494 [info] Extension host terminating: received terminate message from renderer
+2026-08-14 05:53:30.517 [info] Extension host with pid 704919 exiting with code 0

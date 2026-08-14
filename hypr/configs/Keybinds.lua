@@ -53,7 +53,7 @@ hl.bind(mainMod ..  " + R", hl.dsp.exec_cmd("pypr toggle ranger"))
 hl.bind("SUPER + mouse:272", hl.dsp.window.drag(), { mouse = true })
 
 -- Resize window by dragging with SUPER + RMB
--- hl.bind("SUPER + mouse:273", hl.dsp.window.resize(), { mouse = true })
+ hl.bind("SUPER + mouse:273", hl.dsp.window.resize(), { mouse = true })
 
 
 -- Waybar / Bar related

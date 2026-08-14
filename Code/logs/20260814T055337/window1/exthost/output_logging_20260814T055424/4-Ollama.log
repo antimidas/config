@@ -1,0 +1,18 @@
+Activated Ollama language model provider.
+Providing 1 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 1 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 1 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 1 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 1 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 1 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Sending chat request to qwen2.5-coder:14b at http://127.0.0.1:11434.
+Ollama allocated a 4K context window for qwen2.5-coder:14b; at least 64K is recommended.
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Providing 4 Ollama model(s) from http://127.0.0.1:11434 with Ollama 0.32.10 using 3 recommendation(s).
+Sending chat request to oamazonasgabriel/qwen3.5-2b:q8-8gbGPU at http://127.0.0.1:11434.

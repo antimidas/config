@@ -25,3 +25,70 @@ LM Studio Copilot Provider activated v1.30.5
 [Provider] provideLanguageModelChatInformation: 2 models
 [Provider] provideLanguageModelChatInformation: 2 models
 [Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 2 messages | 0 tools
+[Client] Checking connection to http://localhost:1234...
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 2 messages | 0 tools
+[Client] Checking connection to http://localhost:1234...
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Provider] Chat request for bartowski/deepseek-coder-v2-lite-instruct | 4 messages | 57 tools
+[Client] Checking connection to http://localhost:1234...
+[Client] Connection check: 200
+[Client] CLI: /home/anti/.lmstudio/bin/lms ps --json
+[Client] Loading model on demand: bartowski/deepseek-coder-v2-lite-instruct
+[Client] CLI: /home/anti/.lmstudio/bin/lms load bartowski/deepseek-coder-v2-lite-instruct -y
+[Client] Loading model on demand: bartowski/deepseek-coder-v2-lite-instruct
+[Client] CLI: /home/anti/.lmstudio/bin/lms load bartowski/deepseek-coder-v2-lite-instruct -y
+[Client] Loading model on demand: bartowski/deepseek-coder-v2-lite-instruct
+[Client] CLI: /home/anti/.lmstudio/bin/lms load bartowski/deepseek-coder-v2-lite-instruct -y
+[Client] CLI command failed (1): Model not found
+
+No model found that matches model key "bartowski/deepseek-coder-v2-lite-instruct".
+
+To see a list of all downloaded models, run:
+
+    lms ls
+
+To select a model interactively, remove the --yes flag:
+
+    lms load
+
+[Client] CLI command failed (1): Model not found
+
+No model found that matches model key "bartowski/deepseek-coder-v2-lite-instruct".
+
+To see a list of all downloaded models, run:
+
+    lms ls
+
+To select a model interactively, remove the --yes flag:
+
+    lms load
+
+[Client] CLI command failed (1): Model not found
+
+No model found that matches model key "bartowski/deepseek-coder-v2-lite-instruct".
+
+To see a list of all downloaded models, run:
+
+    lms ls
+
+To select a model interactively, remove the --yes flag:
+
+    lms load
+
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models
+[Provider] provideLanguageModelChatInformation: 2 models

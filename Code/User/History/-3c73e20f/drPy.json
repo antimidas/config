@@ -1,0 +1,6 @@
+{
+    "chat.byokUtilityModelDefault": "mainAgent",
+    "chat.utilityModel": "",
+    "chat.utilitySmallModel": "",
+    "lmStudioCopilot.allowFileModifications": true
+}

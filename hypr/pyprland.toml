@@ -1,10 +1,10 @@
-# Keep this intact in your pyprland.toml
+\# Keep this intact in your pyprland.toml
 [pyprland]
 plugins = ["scratchpads"]
 
 [scratchpads.term]
 animation = "fromTop"
-command = "kitty --class kitty-dropterm"
+command = "kitty --class kitty-dropterm -e zsh"
 class = "kitty-dropterm"
 size = "75% 60% "
 

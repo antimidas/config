@@ -1,0 +1,24 @@
+2026-08-14 06:51:26.405 [info] Uninstalling extension from the profile: danlambiase.lmstudio-copilot-provider@1.30.5 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:51:26.412 [info] Marked extension as removed danlambiase.lmstudio-copilot-provider-1.30.5
+2026-08-14 06:51:26.579 [info] Successfully uninstalled extension from the profile danlambiase.lmstudio-copilot-provider@1.30.5 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:51:28.043 [info] Uninstalling extension from the profile: zicorpllc.lmstudio-copilot@0.1.3 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:51:28.049 [info] Marked extension as removed zicorpllc.lmstudio-copilot-0.1.3
+2026-08-14 06:51:28.115 [info] Successfully uninstalled extension from the profile zicorpllc.lmstudio-copilot@0.1.3 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:51:29.725 [info] Uninstalling extension from the profile: cgaspard.lmstudio-code@0.24.0 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:51:29.731 [info] Marked extension as removed cgaspard.lmstudio-code-0.24.0-linux-x64
+2026-08-14 06:51:29.788 [info] Successfully uninstalled extension from the profile cgaspard.lmstudio-code@0.24.0 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:51:58.507 [info] Getting Manifest... namdang.ollama-copilot-vscode
+2026-08-14 06:51:58.606 [info] Installing extension: namdang.ollama-copilot-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/anti/.vscode/extensions/extensions.json","path":"/home/anti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.131.0","date":"2026-07-28T10:51:25Z"}}
+2026-08-14 06:51:59.446 [info] Extension signature verification result for namdang.ollama-copilot-vscode: Success. Internal Code: 0. Executed: true. Duration: 431ms.
+2026-08-14 06:51:59.469 [info] Extracted extension to file:///home/anti/.vscode/extensions/namdang.ollama-copilot-vscode-1.0.1: namdang.ollama-copilot-vscode
+2026-08-14 06:51:59.472 [info] Renamed to /home/anti/.vscode/extensions/namdang.ollama-copilot-vscode-1.0.1
+2026-08-14 06:51:59.478 [info] Extension installed successfully: namdang.ollama-copilot-vscode vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:52:49.421 [info] Getting Manifest... ollama.ollama
+2026-08-14 06:52:49.516 [info] Installing extension: ollama.ollama {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/anti/.vscode/extensions/extensions.json","path":"/home/anti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.131.0","date":"2026-07-28T10:51:25Z"}}
+2026-08-14 06:52:50.169 [info] Extension signature verification result for ollama.ollama: Success. Internal Code: 0. Executed: true. Duration: 423ms.
+2026-08-14 06:52:50.239 [info] Extracted extension to file:///home/anti/.vscode/extensions/ollama.ollama-0.0.8: ollama.ollama
+2026-08-14 06:52:50.247 [info] Renamed to /home/anti/.vscode/extensions/ollama.ollama-0.0.8
+2026-08-14 06:52:50.252 [info] Extension installed successfully: ollama.ollama vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:53:10.549 [info] Uninstalling extension from the profile: namdang.ollama-copilot-vscode@1.0.1 vscode-userdata:/home/anti/.vscode/extensions/extensions.json
+2026-08-14 06:53:10.555 [info] Marked extension as removed namdang.ollama-copilot-vscode-1.0.1
+2026-08-14 06:53:10.610 [info] Successfully uninstalled extension from the profile namdang.ollama-copilot-vscode@1.0.1 vscode-userdata:/home/anti/.vscode/extensions/extensions.json

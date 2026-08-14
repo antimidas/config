@@ -36,3 +36,6 @@
 2026-08-14 04:54:25.424 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
 2026-08-14 04:54:25.815 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
 2026-08-14 04:54:25.815 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-08-14 05:47:40.247 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-08-14 05:47:40.247 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-08-14 05:53:30.516 [info] Microsoft Authentication is deactivating...

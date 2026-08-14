@@ -259,3 +259,36 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 2026-08-14 04:54:48.695 [info] [AgentService] Evicting idle session: ahp-chat://default/Y29waWxvdGNsaTovYjRjMmU1ZWQtMDU0Ny00OGIxLWE4MjEtZjRkNDE2MjJmYTY1 (triggered by unsubscribe of ahp-chat://default/Y29waWxvdGNsaTovYjRjMmU1ZWQtMDU0Ny00OGIxLWE4MjEtZjRkNDE2MjJmYTY1)
 2026-08-14 04:54:48.704 [info] [AgentService] Evicting idle session: copilotcli:/b4c2e5ed-0547-48b1-a821-f4d41622fa65 (triggered by unsubscribe of copilotcli:/b4c2e5ed-0547-48b1-a821-f4d41622fa65)
 2026-08-14 04:54:48.704 [info] [Copilot:b4c2e5ed-0547-48b1-a821-f4d41622fa65] Releasing idle session from memory (durable state preserved)
+2026-08-14 04:56:33.305 [error] [ProtocolServer] Request 'subscribe' failed Session not found on backend: copilotcli:/911b0ec0-821d-4016-b1c1-23a5942649cf
+2026-08-14 04:56:33.353 [info] [Copilot] Creating session... 
+2026-08-14 04:56:33.357 [info] [Copilot] Session created (provisional): copilotcli:/911b0ec0-821d-4016-b1c1-23a5942649cf
+2026-08-14 04:56:33.387 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] Resolved system message: mode=customize sections=[identity:replace, tool_instructions:append] +content(length 1022)
+2026-08-14 04:56:33.634 [info] [Copilot] Session materialized: copilotcli:/911b0ec0-821d-4016-b1c1-23a5942649cf
+2026-08-14 04:56:33.634 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] sendMessage: cachedEntry=true, hasActiveClient=true, activeClientId=(set)
+2026-08-14 04:56:33.666 [warning] [agentHostGitService] > git add -A --pathspec-from-file=/tmp/agent-host-git-diff-be7ed60e-e631-490b-a9c8-7af9e8dce4ae/pathspec --pathspec-file-nul failed; full stderr:
+fatal: pathspec 'Code/agentSessionData/911b0ec0-821d-4016-b1c1-23a5942649cf/session.db-journal' did not match any files
+
+2026-08-14 04:56:33.728 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] sendMessage called: "git is not saving my credentials
+╭─ desk .config   main !⇡ 
+╰─❯ git push                   ..." (0 attachments)
+2026-08-14 04:56:33.729 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] rpc.mode.set succeeded: mode=interactive
+2026-08-14 04:56:33.729 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] Syncing permission mode: source=turn-start, agentMode=interactive, configuredLevel=default, sdkMode=off, previousSdkMode=unknown, globalAutoApprove=false
+2026-08-14 04:56:33.731 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] session.send() returned
+2026-08-14 04:56:34.120 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] Auto mode resolved to gpt-5-mini (high)
+2026-08-14 04:56:57.007 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] Aborting session...
+2026-08-14 04:56:57.012 [info] [Copilot:911b0ec0-821d-4016-b1c1-23a5942649cf] Session idle
+2026-08-14 05:04:33.638 [info] [Copilot] Listing models...
+2026-08-14 05:04:33.647 [info] [Copilot] Found 1 models: Auto
+2026-08-14 05:04:33.993 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 05:14:33.637 [info] [Copilot] Listing models...
+2026-08-14 05:14:33.645 [info] [Copilot] Found 1 models: Auto
+2026-08-14 05:14:34.152 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 05:24:33.637 [info] [Copilot] Listing models...
+2026-08-14 05:24:34.006 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 05:24:34.019 [info] [Copilot] Found 1 models: Auto
+2026-08-14 05:34:33.637 [info] [Copilot] Listing models...
+2026-08-14 05:34:33.646 [info] [Copilot] Found 1 models: Auto
+2026-08-14 05:34:33.818 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 05:44:33.637 [info] [Copilot] Listing models...
+2026-08-14 05:44:33.645 [info] [Copilot] Found 1 models: Auto
+2026-08-14 05:44:34.139 [info] [Claude] Models refreshed. Count: 0, 

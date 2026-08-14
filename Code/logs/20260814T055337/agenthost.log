@@ -1,0 +1,64 @@
+2026-08-14 05:53:38.952 [info] Agent Host process started successfully
+2026-08-14 05:53:38.952 [error] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-userdata:/home/anti/.config/Code/User'
+    at rs.withProvider (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:866:36782)
+    at async rs.doWatch (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:866:49601)
+    at async file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:866:49291
+2026-08-14 05:53:38.952 [error] CodeExpectedError: ENOPRO: No file system provider found for resource 'vscode-userdata:/home/anti/.config/Code/User/settings.json'
+    at rs.withProvider (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:866:36782)
+    at async rs.doWatch (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:866:49601)
+    at async file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:866:49291
+2026-08-14 05:53:38.959 [info] AgentService initialized
+2026-08-14 05:53:38.968 [info] Registering agent provider: copilotcli
+2026-08-14 05:53:38.970 [info] Registering agent provider: claude
+2026-08-14 05:53:38.993 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-8fdafe759ee8/HtNau7TzL-vIzQNTO0RpIQ.sock
+2026-08-14 05:53:39.000 [info] [CommandAutoApprover] Tree-sitter initialized successfully
+2026-08-14 05:53:39.208 [info] [ProtocolServer] Initialize: clientId=6aee4a1b-b654-47ce-9ce4-8f32c22110ef, protocolVersions=[0.7.0]
+2026-08-14 05:53:40.470 [info] [Copilot] Listing sessions...
+2026-08-14 05:53:40.470 [info] [Copilot] Starting CopilotClient...
+2026-08-14 05:53:40.473 [info] [Claude] SDK not downloaded yet; deferring session list until a session triggers the download
+2026-08-14 05:53:40.482 [info] [Copilot] Auth token updated
+2026-08-14 05:53:40.505 [info] [ClaudeProxyService] listening on http://127.0.0.1:41593
+2026-08-14 05:53:40.505 [info] [Claude] Auth token updated
+2026-08-14 05:53:40.577 [info] [Copilot] Creating session... 
+2026-08-14 05:53:41.474 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-08-14 05:53:41.479 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-08-14 05:53:41.857 [info] [Copilot] CopilotClient started successfully
+2026-08-14 05:53:41.862 [info] [Copilot] Session created (provisional): copilotcli:/untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b
+2026-08-14 05:53:41.878 [info] [Copilot] Found 2 sessions
+2026-08-14 05:53:41.899 [info] [Copilot] Enhanced (restricted) telemetry enabled for this account
+2026-08-14 05:53:42.750 [info] [Copilot] Listing models...
+2026-08-14 05:53:42.945 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 05:53:43.239 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:03:38.971 [info] [Copilot] Listing models...
+2026-08-14 06:03:39.310 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:03:39.315 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 06:12:31.755 [warning] [AgentHostFileMonitorService] File watcher error [File Watcher ('parcel')] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/anti/.config)
+2026-08-14 06:12:31.755 [error] [File Watcher ('parcel')] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/anti/.config)
+2026-08-14 06:12:33.546 [warning] [AgentHostStateManager] Action for unknown session: copilotcli:/untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b, type=session/metaChanged
+2026-08-14 06:12:33.565 [warning] [AgentHostStateManager] Action for unknown session: copilotcli:/untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b, type=session/metaChanged
+2026-08-14 06:13:01.751 [info] [AgentService] GC: disposing empty unsubscribed session copilotcli:/untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b
+2026-08-14 06:13:01.754 [error] Error: Failed to delete session untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b: Error: Session file not found for untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b
+    at CopilotClient.deleteSession (file:///usr/share/code/resources/app/node_modules.asar/@github/copilot-sdk/dist/client.js:1517:13)
+    at async file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:731:49180
+    at async it.disposeSession (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:731:48964)
+    at async _h._disposeSession (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:609:29183)
+    at async _h.disposeSession (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:609:35596)
+    at async _h._runSessionGc (file:///usr/share/code/resources/app/out/vs/platform/agentHost/node/agentHostMain.js:609:39207) [AgentService] GC failed for copilotcli:/untitled-f4a569e3-ec7f-4126-bb72-0b90a4c1fe5b
+2026-08-14 06:13:38.971 [info] [Copilot] Listing models...
+2026-08-14 06:13:39.129 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:13:39.182 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 06:23:38.971 [info] [Copilot] Listing models...
+2026-08-14 06:23:39.475 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:23:39.605 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 06:33:38.971 [info] [Copilot] Listing models...
+2026-08-14 06:33:39.168 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 06:33:39.170 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:43:38.970 [info] [Copilot] Listing models...
+2026-08-14 06:43:39.539 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:43:40.183 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 06:53:38.970 [info] [Copilot] Listing models...
+2026-08-14 06:53:39.128 [info] [Copilot] Found 1 models: Auto
+2026-08-14 06:53:39.438 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 07:03:38.971 [info] [Copilot] Listing models...
+2026-08-14 07:03:39.280 [info] [Claude] Models refreshed. Count: 0, 
+2026-08-14 07:03:39.286 [info] [Copilot] Found 1 models: Auto

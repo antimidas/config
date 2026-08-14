@@ -1,2 +1,3 @@
-2026/08/03-04:59:48.464 2211e Creating DB /home/anti/.config/Code/Session Storage since it was missing.
-2026/08/03-04:59:48.471 2211e Reusing MANIFEST /home/anti/.config/Code/Session Storage/MANIFEST-000001
+2026/08/14-05:53:30.571 aa79a Reusing MANIFEST /home/anti/.config/Code/Session Storage/MANIFEST-000001
+2026/08/14-05:53:30.571 aa79a Recovering log #3
+2026/08/14-05:53:30.571 aa79a Reusing old log /home/anti/.config/Code/Session Storage/000003.log 

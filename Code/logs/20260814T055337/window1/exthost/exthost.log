@@ -1,0 +1,58 @@
+2026-08-14 05:53:38.845 [info] Extension host with pid 735882 started
+2026-08-14 05:53:38.845 [info] Skipping acquiring lock for /home/anti/.config/Code/User/workspaceStorage/cc677389c16b7cdda8f9fba9afc64579.
+2026-08-14 05:53:38.887 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-14 05:53:38.903 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-14 05:53:38.973 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-08-14 05:53:39.221 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-08-14 05:53:39.247 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-14 05:53:39.284 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatSession:copilotcli'
+2026-08-14 05:53:39.755 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-08-14 05:53:39.886 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-08-14 05:53:40.046 [info] Eager extensions activated
+2026-08-14 05:53:40.074 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:53:40.075 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:53:40.084 [info] ExtensionService#_doActivateExtension cgaspard.lmstudio-code, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:53:40.087 [info] ExtensionService#_doActivateExtension ZiCorpLLC.lmstudio-copilot, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:53:40.387 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at XHt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:76524)
+2026-08-14 05:54:13.064 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:54:13.069 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:54:13.116 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:54:24.410 [info] Extension host terminating: received terminate message from renderer
+2026-08-14 05:54:24.425 [info] Extension host with pid 735882 exiting with code 0
+2026-08-14 05:54:24.783 [info] Extension host with pid 736880 started
+2026-08-14 05:54:24.783 [info] Skipping acquiring lock for /home/anti/.config/Code/User/workspaceStorage/cc677389c16b7cdda8f9fba9afc64579.
+2026-08-14 05:54:24.791 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-08-14 05:54:24.825 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-14 05:54:24.836 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-14 05:54:24.848 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatSession:copilotcli'
+2026-08-14 05:54:25.309 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-08-14 05:54:25.444 [info] ExtensionService#_doActivateExtension ZiCorpLLC.lmstudio-copilot, startup: false, activationEvent: 'onView:lmStudioCopilot.chatView'
+2026-08-14 05:54:25.469 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:54:25.472 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:54:25.514 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-14 05:54:25.619 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-08-14 05:54:25.709 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2026-08-14 05:54:25.798 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-14 05:54:25.816 [info] Eager extensions activated
+2026-08-14 05:54:25.869 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:54:25.870 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 05:54:26.025 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at XHt.$registerAgent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1076:76524)
+2026-08-14 05:54:27.132 [info] ExtensionService#_doActivateExtension cgaspard.lmstudio-code, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 06:12:54.628 [info] ExtensionService#_doActivateExtension DanLambiase.lmstudio-copilot-provider, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 06:13:41.029 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-08-14 06:13:41.040 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2026-08-14 06:51:59.528 [info] ExtensionService#_doActivateExtension namdang.ollama-copilot-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 06:52:50.290 [info] ExtensionService#_doActivateExtension Ollama.ollama, startup: false, activationEvent: 'onStartupFinished'
+2026-08-14 06:52:50.327 [error] Activating extension Ollama.ollama failed due to an error:
+2026-08-14 06:52:50.327 [error] Error: command 'ollama.refreshModels' already exists
+	at jg.registerCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:535:47383)
+	at Object.registerCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:673:137688)
+	at activate (/home/anti/.vscode/extensions/ollama.ollama-0.0.8/out/extension.js:48:135)
+	at rc._callActivateOptional (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:19039)
+	at rc._callActivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:18749)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:539:16723
+	at async fy._activate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:535:16021)
+	at async fy._waitForDepsThenActivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:535:15963)
+	at async fy._initialize (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:535:15330)
